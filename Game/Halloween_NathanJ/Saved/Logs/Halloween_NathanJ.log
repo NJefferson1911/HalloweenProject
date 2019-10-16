@@ -844,3 +844,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.16-01.12.45:104][185]LogEditorActor: Deleted 1 Actors (0.035 secs)
 [2019.10.16-01.12.55:318][798]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
 [2019.10.16-01.12.58:481][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.13.46:586][930]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.16-01.14.12:633][395]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.10.16-01.14.46:089][392]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.10.16-01.15.14:812][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.15.17:525][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.15.28:325][920]Cmd: DELETE
+[2019.10.16-01.15.28:325][920]Cmd: ACTOR DELETE
+[2019.10.16-01.15.28:366][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.10.16-01.15.28:366][920]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2019.10.16-01.15.29:300][976]Cmd: DELETE
+[2019.10.16-01.15.29:300][976]Cmd: ACTOR DELETE
+[2019.10.16-01.15.29:342][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.10.16-01.15.29:343][976]LogEditorActor: Deleted 0 Actors (0.043 secs)
+[2019.10.16-01.15.30:805][ 64]Cmd: DELETE
+[2019.10.16-01.15.30:805][ 64]Cmd: ACTOR DELETE
+[2019.10.16-01.15.30:839][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.16-01.15.30:839][ 64]LogEditorActor: Deleted 0 Actors (0.035 secs)
