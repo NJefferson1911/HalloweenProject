@@ -828,3 +828,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 30
 [2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 20
 [2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.16-01.11.59:019][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.12.00:860][597]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.10.16-01.12.04:863][825]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (AtmosphericFog)
+[2019.10.16-01.12.15:220][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.12.25:595][ 44]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.10.16-01.12.28:386][203]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.10.16-01.12.36:697][693]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.10.16-01.12.39:843][879]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.10.16-01.12.43:061][ 67]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2019.10.16-01.12.45:069][185]Cmd: DELETE
+[2019.10.16-01.12.45:069][185]Cmd: ACTOR DELETE
+[2019.10.16-01.12.45:071][185]LogEditorActor: Deleted Actor: PlayerStart
+[2019.10.16-01.12.45:104][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.16-01.12.45:104][185]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.10.16-01.12.55:318][798]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.10.16-01.12.58:481][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
