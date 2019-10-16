@@ -1488,3 +1488,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.16-01.52.28:698][186]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.276
 [2019.10.16-01.52.34:539][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.16-01.52.34:626][541]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Shared/Editor/MapErrors/index.html?utm_source=editor&utm_medium=docs&utm_campaign=msg_log
+[2019.10.16-01.54.16:802][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.55.11:113][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.55.17:069][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.16-01.55.17:109][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.10.16-01.55.17:329][250]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map61C6B0324C3CC55A27BF70B8E7AE7906.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.16-01.55.17:353][250]LogFileHelpers: Saving map 'Halloween_Map' took 0.266
+[2019.10.16-01.55.17:356][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.16-01.55.17:432][250]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_BuiltData47424CCE427C570DEB1448963DAA32B5.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.16-01.55.17:441][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.16-01.55.17:496][250]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_BuiltData178F5C84417A5A61AD980283EA095D8B.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset'
