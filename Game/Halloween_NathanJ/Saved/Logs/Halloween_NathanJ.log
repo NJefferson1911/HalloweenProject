@@ -861,3 +861,80 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.16-01.15.30:805][ 64]Cmd: ACTOR DELETE
 [2019.10.16-01.15.30:839][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2019.10.16-01.15.30:839][ 64]LogEditorActor: Deleted 0 Actors (0.035 secs)
+[2019.10.16-01.17.27:137][729]MapCheck: New page: Map Check
+[2019.10.16-01.17.27:148][729]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.16-01.17.27:149][729]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.16-01.17.27:431][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.16-01.17.27:458][729]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.16-01.17.27:471][729]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.16-01.17.27:480][729]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.16-01.17.27:494][729]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.16-01.17.27:510][729]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.16-01.17.28:511][729]TextureStreamingBuild: Display: Compiling optional shaders took 1.064 seconds.
+[2019.10.16-01.17.28:522][729]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2019.10.16-01.17.28:540][729]TextureStreamingBuild: Display: Build Texture Streaming took 0.017 seconds.
+[2019.10.16-01.17.28:569][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.10.16-01.17.28:575][729]LightingResults: New page: Lighting Build - Oct 15, 2019, 3:17:28 PM
+[2019.10.16-01.17.28:815][729]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.16-01.17.29:121][729]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.16-01.17.29:187][729]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.16-01.17.30:227][729]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.16-01.17.30:227][729]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11848
+[2019.10.16-01.17.37:284][729]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.16-01.17.37:284][729]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.16-01.17.37:284][729]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.16-01.17.37:284][729]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.16-01.17.37:284][729]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.16-01.17.37:563][729]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.16-01.17.37:563][729]MapCheck: New page: Halloween_Map - Oct 15, 2019, 3:17:37 PM
+[2019.10.16-01.17.37:565][729]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.10.16-01.17.37:567][729]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 3.732ms to complete.
+[2019.10.16-01.17.37:591][729]LogEditorBuildUtils: Build time 0:10
+[2019.10.16-01.17.37:681][730]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2019.10.16-01.17.37:693][730]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2019.10.16-01.17.39:282][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.16-01.17.48:903][790]Job is a success!
+[2019.10.16-01.17.49:557][791]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.249s
+[2019.10.16-01.17.49:557][791]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2019.10.16-01.17.49:557][791]LogVolumetricLightmapImport:      BrickData 1280x20x5 = 5.0Mb
+[2019.10.16-01.17.49:557][791]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.16-01.17.49:557][791]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2019.10.16-01.17.49:557][791]LogVolumetricLightmapImport:          1: 7.1% covering 3.6% of volume
+[2019.10.16-01.17.49:557][791]LogVolumetricLightmapImport:          2: 89.9% covering 0.7% of volume
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 128X64)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X64)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2019.10.16-01.17.49:721][791]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2019.10.16-01.17.49:722][791]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 128X64)
+[2019.10.16-01.17.49:722][791]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2019.10.16-01.17.49:784][791]Lightmass on 0NE5IVESE7EN: 9.78 sec total, 216 ms importing, 91 ms setup, 1.24 sec photons, 8.11 sec processing, 0 ms extra exporting [13/13 mappings]. Threads: 56.6 sec total, 4.21 sec processing.
+[2019.10.16-01.17.49:786][791]LogStaticLightingSystem: Halloween_Map_BuiltData storing lightmap data for 13 meshes in 5 LightmapResourceClusters (2.6 Meshes per cluster).
+[2019.10.16-01.17.49:849][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.10.16-01.17.49:856][791]LogStaticLightingSystem: Illumination: 20.9 sec (85 ms encoding lightmaps, 48 ms encoding shadowmaps)
+[2019.10.16-01.17.49:857][791]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.6 MB streaming, 0.0 MB non-streaming), 10 textures
+[2019.10.16-01.17.49:857][791]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 5 textures
+[2019.10.16-01.17.50:290][791]DumpUnbuiltLightIteractions
+[2019.10.16-01.17.50:290][791]Lights with unbuilt interactions: 0
+[2019.10.16-01.17.50:290][791]
+[2019.10.16-01.17.50:290][791]Primitives with unbuilt interactions: 0
+[2019.10.16-01.17.50:370][792]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.16-01.17.50:370][792]MapCheck: New page: Halloween_Map - Oct 15, 2019, 3:17:50 PM
+[2019.10.16-01.17.50:371][792]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.446ms to complete.
+[2019.10.16-01.17.56:550][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.16-01.17.56:835][892]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto21249D5DB42A9EAC305AC629185F26221.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto2.umap'
+[2019.10.16-01.17.56:842][892]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.319
+[2019.10.16-01.17.56:842][892]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.319
