@@ -808,3 +808,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.16-01.07.57:008][755]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto1578A2EB545E4D08A7907E7B6D0246310.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto1.umap'
 [2019.10.16-01.07.57:014][755]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.210
 [2019.10.16-01.07.57:014][755]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.210
+[2019.10.16-01.08.31:486][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.08.32:170][956]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.10.16-01.08.53:228][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.09.04:036][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.09.45:731][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.09.51:154][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.10.33:640][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.16-01.10.33:748][851]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2019.10.16-01.10.33:757][851]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.16-01.10.42:334][851]LogShaderCompilers: Display: Shaders left to compile 10
