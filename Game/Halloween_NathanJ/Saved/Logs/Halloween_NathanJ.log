@@ -577,3 +577,342 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.19-17.04.21:577][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.10.19-17.04.28:850][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.10.19-17.04.36:741][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-17.32.43:440][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.33.47:160][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor2)
+[2019.10.19-17.33.56:403][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.34.09:056][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.34.14:975][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_17)
+[2019.10.19-17.34.46:407][261]Cmd: SELECT NONE
+[2019.10.19-17.34.52:291][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_18)
+[2019.10.19-17.35.13:017][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.35.13:050][855]LogSlate: Took 0.010649 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.19-17.35.34:882][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.35.43:193][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall12)
+[2019.10.19-17.36.39:337][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall12)
+[2019.10.19-17.36.48:502][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster22)
+[2019.10.19-17.36.53:208][832]Cmd: TRANSACTION UNDO
+[2019.10.19-17.36.53:208][832]LogEditorTransaction: Undo Move Actors
+[2019.10.19-17.36.53:228][832]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.19-17.36.54:855][930]Cmd: TRANSACTION UNDO
+[2019.10.19-17.36.54:855][930]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.19-17.36.55:331][956]Cmd: TRANSACTION UNDO
+[2019.10.19-17.36.55:331][956]LogEditorTransaction: Undo Move Actors
+[2019.10.19-17.36.56:382][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster22)
+[2019.10.19-17.36.58:852][165]Cmd: TRANSACTION UNDO
+[2019.10.19-17.36.58:852][165]LogEditorTransaction: Undo Move Actors
+[2019.10.19-17.37.02:398][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall16)
+[2019.10.19-17.37.32:844][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster29)
+[2019.10.19-17.37.44:387][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor3)
+[2019.10.19-17.38.37:200][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster29)
+[2019.10.19-17.39.08:990][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar3)
+[2019.10.19-17.39.54:802][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster25)
+[2019.10.19-17.40.10:396][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster31)
+[2019.10.19-17.40.25:897][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster27)
+[2019.10.19-17.40.43:892][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster31)
+[2019.10.19-17.41.01:555][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster32)
+[2019.10.19-17.41.02:249][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster28)
+[2019.10.19-17.41.05:181][887]Cmd: TRANSACTION UNDO
+[2019.10.19-17.41.05:181][887]LogEditorTransaction: Undo Move Actors
+[2019.10.19-17.41.05:628][913]Cmd: TRANSACTION UNDO
+[2019.10.19-17.41.05:629][913]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.19-17.41.07:757][ 39]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall_Plaster28)
+[2019.10.19-17.41.20:244][785]Cmd: SELECT NONE
+[2019.10.19-17.41.28:532][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster32)
+[2019.10.19-17.41.38:278][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster28)
+[2019.10.19-17.41.41:860][ 77]Cmd: SELECT NONE
+[2019.10.19-17.41.49:095][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster32)
+[2019.10.19-17.42.39:100][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.42.43:489][765]Cmd: SELECT NONE
+[2019.10.19-17.42.48:375][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster34)
+[2019.10.19-17.43.05:936][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-17.43.07:088][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor4)
+[2019.10.19-17.43.11:117][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-17.43.16:266][  0]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor4)
+[2019.10.19-17.43.26:447][543]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-17.43.33:407][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster34)
+[2019.10.19-17.43.37:903][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster33)
+[2019.10.19-17.43.41:562][426]Cmd: SELECT NONE
+[2019.10.19-17.43.49:266][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster35)
+[2019.10.19-17.43.50:277][947]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall_Plaster34)
+[2019.10.19-17.43.51:106][995]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall_Plaster33)
+[2019.10.19-17.43.52:280][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall_Plaster33)
+[2019.10.19-17.43.53:096][109]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall_Plaster36)
+[2019.10.19-17.44.08:030][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster35)
+[2019.10.19-17.44.09:189][ 70]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall_Plaster34)
+[2019.10.19-17.44.26:630][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.44.26:738][120]LogStaticMesh: Building static mesh SM_Dungeon_Wall_Half...
+[2019.10.19-17.44.26:769][120]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall_Half.SM_Dungeon_Wall_Half
+[2019.10.19-17.44.26:999][133]LogActorFactory: Actor Factory created SM_Dungeon_Wall_Half
+[2019.10.19-17.44.28:010][193]LogActorFactory: Actor Factory created SM_Dungeon_Wall_Half
+[2019.10.19-17.44.47:465][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster34)
+[2019.10.19-17.44.48:445][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster35)
+[2019.10.19-17.44.53:229][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall_Half)
+[2019.10.19-17.44.54:356][765]Cmd: DELETE
+[2019.10.19-17.44.54:356][765]Cmd: ACTOR DELETE
+[2019.10.19-17.44.54:366][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.44.54:392][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.19-17.44.54:392][765]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.10.19-17.44.56:093][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.45.02:257][235]LogStaticMesh: Building static mesh SM_Crypt_Wall_Half...
+[2019.10.19-17.45.02:270][235]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Half.SM_Crypt_Wall_Half
+[2019.10.19-17.45.02:414][243]LogActorFactory: Actor Factory created SM_Crypt_Wall_Half
+[2019.10.19-17.45.03:300][296]LogActorFactory: Actor Factory created SM_Crypt_Wall_Half
+[2019.10.19-17.45.19:394][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster35)
+[2019.10.19-17.45.20:376][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Half)
+[2019.10.19-17.45.21:375][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster35)
+[2019.10.19-17.45.22:290][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Half)
+[2019.10.19-17.45.29:741][869]Cmd: SELECT NONE
+[2019.10.19-17.45.36:197][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar4)
+[2019.10.19-17.45.50:648][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.46.00:039][678]Cmd: SELECT NONE
+[2019.10.19-17.46.08:025][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.46.08:268][170]LogActorFactory: Actor Factory created SM_Crypt_Wall_Floor_Trim
+[2019.10.19-17.46.09:304][232]LogActorFactory: Actor Factory created SM_Crypt_Wall_Floor_Trim
+[2019.10.19-17.46.16:022][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor5)
+[2019.10.19-17.46.16:804][678]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.19-17.46.16:860][678]LogSlate: Took 0.017279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.10.19-17.46.17:716][730]Cmd: SELECT NONE
+[2019.10.19-17.46.19:019][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Floor_Trim)
+[2019.10.19-17.46.19:869][857]Cmd: DELETE
+[2019.10.19-17.46.19:869][857]Cmd: ACTOR DELETE
+[2019.10.19-17.46.19:872][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.46.19:895][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.10.19-17.46.19:895][857]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.10.19-17.46.21:422][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar6)
+[2019.10.19-17.46.22:272][998]Cmd: DELETE
+[2019.10.19-17.46.22:272][998]Cmd: ACTOR DELETE
+[2019.10.19-17.46.22:275][998]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.46.22:297][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.10.19-17.46.22:297][998]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.19-17.46.26:325][240]Cmd: TRANSACTION UNDO
+[2019.10.19-17.46.26:325][240]LogEditorTransaction: Undo Delete Actors
+[2019.10.19-17.46.35:037][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.46.36:979][874]LogActorFactory: Actor Factory created SM_Dungeon_Wall_Half
+[2019.10.19-17.46.38:550][968]LogActorFactory: Actor Factory created SM_Dungeon_Wall_Half
+[2019.10.19-17.46.39:203][  7]LogActorFactory: Actor Factory created SM_Dungeon_Wall_Half
+[2019.10.19-17.46.47:016][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster36)
+[2019.10.19-17.46.49:045][594]Cmd: DELETE
+[2019.10.19-17.46.49:045][594]Cmd: ACTOR DELETE
+[2019.10.19-17.46.49:048][594]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.46.49:080][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.10.19-17.46.49:080][594]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.10.19-17.46.49:672][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster33)
+[2019.10.19-17.46.49:833][638]Cmd: DELETE
+[2019.10.19-17.46.49:834][638]Cmd: ACTOR DELETE
+[2019.10.19-17.46.49:838][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.46.49:870][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.19-17.46.49:871][638]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.10.19-17.46.50:766][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster35)
+[2019.10.19-17.46.50:959][702]Cmd: DELETE
+[2019.10.19-17.46.50:960][702]Cmd: ACTOR DELETE
+[2019.10.19-17.46.50:962][702]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.46.50:986][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.19-17.46.50:987][702]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.10.19-17.46.51:493][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster34)
+[2019.10.19-17.46.51:736][746]Cmd: DELETE
+[2019.10.19-17.46.51:736][746]Cmd: ACTOR DELETE
+[2019.10.19-17.46.51:739][746]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.46.51:763][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.10.19-17.46.51:763][746]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.10.19-17.46.54:038][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Half2)
+[2019.10.19-17.46.54:973][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Pillar6)
+[2019.10.19-17.46.56:107][  3]Cmd: DELETE
+[2019.10.19-17.46.56:107][  3]Cmd: ACTOR DELETE
+[2019.10.19-17.46.56:110][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.46.56:130][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2019.10.19-17.46.56:131][  3]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.10.19-17.46.56:873][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Half)
+[2019.10.19-17.46.57:603][ 90]Cmd: DELETE
+[2019.10.19-17.46.57:603][ 90]Cmd: ACTOR DELETE
+[2019.10.19-17.46.57:606][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.46.57:630][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.19-17.46.57:631][ 90]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.10.19-17.46.58:297][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall_Half)
+[2019.10.19-17.47.08:549][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Half2)
+[2019.10.19-17.47.10:184][838]Cmd: DELETE
+[2019.10.19-17.47.10:184][838]Cmd: ACTOR DELETE
+[2019.10.19-17.47.10:187][838]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.47.10:212][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.10.19-17.47.10:213][838]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.10.19-17.47.17:347][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall_Half)
+[2019.10.19-17.47.40:407][646]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor8)
+[2019.10.19-17.47.41:088][685]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor9)
+[2019.10.19-17.47.41:594][714]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor6)
+[2019.10.19-17.47.42:053][740]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor4)
+[2019.10.19-17.47.42:531][767]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor5)
+[2019.10.19-17.47.43:021][795]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor7)
+[2019.10.19-17.48.03:230][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall_Half)
+[2019.10.19-17.48.04:731][ 93]Cmd: TRANSACTION UNDO
+[2019.10.19-17.48.04:731][ 93]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.19-17.48.56:295][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster31)
+[2019.10.19-17.48.59:251][354]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dungeon_Wall_Half)
+[2019.10.19-17.49.16:687][396]Cmd: SELECT NONE
+[2019.10.19-17.49.24:172][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall_Half)
+[2019.10.19-17.49.49:768][376]Cmd: SELECT NONE
+[2019.10.19-17.49.53:838][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster32)
+[2019.10.19-17.49.54:789][675]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall_Plaster28)
+[2019.10.19-17.50.00:902][ 39]Cmd: SELECT NONE
+[2019.10.19-17.50.10:706][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall_Half2)
+[2019.10.19-17.50.20:681][222]Cmd: TRANSACTION UNDO
+[2019.10.19-17.50.20:681][222]LogEditorTransaction: Undo Move Actors
+[2019.10.19-17.50.21:166][251]Cmd: TRANSACTION UNDO
+[2019.10.19-17.50.21:166][251]LogEditorTransaction: Undo Rotate Actors
+[2019.10.19-17.50.22:784][347]Cmd: TRANSACTION UNDO
+[2019.10.19-17.50.22:784][347]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.19-17.50.59:215][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.50.59:452][544]LogActorFactory: Actor Factory created SM_Dungeon_Wall
+[2019.10.19-17.51.02:121][704]LogActorFactory: Actor Factory created SM_Dungeon_Wall
+[2019.10.19-17.51.03:087][762]LogActorFactory: Actor Factory created SM_Dungeon_Wall
+[2019.10.19-17.51.04:596][851]Cmd: TRANSACTION UNDO
+[2019.10.19-17.51.04:596][851]LogEditorTransaction: Undo Create Actors
+[2019.10.19-17.51.05:582][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.51.07:683][ 35]LogActorFactory: Actor Factory created SM_Dungeon_Wall
+[2019.10.19-17.51.08:136][ 62]LogActorFactory: Actor Factory created SM_Dungeon_Wall
+[2019.10.19-17.51.26:249][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.51.27:595][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall_Half)
+[2019.10.19-17.51.32:688][528]Cmd: SELECT NONE
+[2019.10.19-17.51.41:858][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall_Half)
+[2019.10.19-17.51.45:232][278]Cmd: SELECT NONE
+[2019.10.19-17.51.55:735][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor5)
+[2019.10.19-17.51.59:140][110]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor7)
+[2019.10.19-17.52.00:085][165]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor6)
+[2019.10.19-17.52.00:729][202]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor4)
+[2019.10.19-17.52.01:523][248]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor9)
+[2019.10.19-17.52.02:811][323]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor8)
+[2019.10.19-17.52.04:286][408]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor5)
+[2019.10.19-17.52.21:467][435]Cmd: SELECT NONE
+[2019.10.19-17.52.42:458][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall)
+[2019.10.19-17.53.09:861][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.53.10:072][339]LogActorFactory: Actor Factory created SM_Floor
+[2019.10.19-17.53.12:148][462]LogActorFactory: Actor Factory created SM_Floor
+[2019.10.19-17.53.19:418][896]Cmd: TRANSACTION UNDO
+[2019.10.19-17.53.19:418][896]LogEditorTransaction: Undo Move Actors
+[2019.10.19-17.53.20:353][952]Cmd: TRANSACTION UNDO
+[2019.10.19-17.53.20:353][952]LogEditorTransaction: Undo Create Actors
+[2019.10.19-17.53.21:336][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.53.23:596][142]LogActorFactory: Actor Factory created SM_Floor
+[2019.10.19-17.53.25:018][227]LogActorFactory: Actor Factory created SM_Floor
+[2019.10.19-17.53.28:269][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor8)
+[2019.10.19-17.53.29:618][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2019.10.19-17.53.40:602][156]Cmd: DELETE
+[2019.10.19-17.53.40:602][156]Cmd: ACTOR DELETE
+[2019.10.19-17.53.40:605][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.53.40:628][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.10.19-17.53.40:628][156]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.10.19-17.53.45:042][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.53.55:963][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall2)
+[2019.10.19-17.54.14:042][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster28)
+[2019.10.19-17.54.14:773][196]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall_Plaster32)
+[2019.10.19-17.54.15:533][240]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dungeon_Wall_Half2)
+[2019.10.19-17.54.23:835][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall)
+[2019.10.19-17.54.29:774][ 87]Cmd: TRANSACTION UNDO
+[2019.10.19-17.54.29:775][ 87]LogEditorTransaction: Undo Move Actors
+[2019.10.19-17.54.42:111][821]Cmd: SELECT NONE
+[2019.10.19-17.55.02:585][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.55.02:857][ 65]LogActorFactory: Actor Factory created SM_Crypt_Doorway
+[2019.10.19-17.55.04:741][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-17.55.20:547][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor8)
+[2019.10.19-17.55.22:681][251]Cmd: DELETE
+[2019.10.19-17.55.22:681][251]Cmd: ACTOR DELETE
+[2019.10.19-17.55.22:685][251]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.55.22:708][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.10.19-17.55.22:708][251]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.10.19-17.55.22:950][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor9)
+[2019.10.19-17.55.23:127][275]Cmd: DELETE
+[2019.10.19-17.55.23:127][275]Cmd: ACTOR DELETE
+[2019.10.19-17.55.23:130][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.55.23:152][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.10.19-17.55.23:153][275]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.19-17.55.23:565][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor6)
+[2019.10.19-17.55.23:714][307]Cmd: DELETE
+[2019.10.19-17.55.23:714][307]Cmd: ACTOR DELETE
+[2019.10.19-17.55.23:717][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.55.23:741][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.19-17.55.23:742][307]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.10.19-17.55.24:154][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor7)
+[2019.10.19-17.55.24:298][339]Cmd: DELETE
+[2019.10.19-17.55.24:298][339]Cmd: ACTOR DELETE
+[2019.10.19-17.55.24:301][339]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.55.24:323][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.19-17.55.24:324][339]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.10.19-17.55.24:686][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor5)
+[2019.10.19-17.55.24:778][365]Cmd: DELETE
+[2019.10.19-17.55.24:778][365]Cmd: ACTOR DELETE
+[2019.10.19-17.55.24:781][365]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.55.24:803][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.10.19-17.55.24:804][365]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.10.19-17.55.25:235][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor4)
+[2019.10.19-17.55.25:344][396]Cmd: DELETE
+[2019.10.19-17.55.25:344][396]Cmd: ACTOR DELETE
+[2019.10.19-17.55.25:346][396]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-17.55.25:370][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.10.19-17.55.25:370][396]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.10.19-17.55.30:065][678]Cmd: TRANSACTION UNDO
+[2019.10.19-17.55.30:065][678]LogEditorTransaction: Undo Delete Actors
+[2019.10.19-17.55.33:533][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-17.56.00:339][484]Cmd: SELECT NONE
+[2019.10.19-17.56.01:125][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor4)
+[2019.10.19-17.56.24:774][944]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Floor4)
+[2019.10.19-17.56.33:716][474]Cmd: SELECT NONE
+[2019.10.19-17.56.37:401][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall4)
+[2019.10.19-17.56.39:966][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall_Half2)
+[2019.10.19-17.56.42:471][994]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall_Plaster32)
+[2019.10.19-17.56.43:021][ 25]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall_Plaster28)
+[2019.10.19-17.56.45:638][180]Cmd: SELECT NONE
+[2019.10.19-17.56.54:073][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall2)
+[2019.10.19-17.56.55:848][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall3)
+[2019.10.19-17.56.56:831][847]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dungeon_Wall2)
+[2019.10.19-17.57.03:178][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.19-17.57.29:879][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.19-17.57.30:208][822]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto16A047CC34C60BE4026E7609037C0F808.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto1.umap'
+[2019.10.19-17.57.30:217][822]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.362
+[2019.10.19-17.57.30:217][822]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.362
+[2019.10.19-17.58.28:308][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall)
+[2019.10.19-17.58.31:645][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall_Half)
+[2019.10.19-17.58.59:036][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall)
+[2019.10.19-17.59.00:068][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.59.03:825][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.59.18:652][313]Cmd: SELECT NONE
+[2019.10.19-17.59.20:468][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall)
+[2019.10.19-17.59.22:065][516]Cmd: SELECT NONE
+[2019.10.19-17.59.28:950][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall)
+[2019.10.19-17.59.30:131][998]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dungeon_Wall_Half3)
+[2019.10.19-17.59.31:582][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.59.35:170][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-17.59.36:923][401]Cmd: SELECT NONE
+[2019.10.19-17.59.41:524][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall5)
+[2019.10.19-17.59.42:187][715]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dungeon_Wall6)
+[2019.10.19-17.59.42:713][745]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dungeon_Wall7)
+[2019.10.19-17.59.43:239][775]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dungeon_Wall8)
+[2019.10.19-17.59.51:686][279]Cmd: SELECT NONE
+[2019.10.19-17.59.56:173][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall5)
+[2019.10.19-17.59.57:000][596]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dungeon_Wall6)
+[2019.10.19-17.59.57:696][636]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dungeon_Wall7)
+[2019.10.19-17.59.58:874][705]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dungeon_Wall8)
+[2019.10.19-18.00.00:051][774]Cmd: DELETE
+[2019.10.19-18.00.00:052][774]Cmd: ACTOR DELETE
+[2019.10.19-18.00.00:055][774]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-18.00.00:055][774]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-18.00.00:055][774]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-18.00.00:055][774]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-18.00.00:079][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.10.19-18.00.00:080][774]LogEditorActor: Deleted 4 Actors (0.028 secs)
+[2019.10.19-18.00.05:299][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-18.00.12:434][497]LogActorFactory: Actor Factory created SM_Dungeon_Wall
+[2019.10.19-18.00.14:385][614]LogActorFactory: Actor Factory created SM_Dungeon_Wall
+[2019.10.19-18.00.39:475][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall9)
+[2019.10.19-18.00.47:523][586]Cmd: SELECT NONE
+[2019.10.19-18.00.49:089][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall11)
+[2019.10.19-18.00.52:210][865]Cmd: SELECT NONE
+[2019.10.19-18.00.57:144][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall11)
+[2019.10.19-18.01.03:311][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-18.01.06:317][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-18.01.09:152][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall9)
+[2019.10.19-18.01.11:474][ 13]Cmd: DELETE
+[2019.10.19-18.01.11:474][ 13]Cmd: ACTOR DELETE
+[2019.10.19-18.01.11:478][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.19-18.01.11:506][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.10.19-18.01.11:507][ 13]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.10.19-18.01.14:318][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.19-18.01.14:616][198]LogActorFactory: Actor Factory created SM_DoorWay
+[2019.10.19-18.01.18:436][427]LogActorFactory: Actor Factory created SM_DoorWay
