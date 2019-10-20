@@ -876,3 +876,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.20-20.42.43:412][115]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map43B9FFF74DD3576C232BB0AE3875B590.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
 [2019.10.20-20.42.43:501][115]LogFileHelpers: Saving map 'Halloween_Map' took 0.741
 [2019.10.20-20.42.43:553][115]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/BP_Torch8591E598496F3AC005B1FBAD3AC97639.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/MedievalDungeon/Blueprints/BP_Torch.uasset'
+[2019.10.20-20.44.39:727][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.44.39:903][354]LogActorFactory: Actor Factory created SM_Decor_Chains_A
+[2019.10.20-20.44.43:566][573]LogActorFactory: Actor Factory created SM_Decor_Chains_A
+[2019.10.20-20.45.19:913][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.45.19:980][742]Cmd: MODE ROTGRID=0
+[2019.10.20-20.45.26:177][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.45.26:243][117]Cmd: MODE ROTGRID=1
+[2019.10.20-20.45.27:066][166]Cmd: SELECT NONE
+[2019.10.20-20.45.32:605][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Decor_Chains_A)
+[2019.10.20-20.45.36:843][748]Cmd: SELECT NONE
+[2019.10.20-20.45.52:087][662]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch2)
+[2019.10.20-20.46.23:415][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.46.37:451][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.46.43:969][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall_Plaster28)
+[2019.10.20-20.46.55:702][407]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch10)
+[2019.10.20-20.47.11:042][319]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.10.20-20.47.12:431][400]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Chandalier_C (BP_Chandalier)
+[2019.10.20-20.47.59:239][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling_Flat)
+[2019.10.20-20.48.03:609][411]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2019.10.20-20.48.04:263][448]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Chandalier_C (BP_Chandalier2)
+[2019.10.20-20.48.07:014][610]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling_Flat)
+[2019.10.20-20.48.08:871][719]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2019.10.20-20.48.09:627][762]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Chandalier_C (BP_Chandalier2)
+[2019.10.20-20.48.11:643][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling_Flat)
+[2019.10.20-20.48.16:243][153]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2019.10.20-20.48.16:952][193]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Chandalier_C (BP_Chandalier2)
+[2019.10.20-20.48.19:241][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling_Flat)
+[2019.10.20-20.48.20:298][388]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2019.10.20-20.48.21:972][485]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Chandalier_C (BP_Chandalier2)
+[2019.10.20-20.48.24:355][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ceiling_Flat)
+[2019.10.20-20.48.27:925][836]Cmd: SELECT NONE
+[2019.10.20-20.48.30:696][  2]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2019.10.20-20.49.13:619][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.49.20:886][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.49.29:408][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.49.45:567][460]Cmd: SELECT NONE
+[2019.10.20-20.49.58:451][224]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.20-20.50.00:242][329]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Candle_Holder_C (BP_Candle_Holder)
+[2019.10.20-20.50.33:930][283]Cmd: SELECT NONE
+[2019.10.20-20.50.46:730][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.10.20-20.50.46:736][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.20-20.50.46:773][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.20-20.50.47:469][ 43]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map89C197724625FD2D6BEEF98376BF7112.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.20-20.50.47:497][ 43]LogFileHelpers: Saving map 'Halloween_Map' took 0.755
