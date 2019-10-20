@@ -920,3 +920,99 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.20-20.50.46:773][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2019.10.20-20.50.47:469][ 43]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map89C197724625FD2D6BEEF98376BF7112.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
 [2019.10.20-20.50.47:497][ 43]LogFileHelpers: Saving map 'Halloween_Map' took 0.755
+[2019.10.20-20.51.26:174][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.51.31:364][854]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.51.39:371][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.51.42:161][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.51.46:851][763]Cmd: TRANSACTION UNDO
+[2019.10.20-20.51.46:851][763]LogEditorTransaction: Undo Create Actors
+[2019.10.20-20.51.47:320][787]Cmd: TRANSACTION UNDO
+[2019.10.20-20.51.47:320][787]LogEditorTransaction: Undo Create Actors
+[2019.10.20-20.51.49:630][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.51.54:162][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.51.57:347][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.51.58:689][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.52.00:263][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.52.03:718][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.52.05:949][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.52.11:586][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.52.14:544][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.52.17:901][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.52.23:136][905]Cmd: SELECT NONE
+[2019.10.20-20.52.27:838][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.52.31:793][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.52.32:977][489]Cmd: MODE GRID=0
+[2019.10.20-20.52.37:773][775]LogEditorViewport: Clicking on Actor (LMB): BP_Candle_Used_B_C (BP_Candle_Used_B7)
+[2019.10.20-20.52.40:155][915]LogEditorViewport: Clicking on Actor (LMB): BP_CandleHolder_Bronze_C (BP_CandleHolder_Bronze)
+[2019.10.20-20.52.42:769][ 69]LogEditorViewport: Clicking on Actor (LMB): BP_Candle_Used_C_C (BP_Candle_Used_C4)
+[2019.10.20-20.52.44:883][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall3)
+[2019.10.20-20.52.45:796][245]LogEditorViewport: Clicking on Actor (LMB): BP_Candle_Used_C_C (BP_Candle_Used_C5)
+[2019.10.20-20.52.47:695][356]LogEditorViewport: Clicking on Actor (LMB): BP_CandleHolder_Iron_C (BP_CandleHolder_Iron)
+[2019.10.20-20.52.50:899][545]LogEditorViewport: Clicking on Actor (LMB): BP_CandleStick_Iron_C (BP_CandleStick_Iron)
+[2019.10.20-20.52.52:715][651]LogEditorViewport: Clicking on Actor (LMB): BP_CandleStick_Bronze_C (BP_CandleStick_Bronze)
+[2019.10.20-20.52.54:711][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall3)
+[2019.10.20-20.52.55:430][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall3)
+[2019.10.20-20.52.55:998][841]LogEditorViewport: Clicking on Actor (LMB): BP_Candle_Used_A_C (BP_Candle_Used_A6)
+[2019.10.20-20.52.59:670][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.53.03:250][270]Cmd: SELECT NONE
+[2019.10.20-20.53.10:048][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.53.13:308][871]Cmd: TRANSACTION UNDO
+[2019.10.20-20.53.13:308][871]LogEditorTransaction: Undo Create Actors
+[2019.10.20-20.53.27:786][734]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2019.10.20-20.53.31:566][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.53.41:645][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.53.52:171][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.54.40:665][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.54.45:595][294]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2019.10.20-20.54.47:117][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.54.53:302][746]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2019.10.20-20.54.54:470][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.55.07:153][568]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch12)
+[2019.10.20-20.55.34:412][125]Cmd: TRANSACTION UNDO
+[2019.10.20-20.55.34:412][125]LogEditorTransaction: Undo Move Actors
+[2019.10.20-20.55.35:028][160]Cmd: TRANSACTION UNDO
+[2019.10.20-20.55.35:028][160]LogEditorTransaction: Undo Rotate Actors
+[2019.10.20-20.55.35:625][195]Cmd: TRANSACTION UNDO
+[2019.10.20-20.55.35:625][195]LogEditorTransaction: Undo Move Actors
+[2019.10.20-20.55.36:738][260]Cmd: TRANSACTION UNDO
+[2019.10.20-20.55.36:738][260]LogEditorTransaction: Undo Move Actors
+[2019.10.20-20.55.37:444][299]Cmd: TRANSACTION UNDO
+[2019.10.20-20.55.37:444][299]LogEditorTransaction: Undo Move Actors
+[2019.10.20-20.55.37:945][329]Cmd: TRANSACTION UNDO
+[2019.10.20-20.55.37:945][329]LogEditorTransaction: Undo Move Actors
+[2019.10.20-20.55.38:761][378]Cmd: TRANSACTION UNDO
+[2019.10.20-20.55.38:761][378]LogEditorTransaction: Undo Move Actors
+[2019.10.20-20.55.42:379][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.55.44:302][707]Cmd: MODE GRID=1
+[2019.10.20-20.55.48:516][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.20-20.55.49:206][942]Cmd: TRANSACTION UNDO
+[2019.10.20-20.55.49:206][942]LogEditorTransaction: Undo Move Actors
+[2019.10.20-20.56.16:695][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.56.27:071][142]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch13)
+[2019.10.20-20.56.47:020][311]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch12)
+[2019.10.20-20.56.55:398][802]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch11)
+[2019.10.20-20.57.00:743][119]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch10)
+[2019.10.20-20.57.07:890][532]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch2)
+[2019.10.20-20.57.11:286][728]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch4)
+[2019.10.20-20.57.16:022][999]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch5)
+[2019.10.20-20.57.18:891][168]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch6)
+[2019.10.20-20.57.24:033][464]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch7)
+[2019.10.20-20.57.27:633][677]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch8)
+[2019.10.20-20.57.31:063][876]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch9)
+[2019.10.20-20.57.40:126][404]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.20-20.57.41:416][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.57.46:100][755]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch3)
+[2019.10.20-20.57.54:733][262]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch)
+[2019.10.20-20.57.58:008][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.57.58:073][454]Cmd: MODE GRID=0
+[2019.10.20-20.58.02:204][701]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Torch_C (BP_Torch3)
+[2019.10.20-20.58.15:183][464]Cmd: SELECT NONE
+[2019.10.20-20.58.16:584][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.58.16:633][551]Cmd: MODE GRID=1
+[2019.10.20-20.58.21:890][865]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch3)
+[2019.10.20-20.58.47:751][406]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.20-20.58.48:770][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.10.20-20.58.48:776][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.20-20.58.48:811][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.10.20-20.58.49:485][464]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_MapEAFDAB184260B3DC3BEBE3BCBA0CF340.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.20-20.58.49:515][464]LogFileHelpers: Saving map 'Halloween_Map' took 0.734
