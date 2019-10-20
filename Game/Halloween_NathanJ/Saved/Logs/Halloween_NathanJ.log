@@ -674,3 +674,205 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.20-20.23.58:818][719]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
 [2019.10.20-20.23.58:818][719]LogEditorActor: Deleted 1 Actors (0.107 secs)
 [2019.10.20-20.28.05:657][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.20-20.29.15:182][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall4)
+[2019.10.20-20.29.17:787][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.29.19:840][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall3)
+[2019.10.20-20.29.21:901][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.29.25:845][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall4)
+[2019.10.20-20.29.29:816][139]Cmd: SELECT NONE
+[2019.10.20-20.29.45:592][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall2)
+[2019.10.20-20.29.46:625][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall)
+[2019.10.20-20.29.48:968][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.29.56:445][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall2)
+[2019.10.20-20.30.02:695][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall26)
+[2019.10.20-20.30.03:684][153]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall)
+[2019.10.20-20.30.07:272][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall2)
+[2019.10.20-20.30.07:949][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall)
+[2019.10.20-20.30.09:034][460]Cmd: SELECT NONE
+[2019.10.20-20.30.16:991][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.30.22:962][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.30.25:995][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.30.32:764][871]Cmd: TRANSACTION UNDO
+[2019.10.20-20.30.32:764][871]LogEditorTransaction: Undo Create Actors
+[2019.10.20-20.30.33:229][897]Cmd: TRANSACTION UNDO
+[2019.10.20-20.30.33:229][897]LogEditorTransaction: Undo Create Actors
+[2019.10.20-20.30.35:369][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.30.35:435][ 27]Cmd: MODE GRID=0
+[2019.10.20-20.30.37:962][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.30.42:813][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.30.46:186][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.30.55:726][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.31.03:901][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.31.26:159][ 46]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch2)
+[2019.10.20-20.31.36:524][652]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.20-20.31.39:791][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.31.47:664][317]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.10.20-20.31.48:953][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.31.55:772][789]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.20-20.31.56:822][850]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Candle_Holder_C (BP_Candle_Holder)
+[2019.10.20-20.32.14:356][883]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.10.20-20.33.06:670][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.33.24:917][106]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.10.20-20.33.25:784][156]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Candle_Holder_C (BP_Candle_Holder)
+[2019.10.20-20.33.40:809][ 51]Cmd: TRANSACTION UNDO
+[2019.10.20-20.33.40:809][ 51]LogEditorTransaction: Undo Rotate Actors
+[2019.10.20-20.33.54:402][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.33.54:762][868]LogActorFactory: Actor Factory created SM_Statue_Hooded
+[2019.10.20-20.33.56:246][954]LogActorFactory: Actor Factory created SM_Statue_Hooded
+[2019.10.20-20.34.09:814][758]Cmd: DELETE
+[2019.10.20-20.34.09:814][758]Cmd: ACTOR DELETE
+[2019.10.20-20.34.09:823][758]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.20-20.34.09:907][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2019.10.20-20.34.09:907][758]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2019.10.20-20.34.11:879][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.34.12:160][886]LogActorFactory: Actor Factory created SM_Gargoyle_Statue_On_Stand
+[2019.10.20-20.34.14:557][ 29]LogActorFactory: Actor Factory created SM_Gargoyle_Statue_On_Stand
+[2019.10.20-20.34.16:270][130]Cmd: TRANSACTION UNDO
+[2019.10.20-20.34.16:270][130]LogEditorTransaction: Undo Create Actors
+[2019.10.20-20.34.17:514][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.34.17:580][207]Cmd: MODE GRID=1
+[2019.10.20-20.34.18:657][271]LogActorFactory: Actor Factory created SM_Gargoyle_Statue_On_Stand
+[2019.10.20-20.34.19:613][328]LogActorFactory: Actor Factory created SM_Gargoyle_Statue_On_Stand
+[2019.10.20-20.34.22:578][504]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.34.29:441][912]Cmd: SELECT NONE
+[2019.10.20-20.34.33:275][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gargoyle_Statue_On_Stand)
+[2019.10.20-20.34.37:033][362]Cmd: SELECT NONE
+[2019.10.20-20.35.18:898][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.35.23:199][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.35.25:680][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.35.27:599][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.35.29:600][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.35.32:086][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.35.37:778][987]LogEditorViewport: Clicking on Actor (LMB): BP_Candle_Used_A_C (BP_Candle_Used_A4)
+[2019.10.20-20.35.40:942][174]Cmd: SELECT NONE
+[2019.10.20-20.35.49:725][699]LogEditorViewport: Clicking on Actor (LMB): BP_Candle_Used_B_C (BP_Candle_Used_B4)
+[2019.10.20-20.35.50:921][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.35.50:986][773]Cmd: MODE GRID=0
+[2019.10.20-20.35.53:264][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.35.53:346][913]Cmd: MODE GRID=1
+[2019.10.20-20.35.54:185][963]Cmd: SELECT NONE
+[2019.10.20-20.36.03:027][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.36.20:970][562]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch2)
+[2019.10.20-20.36.39:395][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall17)
+[2019.10.20-20.36.42:228][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall6)
+[2019.10.20-20.36.45:353][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall5)
+[2019.10.20-20.36.46:536][ 61]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch4)
+[2019.10.20-20.36.55:275][579]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch6)
+[2019.10.20-20.36.57:023][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.37.11:102][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.37.18:264][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall18)
+[2019.10.20-20.37.19:486][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.37.22:386][172]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch6)
+[2019.10.20-20.37.37:507][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall22)
+[2019.10.20-20.37.40:959][265]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch7)
+[2019.10.20-20.37.51:208][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall23)
+[2019.10.20-20.37.52:481][943]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch7)
+[2019.10.20-20.37.54:942][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall23)
+[2019.10.20-20.37.59:997][385]LogEditorViewport: Clicking on Actor (LMB): BP_Torch_C (BP_Torch7)
+[2019.10.20-20.38.07:967][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.38.08:016][856]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.20-20.38.08:031][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.20-20.38.08:036][856]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.10.20-20.38.08:037][856]LogPlayLevel: [PlayLevel] Compiling BP_Torch before play...
+[2019.10.20-20.38.08:264][856]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2019.10.20-20.38.08:265][856]LogPlayLevel: PlayLevel: Blueprint regeneration took 228 ms (1 blueprints)
+[2019.10.20-20.38.08:268][856]PIE: New page: PIE session: Halloween_Map (Oct 20, 2019, 10:38:08 AM)
+[2019.10.20-20.38.08:282][856]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.20-20.38.08:349][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067153s)
+[2019.10.20-20.38.08:350][856]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.20-20.38.08:350][856]LogPlayLevel: PIE: World Init took: (0.001426s)
+[2019.10.20-20.38.08:350][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.069091s)
+[2019.10.20-20.38.08:378][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.10.20-20.38.08:388][856]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.20-20.38.08:476][856]LogInit: FAudioDevice initialized.
+[2019.10.20-20.38.08:519][856]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.20-20.38.08:534][856]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.20-15.38.08
+[2019.10.20-20.38.08:537][856]LogWorld: Bringing up level for play took: 0.014714
+[2019.10.20-20.38.08:579][856]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.10.20-20.38.08:602][856]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.10.20-20.38.08:603][856]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.10.20-20.38.08:605][856]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 1.342
+[2019.10.20-20.38.08:605][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.20-20.38.49:741][303]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.20-20.38.49:742][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-20.38.49:778][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.20-20.38.49:779][303]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.20-20.38.49:837][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.20-20.38.49:879][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.10.20-20.38.49:905][304]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.20-20.38.50:685][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall10)
+[2019.10.20-20.38.52:534][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.39.14:505][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.39.19:162][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall14)
+[2019.10.20-20.39.19:765][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall15)
+[2019.10.20-20.39.22:405][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.39.22:546][238]LogActorFactory: Actor Factory created SM_Crypt_Wall_Decorative_B
+[2019.10.20-20.39.24:837][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall14)
+[2019.10.20-20.39.25:579][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.39.27:662][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.39.27:815][550]LogActorFactory: Actor Factory created SM_Crypt_Wall
+[2019.10.20-20.39.28:871][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall15)
+[2019.10.20-20.39.33:738][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.39.33:896][911]LogActorFactory: Actor Factory created SM_Crypt_Wall_Decorative_C
+[2019.10.20-20.39.34:919][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall14)
+[2019.10.20-20.39.35:745][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.39.38:409][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.39.38:567][187]LogActorFactory: Actor Factory created SM_Crypt_Wall
+[2019.10.20-20.39.39:720][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall15)
+[2019.10.20-20.39.40:598][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.39.40:751][314]LogActorFactory: Actor Factory created SM_Crypt_Wall
+[2019.10.20-20.39.42:202][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall10)
+[2019.10.20-20.39.43:224][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.39.43:400][470]LogActorFactory: Actor Factory created SM_Crypt_Wall
+[2019.10.20-20.39.47:952][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall11)
+[2019.10.20-20.39.52:071][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.39.52:230][987]LogActorFactory: Actor Factory created SM_Crypt_Wall_Decorative_B
+[2019.10.20-20.39.57:485][300]Cmd: SELECT NONE
+[2019.10.20-20.40.11:084][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall10)
+[2019.10.20-20.40.14:775][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.40.14:966][337]LogActorFactory: Actor Factory created SM_Crypt_Wall_Decorative_B
+[2019.10.20-20.40.16:309][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall15)
+[2019.10.20-20.40.17:115][463]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall14)
+[2019.10.20-20.40.26:669][ 26]Cmd: TRANSACTION UNDO
+[2019.10.20-20.40.26:669][ 26]LogEditorTransaction: Undo Move Actors
+[2019.10.20-20.40.27:748][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.40.34:062][465]Cmd: SELECT NONE
+[2019.10.20-20.40.37:082][646]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall14)
+[2019.10.20-20.40.38:423][724]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall15)
+[2019.10.20-20.40.39:278][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.40.53:645][628]Cmd: SELECT NONE
+[2019.10.20-20.40.56:888][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall14)
+[2019.10.20-20.40.57:861][875]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Crypt_Wall15)
+[2019.10.20-20.41.01:490][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall14)
+[2019.10.20-20.41.03:414][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.41.19:336][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.41.28:186][683]Cmd: TRANSACTION UNDO
+[2019.10.20-20.41.28:186][683]LogEditorTransaction: Undo Edit Static Mesh
+[2019.10.20-20.41.35:319][107]Cmd: TRANSACTION UNDO
+[2019.10.20-20.41.35:319][107]LogEditorTransaction: Undo Edit Static Mesh
+[2019.10.20-20.41.39:908][379]Cmd: TRANSACTION UNDO
+[2019.10.20-20.41.39:908][379]LogEditorTransaction: Undo Move Actors
+[2019.10.20-20.41.41:728][487]Cmd: SELECT NONE
+[2019.10.20-20.41.51:782][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.41.53:989][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall10)
+[2019.10.20-20.42.00:589][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.42.00:761][616]LogActorFactory: Actor Factory created SM_Crypt_Wall_Decorative_D
+[2019.10.20-20.42.02:414][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall11)
+[2019.10.20-20.42.03:523][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.42.05:593][902]LogActorFactory: Actor Factory created SM_Crypt_Wall_Decorative_C
+[2019.10.20-20.42.13:019][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Wall10)
+[2019.10.20-20.42.15:396][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.42.17:096][588]LogActorFactory: Actor Factory created SM_Crypt_Wall_Decorative_C
+[2019.10.20-20.42.18:993][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.42.19:198][713]LogActorFactory: Actor Factory created SM_Crypt_Wall_Decorative_B
+[2019.10.20-20.42.20:887][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.42.21:091][826]LogActorFactory: Actor Factory created SM_Crypt_Wall_Decorative_A
+[2019.10.20-20.42.23:268][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.20-20.42.23:450][966]LogActorFactory: Actor Factory created SM_Crypt_Wall_Decorative_C
+[2019.10.20-20.42.26:095][125]Cmd: SELECT NONE
+[2019.10.20-20.42.42:738][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2019.10.20-20.42.42:753][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.20-20.42.42:794][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.10.20-20.42.43:412][115]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map43B9FFF74DD3576C232BB0AE3875B590.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.20-20.42.43:501][115]LogFileHelpers: Saving map 'Halloween_Map' took 0.741
+[2019.10.20-20.42.43:553][115]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/BP_Torch8591E598496F3AC005B1FBAD3AC97639.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/MedievalDungeon/Blueprints/BP_Torch.uasset'
