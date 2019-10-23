@@ -869,3 +869,269 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.23-00.36.46:206][784]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
 [2019.10.23-00.36.47:001][784]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map8CE41F564186BADEDCEF5A80EE1FAFC8.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
 [2019.10.23-00.36.47:040][784]LogFileHelpers: Saving map 'Halloween_Map' took 1.038
+[2019.10.23-00.37.46:738][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.37.59:136][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.38.11:401][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.38.15:941][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.38.28:366][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.39.39:295][277]Cmd: TRANSACTION UNDO
+[2019.10.23-00.39.39:295][277]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.23-00.39.39:345][277]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.10.23-00.39.44:278][807]Cmd: TRANSACTION UNDO
+[2019.10.23-00.39.44:279][807]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.10.23-00.39.48:465][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.40.06:823][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.40.47:316][749]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.40.58:508][  8]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.41.12:699][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.41.23:149][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.41.28:900][422]Cmd: TRANSACTION UNDO
+[2019.10.23-00.41.28:900][422]LogEditorTransaction: Undo Move Actors
+[2019.10.23-00.41.30:496][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.41.51:110][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.42.43:808][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.43.11:368][123]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.43.25:828][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.43.48:733][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.44.25:201][647]LogTexture: Display: Building textures: T_ground_forest_grass_06_MT_R_AO (AutoDXT, 2048X2048)
+[2019.10.23-00.44.25:201][647]LogTexture: Display: Building textures: T_uvfree_rock_07_BC_H (AutoDXT, 2048X2048)
+[2019.10.23-00.44.25:201][647]LogTexture: Display: Building textures: T_ground_forest_grass_06_N (BC5, 2048X2048)
+[2019.10.23-00.44.25:201][647]LogTexture: Display: Building textures: T_ground_forest_grass_06_BC_H (AutoDXT, 2048X2048)
+[2019.10.23-00.44.25:201][647]LogTexture: Display: Building textures: T_big_rock_01_N (BC5, 4096X4096)
+[2019.10.23-00.44.25:201][647]LogTexture: Display: Building textures: T_big_rock_01_MT_R_AO (AutoDXT, 4096X4096)
+[2019.10.23-00.44.25:201][647]LogTexture: Display: Building textures: T_big_rock_01_BC (AutoDXT, 4096X4096)
+[2019.10.23-00.44.25:201][647]LogTexture: Display: Building textures: T_atlas_mid_rocks_N (BC5, 4096X4096)
+[2019.10.23-00.44.25:201][647]LogTexture: Display: Building textures: T_atlas_mid_rocks_BC (AutoDXT, 4096X4096)
+[2019.10.23-00.44.25:201][647]LogTexture: Display: Building textures: T_uvfree_rock_07_N (BC5, 2048X2048)
+[2019.10.23-00.44.25:201][647]LogTexture: Display: Building textures: T_atlas_mid_rocks_MT_R_AO (AutoDXT, 4096X4096)
+[2019.10.23-00.44.25:201][647]LogStaticMesh: Building static mesh SM_Middle_Rock_02...
+[2019.10.23-00.44.25:494][647]LogTexture: Display: Building textures: T_ground_forest_01_N (BC5, 2048X2048)
+[2019.10.23-00.44.25:494][647]LogStaticMesh: Built static mesh [0.29s] /Game/Environment_Set/Environment/Rocks/Models/SM_Middle_Rock_02.SM_Middle_Rock_02
+[2019.10.23-00.44.42:466][647]LogTexture: Display: Building textures: T_ground_forest_01_MT_R_AO (AutoDXT, 2048X2048)
+[2019.10.23-00.44.42:466][647]LogTexture: Display: Building textures: T_ground_forest_01_BC_H (AutoDXT, 2048X2048)
+[2019.10.23-00.44.42:466][647]LogMaterial: Display: Missing cached shader map for material M_Dynamic_Cover, compiling. 
+[2019.10.23-00.44.47:917][647]LogMaterial: Display: Missing cached shader map for material M_Rocks, compiling. 
+[2019.10.23-00.45.10:418][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.45.23:398][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.45.31:160][429]Cmd: TRANSACTION UNDO
+[2019.10.23-00.45.31:160][429]LogEditorTransaction: Undo Scale Actors
+[2019.10.23-00.45.51:698][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.46.06:301][571]LogTexture: Display: Building textures: T_big_rock_03_BC (AutoDXT, 4096X4096)
+[2019.10.23-00.46.06:301][571]LogTexture: Display: Building textures: T_big_rock_03_MT_R_AO (AutoDXT, 4096X4096)
+[2019.10.23-00.46.06:301][571]LogTexture: Display: Building textures: T_big_rock_03_N (BC5, 4096X4096)
+[2019.10.23-00.46.06:301][571]LogStaticMesh: Building static mesh SM_Big_Rock_03...
+[2019.10.23-00.46.06:516][571]LogStaticMesh: Built static mesh [0.21s] /Game/Environment_Set/Environment/Rocks/Models/SM_Big_Rock_03.SM_Big_Rock_03
+[2019.10.23-00.46.22:585][306]LogEditorViewport: Clicking on Actor (LMB): SM_Middle_Rock_02_Blueprint_3_C (SM_Middle_Rock_02_Blueprint_3)
+[2019.10.23-00.46.31:296][276]Cmd: DELETE
+[2019.10.23-00.46.31:296][276]Cmd: ACTOR DELETE
+[2019.10.23-00.46.31:310][276]LogEditorActor: Deleted Actor: SM_Middle_Rock_02_Blueprint_3_C
+[2019.10.23-00.46.31:340][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.23-00.46.31:341][276]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.10.23-00.46.32:561][416]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_2)
+[2019.10.23-00.46.34:476][605]LogEditorViewport: Clicking on Actor (LMB): SM_Middle_Rock_02_Blueprint_3_C (SM_Middle_Rock_02_Blueprint_4)
+[2019.10.23-00.46.35:211][682]Cmd: DELETE
+[2019.10.23-00.46.35:211][682]Cmd: ACTOR DELETE
+[2019.10.23-00.46.35:224][682]LogEditorActor: Deleted Actor: SM_Middle_Rock_02_Blueprint_3_C
+[2019.10.23-00.46.35:249][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.23-00.46.35:249][682]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.10.23-00.46.37:336][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.46.40:112][912]LogTexture: Display: Building textures: T_ground_rocks_06_BC_H (AutoDXT, 2048X2048)
+[2019.10.23-00.46.40:112][912]LogTexture: Display: Building textures: T_ground_rocks_06_N (BC5, 2048X2048)
+[2019.10.23-00.46.44:972][418]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_2)
+[2019.10.23-00.47.28:209][705]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.23-00.47.28:862][761]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_4)
+[2019.10.23-00.48.03:052][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.48.11:463][920]LogEditorViewport: Clicking on Actor (LMB): SM_Middle_Rock_02_Blueprint_C (SM_Middle_Rock_02_Blueprint)
+[2019.10.23-00.48.12:213][  0]Cmd: DELETE
+[2019.10.23-00.48.12:213][  0]Cmd: ACTOR DELETE
+[2019.10.23-00.48.12:226][  0]LogEditorActor: Deleted Actor: SM_Middle_Rock_02_Blueprint_C
+[2019.10.23-00.48.12:256][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.10.23-00.48.12:256][  0]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.10.23-00.48.43:701][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.48.43:745][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.23-00.48.43:943][743]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2019.10.23-00.48.43:946][743]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2019.10.23-00.48.43:947][743]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.10.23-00.48.43:948][743]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2019.10.23-00.48.43:949][743]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2019.10.23-00.48.43:949][743]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2019.10.23-00.48.44:801][743]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto2C3C3CEED4B9016A37E496FA455103DDB.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto2.umap'
+[2019.10.23-00.48.44:808][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.086
+[2019.10.23-00.48.44:808][743]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.086
+[2019.10.23-00.49.22:438][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.49.34:013][511]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.23-00.49.35:894][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.49.42:439][272]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.49.43:781][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.49.59:049][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.50.06:115][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.50.19:786][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.50.20:610][917]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.10.23-00.50.22:440][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.50.30:518][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.50.52:589][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.51.36:027][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.51.39:943][407]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_2)
+[2019.10.23-00.52.27:878][971]Cmd: SELECT NONE
+[2019.10.23-00.52.36:629][952]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_3)
+[2019.10.23-00.52.42:253][524]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_2)
+[2019.10.23-00.52.50:809][298]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_6)
+[2019.10.23-00.52.59:948][129]Cmd: SELECT NONE
+[2019.10.23-00.53.04:079][525]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_3)
+[2019.10.23-00.53.16:379][636]Cmd: SELECT NONE
+[2019.10.23-00.53.21:038][ 67]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_4)
+[2019.10.23-00.53.45:769][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.54.02:315][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.54.04:084][191]Cmd: SELECT NONE
+[2019.10.23-00.54.12:242][ 85]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.10.23-00.54.13:076][159]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.10.23-00.54.15:796][435]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.10.23-00.54.15:885][439]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.23-00.54.17:684][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.54.26:347][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.54.45:720][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.55.12:329][749]Cmd: SELECT NONE
+[2019.10.23-00.55.19:066][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.23-00.55.19:072][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.55.19:103][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.10.23-00.55.19:278][501]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2019.10.23-00.55.19:281][501]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2019.10.23-00.55.19:281][501]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.10.23-00.55.19:282][501]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2019.10.23-00.55.19:283][501]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2019.10.23-00.55.19:284][501]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2019.10.23-00.55.19:285][501]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2019.10.23-00.55.20:059][501]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_MapB32708C7449007CA398C54849353B46A.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.23-00.55.20:098][501]LogFileHelpers: Saving map 'Halloween_Map' took 1.022
+[2019.10.23-00.55.55:547][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.55.56:396][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_26)
+[2019.10.23-00.56.06:418][443]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Stairs_27)
+[2019.10.23-00.56.13:483][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.56.13:558][110]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-00.56.13:576][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.56.13:576][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.56.13:576][110]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 2:56:13 PM)
+[2019.10.23-00.56.13:576][110]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.23-00.56.13:654][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078214s)
+[2019.10.23-00.56.13:655][110]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.23-00.56.13:655][110]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2019.10.23-00.56.13:655][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.079587s)
+[2019.10.23-00.56.13:684][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.10.23-00.56.13:691][110]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.23-00.56.13:773][110]LogInit: FAudioDevice initialized.
+[2019.10.23-00.56.13:803][110]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.23-00.56.13:838][110]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 0) at 2019.10.22-19.56.13
+[2019.10.23-00.56.13:844][110]LogWorld: Bringing up level for play took: 0.040702
+[2019.10.23-00.56.13:857][110]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 1.178
+[2019.10.23-00.56.13:857][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.56.36:928][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.56.36:928][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.56.36:968][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.56.36:968][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.56.37:009][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.56.37:014][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.10.23-00.56.37:039][805]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.23-00.56.39:863][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_28)
+[2019.10.23-00.56.48:507][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_27)
+[2019.10.23-00.56.58:268][749]Cmd: SELECT NONE
+[2019.10.23-00.57.04:721][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_27)
+[2019.10.23-00.57.05:596][430]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Stairs_28)
+[2019.10.23-00.57.23:316][244]Cmd: SELECT NONE
+[2019.10.23-00.57.28:286][763]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.10.23-00.57.28:985][822]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.10.23-00.57.29:754][890]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.10.23-00.57.30:561][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_28)
+[2019.10.23-00.57.41:266][913]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.10.23-00.58.17:242][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.10.23-00.58.17:249][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.58.17:280][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.10.23-00.58.18:278][880]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map0BDB0BBE49C419962F3C6DA11278DDBE.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.23-00.58.18:309][880]LogFileHelpers: Saving map 'Halloween_Map' took 1.054
+[2019.10.23-00.58.19:815][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.58.19:863][947]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.23-00.58.19:882][947]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.58.19:882][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-00.58.19:882][947]PIE: New page: PIE session: Halloween_Map (Oct 22, 2019, 2:58:19 PM)
+[2019.10.23-00.58.19:883][947]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.23-00.58.19:960][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077554s)
+[2019.10.23-00.58.19:961][947]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.23-00.58.19:961][947]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2019.10.23-00.58.19:962][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.079217s)
+[2019.10.23-00.58.19:990][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.10.23-00.58.19:995][947]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.23-00.58.20:060][947]LogInit: FAudioDevice initialized.
+[2019.10.23-00.58.20:090][947]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.23-00.58.20:123][947]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 0) at 2019.10.22-19.58.20
+[2019.10.23-00.58.20:127][947]LogWorld: Bringing up level for play took: 0.035686
+[2019.10.23-00.58.20:140][947]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.54
+[2019.10.23-00.58.20:141][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.58.40:318][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.58.40:318][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.58.40:355][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-00.58.40:355][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.23-00.58.40:395][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-00.58.40:401][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.10.23-00.58.40:428][322]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.23-00.58.52:732][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_28)
+[2019.10.23-00.58.59:392][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_27)
+[2019.10.23-00.59.02:877][592]Cmd: SELECT NONE
+[2019.10.23-00.59.06:254][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-00.59.21:426][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.59.37:639][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.59.50:351][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-00.59.58:535][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.00.17:674][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.00.34:138][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.00.41:995][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.00.47:610][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.00.51:739][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.00.54:715][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.01.00:097][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.01.06:130][680]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.01.09:750][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.01.41:258][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.03.53:386][732]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.04.01:277][593]Cmd: TRANSACTION UNDO
+[2019.10.23-01.04.01:277][593]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-01.04.01:347][593]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2019.10.23-01.04.01:386][593]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2019.10.23-01.04.01:425][593]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.10.23-01.04.01:465][593]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2019.10.23-01.04.01:868][613]Cmd: TRANSACTION UNDO
+[2019.10.23-01.04.01:868][613]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.10.23-01.04.01:922][613]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2019.10.23-01.04.01:949][613]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.10.23-01.04.15:557][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.04.16:824][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_27)
+[2019.10.23-01.04.21:394][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_28)
+[2019.10.23-01.04.27:475][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.04.38:943][322]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.04.41:636][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.04.45:973][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.05.03:993][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.05.16:583][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.05.24:755][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.05.47:712][835]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.05.57:262][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.06.10:255][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.06.20:274][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.06.54:835][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.07.21:000][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.07.42:528][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-01.08.01:117][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.08.10:529][855]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.08.35:100][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.08.36:412][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.09.30:516][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.23-01.09.30:522][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.23-01.09.30:551][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.10.23-01.09.30:779][ 97]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2019.10.23-01.09.30:781][ 97]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2019.10.23-01.09.30:782][ 97]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2019.10.23-01.09.30:783][ 97]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2019.10.23-01.09.30:784][ 97]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.10.23-01.09.30:784][ 97]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2019.10.23-01.09.30:785][ 97]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2019.10.23-01.09.30:786][ 97]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2019.10.23-01.09.31:616][ 97]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map277AB1D9406A23AFFA28979F20F73556.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.23-01.09.31:650][ 97]LogFileHelpers: Saving map 'Halloween_Map' took 1.122
