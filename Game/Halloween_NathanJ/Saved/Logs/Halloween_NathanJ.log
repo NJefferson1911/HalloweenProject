@@ -2016,3 +2016,155 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-03.14.08:839][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.24-03.14.12:464][393]LogActorFactory: Actor Factory created SM_Gravestone06
 [2019.10.24-03.14.17:552][880]LogActorFactory: Actor Factory created SM_Gravestone06
+[2019.10.24-03.15.23:052][539]Cmd: SELECT NONE
+[2019.10.24-03.15.39:648][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.15.40:150][462]LogActorFactory: Actor Factory created SM_Dirtpile
+[2019.10.24-03.15.41:705][607]LogActorFactory: Actor Factory created SM_Dirtpile
+[2019.10.24-03.15.50:870][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile2)
+[2019.10.24-03.15.57:358][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile3)
+[2019.10.24-03.16.47:753][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.16.48:052][419]LogActorFactory: Actor Factory created SM_ZombieHand
+[2019.10.24-03.16.50:118][586]LogActorFactory: Actor Factory created SM_ZombieHand
+[2019.10.24-03.17.02:964][860]Cmd: SELECT NONE
+[2019.10.24-03.17.06:467][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ZombieHand2)
+[2019.10.24-03.17.08:965][487]Cmd: SELECT NONE
+[2019.10.24-03.17.15:594][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ZombieHand)
+[2019.10.24-03.17.16:453][321]Cmd: DELETE
+[2019.10.24-03.17.16:453][321]Cmd: ACTOR DELETE
+[2019.10.24-03.17.16:470][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-03.17.16:498][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.10.24-03.17.16:498][321]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2019.10.24-03.17.54:362][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.24-03.17.54:368][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-03.17.54:403][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.24-03.17.55:708][733]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_MapA6CBE5AB46AB99DC8758B8A703189B79.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.24-03.17.55:742][733]LogFileHelpers: Saving map 'Halloween_Map' took 1.368
+[2019.10.24-03.18.05:062][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.18.13:225][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.18.13:329][697]LogStaticMesh: Building static mesh SM_Lantern...
+[2019.10.24-03.18.13:721][697]LogTexture: Display: Building textures: T_Lantern_MRAO (AutoDXT, 2048X2048)
+[2019.10.24-03.18.13:721][697]LogTexture: Display: Building textures: T_Lantern (AutoDXT, 2048X2048)
+[2019.10.24-03.18.13:721][697]LogTexture: Display: Building textures: T_Lantern_N (BC5, 2048X2048)
+[2019.10.24-03.18.13:721][697]LogStaticMesh: Built static mesh [0.39s] /Game/Realistic_Halloween_Props/Meshes/SM_Lantern.SM_Lantern
+[2019.10.24-03.18.17:192][697]LogMaterial: Display: Missing cached shader map for material M_Lantern, compiling. 
+[2019.10.24-03.18.30:413][946]Cmd: SELECT NONE
+[2019.10.24-03.18.33:892][336]LogEditorViewport: Clicking on Actor (LMB): BP_Lantern_C (BP_Lantern)
+[2019.10.24-03.18.40:460][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.18.41:370][120]Cmd: SELECT NONE
+[2019.10.24-03.18.46:600][706]LogEditorViewport: Clicking on Actor (LMB): BP_Lantern_C (BP_Lantern)
+[2019.10.24-03.18.52:056][298]Cmd: SELECT NONE
+[2019.10.24-03.19.13:739][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.19.19:493][401]Cmd: SELECT NONE
+[2019.10.24-03.19.22:100][647]LogEditorViewport: Clicking on Actor (LMB): BP_Lantern_C (BP_Lantern2)
+[2019.10.24-03.19.25:319][972]Cmd: SELECT NONE
+[2019.10.24-03.19.28:533][323]LogEditorViewport: Clicking on Actor (LMB): BP_Lantern_C (BP_Lantern2)
+[2019.10.24-03.19.48:561][526]Cmd: SELECT NONE
+[2019.10.24-03.19.53:635][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.19.58:312][600]Cmd: DELETE
+[2019.10.24-03.19.58:312][600]Cmd: ACTOR DELETE
+[2019.10.24-03.19.58:334][600]LogEditorActor: Deleted Actor: BP_Lantern_C
+[2019.10.24-03.19.58:410][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.24-03.19.58:411][600]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2019.10.24-03.20.22:940][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.20.25:797][702]LogActorFactory: Actor Factory created SM_Gravestone06
+[2019.10.24-03.20.27:259][850]LogActorFactory: Actor Factory created SM_Gravestone06
+[2019.10.24-03.20.53:896][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone05)
+[2019.10.24-03.20.56:794][803]Cmd: SELECT NONE
+[2019.10.24-03.21.29:114][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.21.29:368][470]LogTexture: Display: Building textures: T_CandleLight (AutoDXT, 512X512)
+[2019.10.24-03.21.29:368][470]LogTexture: Display: Building textures: T_Candles (DXT1, 2048X2048)
+[2019.10.24-03.21.29:368][470]LogTexture: Display: Building textures: T_Candles_MRAO (AutoDXT, 2048X2048)
+[2019.10.24-03.21.29:368][470]LogMaterial: Display: Missing cached shader map for material M_CandleLight, compiling. 
+[2019.10.24-03.21.29:392][470]LogStaticMesh: Building static mesh SM_Candle02_lit...
+[2019.10.24-03.21.29:406][470]LogTexture: Display: Building textures: T_Candles_N (BC5, 2048X2048)
+[2019.10.24-03.21.29:481][470]LogStaticMesh: Built static mesh [0.09s] /Game/Realistic_Halloween_Props/Meshes/SM_Candle02_lit.SM_Candle02_lit
+[2019.10.24-03.21.30:634][470]LogMaterial: Display: Missing cached shader map for material M_Candles, compiling. 
+[2019.10.24-03.21.30:664][470]LogMaterial: Display: Missing cached shader map for material M_Candles, compiling. 
+[2019.10.24-03.21.30:711][470]LogActorFactory: Actor Factory created SM_Candle02_lit
+[2019.10.24-03.21.31:814][541]LogActorFactory: Actor Factory created SM_Candle02_lit
+[2019.10.24-03.21.35:501][738]Cmd: SELECT NONE
+[2019.10.24-03.21.43:266][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.21.43:381][295]LogStaticMesh: Building static mesh SM_Candle03_lit...
+[2019.10.24-03.21.43:406][295]LogStaticMesh: Built static mesh [0.02s] /Game/Realistic_Halloween_Props/Meshes/SM_Candle03_lit.SM_Candle03_lit
+[2019.10.24-03.21.43:529][303]LogActorFactory: Actor Factory created SM_Candle03_lit
+[2019.10.24-03.21.45:633][524]LogActorFactory: Actor Factory created SM_Candle03_lit
+[2019.10.24-03.22.37:672][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.22.37:804][734]LogStaticMesh: Building static mesh SM_Spade...
+[2019.10.24-03.22.37:858][734]LogStaticMesh: Built static mesh [0.05s] /Game/Realistic_Halloween_Props/Meshes/SM_Spade.SM_Spade
+[2019.10.24-03.22.40:568][734]LogTexture: Display: Building textures: T_Spade_MRAO (AutoDXT, 2048X2048)
+[2019.10.24-03.22.40:568][734]LogTexture: Display: Building textures: T_Spade (AutoDXT, 2048X2048)
+[2019.10.24-03.22.40:568][734]LogTexture: Display: Building textures: T_Spade_N (BC5, 2048X2048)
+[2019.10.24-03.22.40:585][734]LogActorFactory: Actor Factory created SM_Spade
+[2019.10.24-03.22.42:248][880]LogActorFactory: Actor Factory created SM_Spade
+[2019.10.24-03.22.43:431][994]Cmd: DELETE
+[2019.10.24-03.22.43:431][994]Cmd: ACTOR DELETE
+[2019.10.24-03.22.43:449][994]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-03.22.43:474][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.24-03.22.43:475][994]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.10.24-03.23.05:779][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.23.06:104][565]LogActorFactory: Actor Factory created SM_Spade
+[2019.10.24-03.23.07:355][688]LogActorFactory: Actor Factory created SM_Spade
+[2019.10.24-03.23.21:656][ 94]Cmd: SELECT NONE
+[2019.10.24-03.23.26:360][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spade)
+[2019.10.24-03.23.28:534][822]Cmd: SELECT NONE
+[2019.10.24-03.23.36:961][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spade)
+[2019.10.24-03.23.38:781][966]Cmd: SELECT NONE
+[2019.10.24-03.23.43:785][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spade)
+[2019.10.24-03.23.45:703][740]Cmd: SELECT NONE
+[2019.10.24-03.23.51:482][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spade)
+[2019.10.24-03.23.59:142][149]Cmd: SELECT NONE
+[2019.10.24-03.24.02:218][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spade)
+[2019.10.24-03.24.05:194][750]Cmd: SELECT NONE
+[2019.10.24-03.24.28:104][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.24.31:100][343]LogTexture: Display: Building textures: T_JackoLantern (AutoDXT, 2048X2048)
+[2019.10.24-03.24.31:100][343]LogTexture: Display: Building textures: T_JackoLantern_MRAO (AutoDXT, 2048X2048)
+[2019.10.24-03.24.31:100][343]LogTexture: Display: Building textures: T_JackoLantern_N (BC5, 2048X2048)
+[2019.10.24-03.24.31:100][343]LogStaticMesh: Building static mesh SM_JackoLantern...
+[2019.10.24-03.24.31:179][343]LogStaticMesh: Built static mesh [0.08s] /Game/Realistic_Halloween_Props/Meshes/SM_JackoLantern.SM_JackoLantern
+[2019.10.24-03.24.31:188][343]LogMaterial: Display: Missing cached shader map for material M_JackoLantern, compiling. 
+[2019.10.24-03.24.31:231][343]LogActorFactory: Actor Factory created SM_JackoLantern
+[2019.10.24-03.24.32:436][421]LogActorFactory: Actor Factory created SM_JackoLantern
+[2019.10.24-03.24.43:246][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.24.45:925][592]LogSlate: Window 'Select Path' being destroyed
+[2019.10.24-03.24.53:722][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.24.57:160][682]LogSlate: Window 'Select Path' being destroyed
+[2019.10.24-03.25.03:384][257]Cmd: SELECT NONE
+[2019.10.24-03.25.07:006][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_JackoLantern)
+[2019.10.24-03.25.25:518][645]Cmd: DELETE
+[2019.10.24-03.25.25:518][645]Cmd: ACTOR DELETE
+[2019.10.24-03.25.25:536][645]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-03.25.25:562][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.24-03.25.25:562][645]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.10.24-03.25.29:605][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.25.29:979][ 82]LogActorFactory: Actor Factory created SM_JackoLantern
+[2019.10.24-03.25.30:861][165]LogActorFactory: Actor Factory created SM_JackoLantern
+[2019.10.24-03.25.38:996][  0]Cmd: SELECT NONE
+[2019.10.24-03.25.44:322][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_JackoLantern)
+[2019.10.24-03.26.02:207][315]Cmd: SELECT NONE
+[2019.10.24-03.26.27:424][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.26.27:707][724]LogActorFactory: Actor Factory created SM_CreepyTree
+[2019.10.24-03.26.30:508][972]LogActorFactory: Actor Factory created SM_CreepyTree
+[2019.10.24-03.26.55:507][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.26.55:718][428]LogActorFactory: Actor Factory created SM_CreepyTree
+[2019.10.24-03.26.57:513][576]LogActorFactory: Actor Factory created SM_CreepyTree
+[2019.10.24-03.27.07:080][509]Cmd: SELECT NONE
+[2019.10.24-03.27.18:454][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CreepyTree2)
+[2019.10.24-03.27.22:238][181]Cmd: SELECT NONE
+[2019.10.24-03.27.23:684][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CreepyTree2)
+[2019.10.24-03.27.31:558][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CreepyTree)
+[2019.10.24-03.27.39:379][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CreepyTree3)
+[2019.10.24-03.27.49:584][914]Cmd: SELECT NONE
+[2019.10.24-03.28.04:891][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CreepyTree)
+[2019.10.24-03.28.16:550][741]Cmd: TRANSACTION UNDO
+[2019.10.24-03.28.16:550][741]LogEditorTransaction: Undo Scale Actors
+[2019.10.24-03.28.19:311][  7]Cmd: SELECT NONE
+[2019.10.24-03.28.22:560][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CreepyTree)
+[2019.10.24-03.28.30:826][112]Cmd: SELECT NONE
+[2019.10.24-03.28.30:894][120]Cmd: SELECT NONE
+[2019.10.24-03.28.33:469][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CreepyTree)
+[2019.10.24-03.28.37:856][771]Cmd: SELECT NONE
+[2019.10.24-03.29.00:422][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.24-03.29.00:428][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-03.29.00:459][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.10.24-03.29.01:732][752]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map71F0C53D43F45F344D355F9D850A5624.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.24-03.29.01:765][752]LogFileHelpers: Saving map 'Halloween_Map' took 1.332
