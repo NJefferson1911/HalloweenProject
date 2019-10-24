@@ -2168,3 +2168,314 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-03.29.00:459][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
 [2019.10.24-03.29.01:732][752]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map71F0C53D43F45F344D355F9D850A5624.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
 [2019.10.24-03.29.01:765][752]LogFileHelpers: Saving map 'Halloween_Map' took 1.332
+[2019.10.24-03.29.43:159][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.29.43:395][614]LogActorFactory: Actor Factory created SM_Candle02_lit
+[2019.10.24-03.29.44:528][719]LogActorFactory: Actor Factory created SM_Candle02_lit
+[2019.10.24-03.29.52:935][564]Cmd: SELECT NONE
+[2019.10.24-03.30.07:316][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_JackoLantern)
+[2019.10.24-03.30.08:267][141]Cmd: DELETE
+[2019.10.24-03.30.08:267][141]Cmd: ACTOR DELETE
+[2019.10.24-03.30.08:283][141]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-03.30.08:310][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.24-03.30.08:310][141]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.10.24-03.30.22:833][555]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-03.30.23:743][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.10.24-03.30.23:749][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-03.30.23:780][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.24-03.30.25:013][652]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map04882A2748D5B7EAB4C8A2A2BB4E559A.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.24-03.30.25:045][652]LogFileHelpers: Saving map 'Halloween_Map' took 1.291
+[2019.10.24-03.30.37:325][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.30.37:577][ 47]LogActorFactory: Actor Factory created SM_FencePillar
+[2019.10.24-03.30.39:928][302]LogActorFactory: Actor Factory created SM_FencePillar
+[2019.10.24-03.30.43:831][690]Cmd: SELECT NONE
+[2019.10.24-03.31.01:206][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.31.15:728][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.31.25:526][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.31.28:679][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.31.32:081][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.31.33:973][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.31.37:545][978]Cmd: SELECT NONE
+[2019.10.24-03.31.46:352][ 11]LogEditorViewport: Clicking on Actor (LMB): BP_Lantern_C (BP_Lantern)
+[2019.10.24-03.32.04:359][859]Cmd: TRANSACTION UNDO
+[2019.10.24-03.32.04:359][859]LogEditorTransaction: Undo Move Actors
+[2019.10.24-03.32.27:652][312]Cmd: SELECT NONE
+[2019.10.24-03.32.32:829][858]LogEditorViewport: Clicking on Actor (LMB): BP_Lantern_C (BP_Lantern)
+[2019.10.24-03.32.34:208][999]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-03.32.35:119][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-03.32.35:121][ 93]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Realistic_Halloween_Props/Blueprints/BP_Lantern.BP_Lantern
+[2019.10.24-03.32.35:561][ 93]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 121 classes and 0 folders.
+[2019.10.24-03.32.36:538][ 93]LogSlate: Took 0.004595 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.24-03.32.56:791][375]BlueprintLog: New page: Compile BP_Lantern
+[2019.10.24-03.32.57:134][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2019.10.24-03.32.58:039][430]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/BP_LanternE61A5BD947F1D245BDA92DBE4DD78428.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Realistic_Halloween_Props/Blueprints/BP_Lantern.uasset'
+[2019.10.24-03.32.59:966][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.33.00:055][569]LogSlate: Window 'BP_Lantern' being destroyed
+[2019.10.24-03.33.00:059][569]LogSlate: Window 'BP_Lantern' being destroyed
+[2019.10.24-03.33.01:289][690]Cmd: SELECT NONE
+[2019.10.24-03.33.04:659][ 53]LogEditorViewport: Clicking on Actor (LMB): BP_Lantern_C (BP_Lantern)
+[2019.10.24-03.33.07:017][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-03.33.07:978][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-03.33.07:980][387]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Realistic_Halloween_Props/Blueprints/BP_Lantern.BP_Lantern
+[2019.10.24-03.33.41:101][538]BlueprintLog: New page: Compile BP_Lantern
+[2019.10.24-03.33.41:305][538]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.10.24-03.33.42:647][625]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/BP_LanternB6CA219C4C51DEDE1348B4B46EA524E0.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Realistic_Halloween_Props/Blueprints/BP_Lantern.uasset'
+[2019.10.24-03.33.43:919][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.33.44:003][720]LogSlate: Window 'BP_Lantern' being destroyed
+[2019.10.24-03.34.09:286][327]Cmd: SELECT NONE
+[2019.10.24-03.34.27:766][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.34.50:839][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CreepyTree2)
+[2019.10.24-03.34.57:524][958]Cmd: TRANSACTION UNDO
+[2019.10.24-03.34.57:524][958]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-03.35.00:598][236]Cmd: SELECT NONE
+[2019.10.24-03.35.07:535][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CreepyTree2)
+[2019.10.24-03.35.09:938][264]Cmd: SELECT NONE
+[2019.10.24-03.35.12:970][605]Cmd: TRANSACTION UNDO
+[2019.10.24-03.35.12:971][605]LogEditorTransaction: Undo Select None
+[2019.10.24-03.35.13:463][632]Cmd: TRANSACTION UNDO
+[2019.10.24-03.35.13:463][632]LogEditorTransaction: Undo Scale Actors
+[2019.10.24-03.35.14:374][722]Cmd: SELECT NONE
+[2019.10.24-03.35.29:568][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.36.20:178][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.36.29:563][553]LogTexture: Display: Building textures: T_ground_dirt_04_BC_H (AutoDXT, 2048X2048)
+[2019.10.24-03.36.29:563][553]LogTexture: Display: Building textures: T_ground_dirt_04_MT_R_AO (AutoDXT, 2048X2048)
+[2019.10.24-03.36.29:563][553]LogTexture: Display: Building textures: T_ground_rocks_03_N (BC5, 2048X2048)
+[2019.10.24-03.36.29:563][553]LogTexture: Display: Building textures: T_ground_rocks_03_0_BC_H (AutoDXT, 2048X2048)
+[2019.10.24-03.36.29:563][553]LogTexture: Display: Building textures: T_ground_dirt_04_N (BC5, 2048X2048)
+[2019.10.24-03.36.29:563][553]LogTexture: Display: Building textures: T_ground_rocks_03_MT_R_AO (AutoDXT, 2048X2048)
+[2019.10.24-03.36.29:563][553]LogTexture: Display: Building textures: T_ground_rocks_03_1_BC_H (AutoDXT, 2048X2048)
+[2019.10.24-03.36.29:563][553]LogMaterial: Display: Missing cached shader map for material M_UV_Free_Cover, compiling. 
+[2019.10.24-03.36.29:635][553]LogStaticMesh: Building static mesh SM_road_border_01...
+[2019.10.24-03.36.29:691][553]LogStaticMesh: Built static mesh [0.06s] /Game/Environment_Set/Environment/Rocks/Models/SM_road_border_01.SM_road_border_01
+[2019.10.24-03.36.47:714][126]Cmd: SELECT NONE
+[2019.10.24-03.36.48:652][232]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_2)
+[2019.10.24-03.36.49:429][314]Cmd: DELETE
+[2019.10.24-03.36.49:429][314]Cmd: ACTOR DELETE
+[2019.10.24-03.36.49:449][314]LogEditorActor: Deleted Actor: SM_road_border_01_Blueprint_2_C
+[2019.10.24-03.36.49:487][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.10.24-03.36.49:487][314]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.10.24-03.36.56:526][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.37.07:203][  4]Cmd: TRANSACTION UNDO
+[2019.10.24-03.37.07:203][  4]LogEditorTransaction: Undo Scale Actors
+[2019.10.24-03.38.16:133][538]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_2)
+[2019.10.24-03.38.34:456][358]Cmd: SELECT NONE
+[2019.10.24-03.38.46:708][602]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_3)
+[2019.10.24-03.39.22:980][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.39.47:288][265]Cmd: SELECT NONE
+[2019.10.24-03.39.52:930][865]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_5)
+[2019.10.24-03.40.16:389][ 84]Cmd: SELECT NONE
+[2019.10.24-03.40.34:178][953]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_2)
+[2019.10.24-03.40.59:915][146]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_3)
+[2019.10.24-03.41.00:400][185]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_3)
+[2019.10.24-03.41.01:258][265]Cmd: DELETE
+[2019.10.24-03.41.01:258][265]Cmd: ACTOR DELETE
+[2019.10.24-03.41.01:277][265]LogEditorActor: Deleted Actor: SM_road_border_01_Blueprint_2_C
+[2019.10.24-03.41.01:324][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.24-03.41.01:324][265]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2019.10.24-03.41.02:402][373]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_2)
+[2019.10.24-03.41.26:502][517]Cmd: SELECT NONE
+[2019.10.24-03.41.35:904][510]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_4)
+[2019.10.24-03.41.43:454][229]Cmd: SELECT NONE
+[2019.10.24-03.41.47:558][669]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_4)
+[2019.10.24-03.41.50:507][985]Cmd: SELECT NONE
+[2019.10.24-03.41.56:401][627]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_4)
+[2019.10.24-03.42.00:096][944]Cmd: TRANSACTION UNDO
+[2019.10.24-03.42.00:097][944]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-03.42.25:901][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.43.43:029][674]Cmd: SELECT NONE
+[2019.10.24-03.43.49:340][300]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_2)
+[2019.10.24-03.44.04:505][752]Cmd: TRANSACTION UNDO
+[2019.10.24-03.44.04:505][752]LogEditorTransaction: Undo Move Actors
+[2019.10.24-03.44.05:040][794]Cmd: TRANSACTION UNDO
+[2019.10.24-03.44.05:040][794]LogEditorTransaction: Undo Move Actors
+[2019.10.24-03.44.06:409][936]Cmd: TRANSACTION UNDO
+[2019.10.24-03.44.06:410][936]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-03.44.16:458][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.44.22:991][540]Cmd: TRANSACTION UNDO
+[2019.10.24-03.44.22:991][540]LogEditorTransaction: Undo Move Actors
+[2019.10.24-03.44.23:329][563]Cmd: TRANSACTION UNDO
+[2019.10.24-03.44.23:330][563]LogEditorTransaction: Undo Rotate Actors
+[2019.10.24-03.44.24:445][664]Cmd: TRANSACTION UNDO
+[2019.10.24-03.44.24:445][664]LogEditorTransaction: Undo Move Actors
+[2019.10.24-03.44.25:731][781]Cmd: TRANSACTION UNDO
+[2019.10.24-03.44.25:731][781]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.24-03.44.32:700][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.44.32:777][538]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.24-03.44.32:794][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-03.44.32:794][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-03.44.32:794][538]PIE: New page: PIE session: Halloween_Map (Oct 23, 2019, 5:44:32 PM)
+[2019.10.24-03.44.32:794][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.24-03.44.32:891][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097183s)
+[2019.10.24-03.44.32:892][538]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.24-03.44.32:892][538]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2019.10.24-03.44.32:893][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.098987s)
+[2019.10.24-03.44.32:944][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.10.24-03.44.32:951][538]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.24-03.44.33:017][538]LogInit: FAudioDevice initialized.
+[2019.10.24-03.44.33:046][538]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-03.44.33:075][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 0) at 2019.10.23-22.44.33
+[2019.10.24-03.44.33:080][538]LogWorld: Bringing up level for play took: 0.032648
+[2019.10.24-03.44.33:093][538]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 1.225
+[2019.10.24-03.44.33:094][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-03.45.12:779][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-03.45.12:779][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-03.45.12:825][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-03.45.12:825][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-03.45.12:912][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-03.45.12:927][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.10.24-03.45.12:955][200]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.10.24-03.45.15:964][507]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_8)
+[2019.10.24-03.45.17:141][623]Cmd: DELETE
+[2019.10.24-03.45.17:141][623]Cmd: ACTOR DELETE
+[2019.10.24-03.45.17:158][623]LogEditorActor: Deleted Actor: SM_road_border_01_Blueprint_2_C
+[2019.10.24-03.45.17:192][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.10.24-03.45.17:192][623]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2019.10.24-03.45.18:104][727]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_7)
+[2019.10.24-03.45.18:440][759]Cmd: DELETE
+[2019.10.24-03.45.18:440][759]Cmd: ACTOR DELETE
+[2019.10.24-03.45.18:457][759]LogEditorActor: Deleted Actor: SM_road_border_01_Blueprint_2_C
+[2019.10.24-03.45.18:485][759]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.24-03.45.18:486][759]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2019.10.24-03.45.18:953][811]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_3)
+[2019.10.24-03.45.19:258][840]Cmd: DELETE
+[2019.10.24-03.45.19:258][840]Cmd: ACTOR DELETE
+[2019.10.24-03.45.19:274][840]LogEditorActor: Deleted Actor: SM_road_border_01_Blueprint_2_C
+[2019.10.24-03.45.19:303][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.10.24-03.45.19:303][840]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2019.10.24-03.45.20:800][995]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_2)
+[2019.10.24-03.45.20:947][  4]Cmd: DELETE
+[2019.10.24-03.45.20:947][  4]Cmd: ACTOR DELETE
+[2019.10.24-03.45.20:966][  4]LogEditorActor: Deleted Actor: SM_road_border_01_Blueprint_2_C
+[2019.10.24-03.45.20:996][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.10.24-03.45.20:996][  4]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.10.24-03.45.32:514][267]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_4)
+[2019.10.24-03.45.33:463][353]Cmd: DELETE
+[2019.10.24-03.45.33:463][353]Cmd: ACTOR DELETE
+[2019.10.24-03.45.33:481][353]LogEditorActor: Deleted Actor: SM_road_border_01_Blueprint_2_C
+[2019.10.24-03.45.33:511][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.24-03.45.33:512][353]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.10.24-03.45.34:202][422]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_5)
+[2019.10.24-03.45.34:430][438]Cmd: DELETE
+[2019.10.24-03.45.34:430][438]Cmd: ACTOR DELETE
+[2019.10.24-03.45.34:449][438]LogEditorActor: Deleted Actor: SM_road_border_01_Blueprint_2_C
+[2019.10.24-03.45.34:482][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.24-03.45.34:483][438]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.10.24-03.45.35:162][509]LogEditorViewport: Clicking on Actor (LMB): SM_road_border_01_Blueprint_2_C (SM_road_border_01_Blueprint_6)
+[2019.10.24-03.45.35:433][530]Cmd: DELETE
+[2019.10.24-03.45.35:433][530]Cmd: ACTOR DELETE
+[2019.10.24-03.45.35:451][530]LogEditorActor: Deleted Actor: SM_road_border_01_Blueprint_2_C
+[2019.10.24-03.45.35:482][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.10.24-03.45.35:482][530]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.10.24-03.45.47:701][842]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_4)
+[2019.10.24-03.46.17:088][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-03.46.17:127][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.10.24-03.46.18:576][862]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto6CAF3563E41A04D72783BD28D05094275.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto6.umap'
+[2019.10.24-03.46.18:589][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.491
+[2019.10.24-03.46.18:589][862]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.491
+[2019.10.24-03.47.50:397][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.48.07:150][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-03.48.08:100][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-03.48.08:103][ 26]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Environment_Set/Environment/Rocks/Blueprints/SM_Big_Rock_03_Blueprint_2.SM_Big_Rock_03_Blueprint_2
+[2019.10.24-03.48.25:973][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.48.27:821][434]LogSlate: Window 'SM_Big_Rock_03_Blueprint_2' being destroyed
+[2019.10.24-03.48.27:827][434]LogSlate: Window 'SM_Big_Rock_03_Blueprint_2' being destroyed
+[2019.10.24-03.48.48:351][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.48.50:738][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.48.50:951][292]LogStaticMesh: Building static mesh SM_Middle_Rock_01...
+[2019.10.24-03.48.51:027][292]LogStaticMesh: Built static mesh [0.08s] /Game/Environment_Set/Environment/Rocks/Models/SM_Middle_Rock_01.SM_Middle_Rock_01
+[2019.10.24-03.48.58:629][985]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_8)
+[2019.10.24-03.49.01:382][249]LogEditorViewport: Clicking on Actor (LMB): SM_Middle_Rock_01_Blueprint_2_C (SM_Middle_Rock_01_Blueprint_2)
+[2019.10.24-03.49.18:938][913]Cmd: TRANSACTION UNDO
+[2019.10.24-03.49.18:938][913]LogEditorTransaction: Undo Move Actors
+[2019.10.24-03.49.33:222][263]Cmd: SELECT NONE
+[2019.10.24-03.49.36:648][608]LogEditorViewport: Clicking on Actor (LMB): SM_Middle_Rock_01_Blueprint_2_C (SM_Middle_Rock_01_Blueprint_2)
+[2019.10.24-03.49.43:338][167]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_8)
+[2019.10.24-03.50.07:075][430]Cmd: SELECT NONE
+[2019.10.24-03.50.10:382][778]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_9)
+[2019.10.24-03.50.13:885][118]Cmd: SELECT NONE
+[2019.10.24-03.50.31:713][147]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_6)
+[2019.10.24-03.50.54:547][479]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_9)
+[2019.10.24-03.50.55:613][579]Cmd: SELECT NONE
+[2019.10.24-03.51.00:313][ 55]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_9)
+[2019.10.24-03.51.05:051][493]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_6)
+[2019.10.24-03.51.06:899][667]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_9)
+[2019.10.24-03.51.09:389][906]Cmd: SELECT NONE
+[2019.10.24-03.51.16:752][725]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_9)
+[2019.10.24-03.52.03:940][957]Cmd: SELECT NONE
+[2019.10.24-03.52.08:854][421]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_10)
+[2019.10.24-03.52.11:731][687]Cmd: SELECT NONE
+[2019.10.24-03.52.17:504][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CreepyTree)
+[2019.10.24-03.52.20:509][522]Cmd: SELECT NONE
+[2019.10.24-03.52.37:892][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone13)
+[2019.10.24-03.52.39:838][585]Cmd: SELECT NONE
+[2019.10.24-03.53.01:447][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.53.06:614][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-03.53.09:408][606]LogEditorViewport: Clicking on Actor (LMB): SM_Middle_Rock_01_Blueprint_2_C (SM_Middle_Rock_01_Blueprint_4)
+[2019.10.24-03.53.10:167][671]Cmd: DELETE
+[2019.10.24-03.53.10:167][671]Cmd: ACTOR DELETE
+[2019.10.24-03.53.10:186][671]LogEditorActor: Deleted Actor: SM_Middle_Rock_01_Blueprint_2_C
+[2019.10.24-03.53.10:231][671]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.10.24-03.53.10:231][671]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2019.10.24-03.53.11:477][796]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_11)
+[2019.10.24-03.54.27:391][ 83]Cmd: TRANSACTION UNDO
+[2019.10.24-03.54.27:391][ 83]LogEditorTransaction: Undo Move Actors
+[2019.10.24-03.54.47:381][981]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_12)
+[2019.10.24-03.55.05:753][626]Cmd: TRANSACTION UNDO
+[2019.10.24-03.55.05:753][626]LogEditorTransaction: Undo Move Actors
+[2019.10.24-03.55.12:796][325]Cmd: SELECT NONE
+[2019.10.24-03.55.20:628][ 79]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_13)
+[2019.10.24-03.55.37:891][515]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_12)
+[2019.10.24-03.55.38:592][573]Cmd: DELETE
+[2019.10.24-03.55.38:592][573]Cmd: ACTOR DELETE
+[2019.10.24-03.55.38:610][573]LogEditorActor: Deleted Actor: SM_Big_Rock_03_Blueprint_2_C
+[2019.10.24-03.55.38:647][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.10.24-03.55.38:647][573]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.10.24-03.55.39:953][704]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_13)
+[2019.10.24-03.55.45:491][182]Cmd: SELECT NONE
+[2019.10.24-03.55.50:337][685]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_15)
+[2019.10.24-03.55.53:113][956]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_13)
+[2019.10.24-03.55.57:031][336]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_13)
+[2019.10.24-03.56.06:364][151]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_14)
+[2019.10.24-03.56.11:427][648]Cmd: SELECT NONE
+[2019.10.24-03.56.15:989][127]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_14)
+[2019.10.24-03.56.20:638][549]Cmd: SELECT NONE
+[2019.10.24-03.56.29:314][386]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_14)
+[2019.10.24-03.57.20:095][968]Cmd: SELECT NONE
+[2019.10.24-03.57.24:884][452]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_17)
+[2019.10.24-03.57.32:535][166]Cmd: SELECT NONE
+[2019.10.24-03.57.42:130][215]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_17)
+[2019.10.24-03.57.42:564][238]LogEditorViewport: Clicking on Actor (CTRL LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_16)
+[2019.10.24-03.57.55:673][330]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_19)
+[2019.10.24-03.58.28:593][451]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_18)
+[2019.10.24-03.58.32:512][792]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_18)
+[2019.10.24-03.58.46:546][146]Cmd: SELECT NONE
+[2019.10.24-03.58.49:638][433]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_18)
+[2019.10.24-03.59.17:461][ 25]Cmd: SELECT NONE
+[2019.10.24-03.59.25:771][877]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_18)
+[2019.10.24-04.00.32:405][736]Cmd: SELECT NONE
+[2019.10.24-04.00.34:230][873]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_23)
+[2019.10.24-04.00.36:594][ 68]Cmd: SELECT NONE
+[2019.10.24-04.00.40:743][495]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_23)
+[2019.10.24-04.00.50:554][381]Cmd: SELECT NONE
+[2019.10.24-04.00.58:234][133]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_21)
+[2019.10.24-04.01.38:218][489]Cmd: SELECT NONE
+[2019.10.24-04.01.41:299][758]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_26)
+[2019.10.24-04.01.46:924][239]Cmd: SELECT NONE
+[2019.10.24-04.02.06:618][318]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_26)
+[2019.10.24-04.02.31:935][518]Cmd: SELECT NONE
+[2019.10.24-04.02.38:274][165]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_27)
+[2019.10.24-04.03.15:758][629]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_10)
+[2019.10.24-04.03.30:558][973]Cmd: SELECT NONE
+[2019.10.24-04.03.35:085][415]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_28)
+[2019.10.24-04.03.39:188][767]Cmd: SELECT NONE
+[2019.10.24-04.03.42:912][101]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_28)
+[2019.10.24-04.03.48:728][568]Cmd: SELECT NONE
+[2019.10.24-04.03.54:125][111]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_10)
+[2019.10.24-04.04.08:394][289]Cmd: SELECT NONE
+[2019.10.24-04.04.13:143][746]LogEditorViewport: Clicking on Actor (LMB): SM_Big_Rock_03_Blueprint_2_C (SM_Big_Rock_03_Blueprint_10)
+[2019.10.24-04.04.19:802][328]Cmd: SELECT NONE
+[2019.10.24-04.05.08:298][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-04.05.09:461][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.10.24-04.05.09:466][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-04.05.09:500][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.10.24-04.05.10:939][162]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map6AD8DC1248F7AE5292560BBDAB878B55.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.24-04.05.11:011][162]LogFileHelpers: Saving map 'Halloween_Map' took 1.541
