@@ -1156,3 +1156,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-02.14.17:706][249]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
 [2019.10.24-02.14.18:725][249]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map27A589BA4DC1CA0B992002917F7F6DE4.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
 [2019.10.24-02.14.18:773][249]LogFileHelpers: Saving map 'Halloween_Map' took 1.315
+[2019.10.24-02.17.48:010][983]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-02.17.49:189][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
