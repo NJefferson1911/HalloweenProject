@@ -1158,3 +1158,371 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-02.14.18:773][249]LogFileHelpers: Saving map 'Halloween_Map' took 1.315
 [2019.10.24-02.17.48:010][983]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.10.24-02.17.49:189][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.10.24-02.21.36:911][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.21.45:994][203]LogTexture: Display: Building textures: T_Gravestone03_MRAO (AutoDXT, 4096X4096)
+[2019.10.24-02.21.45:994][203]LogTexture: Display: Building textures: T_Gravestone03 (AutoDXT, 4096X4096)
+[2019.10.24-02.21.45:994][203]LogTexture: Display: Building textures: T_Gravestone03_N (BC5, 4096X4096)
+[2019.10.24-02.21.45:994][203]LogStaticMesh: Building static mesh SM_Gravestone03...
+[2019.10.24-02.21.46:067][203]LogStaticMesh: Built static mesh [0.07s] /Game/Realistic_Halloween_Props/Meshes/SM_Gravestone03.SM_Gravestone03
+[2019.10.24-02.21.46:098][203]LogActorFactory: Actor Factory created SM_Gravestone03
+[2019.10.24-02.21.49:102][457]LogActorFactory: Actor Factory created SM_Gravestone03
+[2019.10.24-02.21.54:865][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.21.55:011][920]LogStaticMesh: Building static mesh SM_Gravestone02...
+[2019.10.24-02.21.55:098][920]LogStaticMesh: Built static mesh [0.09s] /Game/Realistic_Halloween_Props/Meshes/SM_Gravestone02.SM_Gravestone02
+[2019.10.24-02.22.04:827][920]LogTexture: Display: Building textures: T_Gravestone02_MRAO (AutoDXT, 4096X4096)
+[2019.10.24-02.22.04:827][920]LogTexture: Display: Building textures: T_Gravestone02 (AutoDXT, 4096X4096)
+[2019.10.24-02.22.04:827][920]LogTexture: Display: Building textures: T_Gravestone02_N (BC5, 4096X4096)
+[2019.10.24-02.22.04:854][920]LogActorFactory: Actor Factory created SM_Gravestone02
+[2019.10.24-02.22.04:865][920]LogActorFactory: Actor Factory created SM_Gravestone02
+[2019.10.24-02.22.08:473][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.22.08:621][184]LogStaticMesh: Building static mesh SM_Gravestone01...
+[2019.10.24-02.22.08:678][184]LogStaticMesh: Built static mesh [0.06s] /Game/Realistic_Halloween_Props/Meshes/SM_Gravestone01.SM_Gravestone01
+[2019.10.24-02.22.20:414][184]LogTexture: Display: Building textures: T_Gravestone01_MRAO (AutoDXT, 4096X4096)
+[2019.10.24-02.22.20:414][184]LogTexture: Display: Building textures: T_Gravestone01 (AutoDXT, 4096X4096)
+[2019.10.24-02.22.20:414][184]LogTexture: Display: Building textures: T_Gravestone01_N (BC5, 4096X4096)
+[2019.10.24-02.22.20:438][184]LogActorFactory: Actor Factory created SM_Gravestone01
+[2019.10.24-02.22.20:449][184]LogActorFactory: Actor Factory created SM_Gravestone01
+[2019.10.24-02.22.27:124][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.22.39:065][659]LogTexture: Display: Building textures: T_Gravestone04_MRAO (AutoDXT, 4096X4096)
+[2019.10.24-02.22.39:066][659]LogTexture: Display: Building textures: T_Gravestone04 (AutoDXT, 4096X4096)
+[2019.10.24-02.22.39:066][659]LogTexture: Display: Building textures: T_Gravestone04_N (BC5, 4096X4096)
+[2019.10.24-02.22.39:066][659]LogStaticMesh: Building static mesh SM_Gravestone04...
+[2019.10.24-02.22.39:105][659]LogStaticMesh: Built static mesh [0.04s] /Game/Realistic_Halloween_Props/Meshes/SM_Gravestone04.SM_Gravestone04
+[2019.10.24-02.22.39:135][659]LogActorFactory: Actor Factory created SM_Gravestone04
+[2019.10.24-02.22.41:291][823]LogActorFactory: Actor Factory created SM_Gravestone04
+[2019.10.24-02.22.44:102][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.22.55:807][ 14]LogTexture: Display: Building textures: T_Gravestone05_MRAO (AutoDXT, 4096X4096)
+[2019.10.24-02.22.55:807][ 14]LogTexture: Display: Building textures: T_Gravestone05 (AutoDXT, 4096X4096)
+[2019.10.24-02.22.55:807][ 14]LogTexture: Display: Building textures: T_Gravestone05_N (BC5, 4096X4096)
+[2019.10.24-02.22.55:807][ 14]LogStaticMesh: Building static mesh SM_Gravestone05...
+[2019.10.24-02.22.55:857][ 14]LogStaticMesh: Built static mesh [0.05s] /Game/Realistic_Halloween_Props/Meshes/SM_Gravestone05.SM_Gravestone05
+[2019.10.24-02.22.55:884][ 14]LogActorFactory: Actor Factory created SM_Gravestone05
+[2019.10.24-02.22.59:431][284]LogActorFactory: Actor Factory created SM_Gravestone05
+[2019.10.24-02.23.03:631][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.23.03:924][539]LogActorFactory: Actor Factory created SM_Gravestone02
+[2019.10.24-02.23.05:088][608]LogActorFactory: Actor Factory created SM_Gravestone02
+[2019.10.24-02.23.15:719][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.23.27:884][290]LogTexture: Display: Building textures: T_Gravestone07_MRAO (AutoDXT, 4096X4096)
+[2019.10.24-02.23.27:885][290]LogTexture: Display: Building textures: T_Gravestone07 (AutoDXT, 4096X4096)
+[2019.10.24-02.23.27:885][290]LogTexture: Display: Building textures: T_Gravestone07_N (BC5, 4096X4096)
+[2019.10.24-02.23.27:885][290]LogStaticMesh: Building static mesh SM_Gravestone07_Top...
+[2019.10.24-02.23.27:904][290]LogStaticMesh: Built static mesh [0.02s] /Game/Realistic_Halloween_Props/Meshes/SM_GraveStone07_Top.SM_Gravestone07_Top
+[2019.10.24-02.23.27:913][290]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-02.23.27:915][290]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Realistic_Halloween_Props/Meshes/SM_GraveStone07_Top.SM_Gravestone07_Top
+[2019.10.24-02.23.28:569][290]LogRenderer: Reallocating scene render targets to support 1268x704 Format 10 NumSamples 1 (Frame:1).
+[2019.10.24-02.23.28:569][290]LogSlate: Took 0.006801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.24-02.23.32:785][561]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.638 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.24-02.23.33:820][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.23.33:922][630]LogSlate: Window 'SM_Gravestone07_Top' being destroyed
+[2019.10.24-02.23.33:938][630]LogSlate: Window 'SM_Gravestone07_Top' being destroyed
+[2019.10.24-02.24.01:826][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.02:173][557]LogActorFactory: Actor Factory created SM_Gravestone03
+[2019.10.24-02.24.05:897][784]LogActorFactory: Actor Factory created SM_Gravestone03
+[2019.10.24-02.24.06:984][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.07:165][841]LogActorFactory: Actor Factory created SM_Gravestone04
+[2019.10.24-02.24.08:760][926]LogActorFactory: Actor Factory created SM_Gravestone04
+[2019.10.24-02.24.09:702][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.09:855][977]LogActorFactory: Actor Factory created SM_Gravestone04
+[2019.10.24-02.24.11:197][ 48]LogActorFactory: Actor Factory created SM_Gravestone04
+[2019.10.24-02.24.12:409][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.12:633][116]LogActorFactory: Actor Factory created SM_Gravestone02
+[2019.10.24-02.24.16:428][339]LogActorFactory: Actor Factory created SM_Gravestone02
+[2019.10.24-02.24.17:338][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.17:582][391]LogActorFactory: Actor Factory created SM_Gravestone05
+[2019.10.24-02.24.19:641][512]LogActorFactory: Actor Factory created SM_Gravestone05
+[2019.10.24-02.24.20:785][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.21:016][577]LogActorFactory: Actor Factory created SM_Gravestone01
+[2019.10.24-02.24.23:774][742]LogActorFactory: Actor Factory created SM_Gravestone01
+[2019.10.24-02.24.26:885][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.26:973][895]LogStaticMesh: Building static mesh SM_Gravestone07...
+[2019.10.24-02.24.27:015][895]LogStaticMesh: Built static mesh [0.04s] /Game/Realistic_Halloween_Props/Meshes/SM_GraveStone07.SM_Gravestone07
+[2019.10.24-02.24.27:201][904]LogActorFactory: Actor Factory created SM_Gravestone07
+[2019.10.24-02.24.30:976][139]LogActorFactory: Actor Factory created SM_Gravestone07
+[2019.10.24-02.24.33:466][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.33:692][267]LogActorFactory: Actor Factory created SM_Gravestone01
+[2019.10.24-02.24.37:965][527]LogActorFactory: Actor Factory created SM_Gravestone01
+[2019.10.24-02.24.38:923][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.39:186][589]LogActorFactory: Actor Factory created SM_Gravestone01
+[2019.10.24-02.24.41:004][691]LogActorFactory: Actor Factory created SM_Gravestone01
+[2019.10.24-02.24.42:290][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.42:660][766]LogActorFactory: Actor Factory created SM_Gravestone07
+[2019.10.24-02.24.46:287][991]LogActorFactory: Actor Factory created SM_Gravestone07
+[2019.10.24-02.24.47:544][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.47:731][ 60]LogActorFactory: Actor Factory created SM_Gravestone03
+[2019.10.24-02.24.49:805][179]LogActorFactory: Actor Factory created SM_Gravestone03
+[2019.10.24-02.24.51:038][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.51:223][248]LogActorFactory: Actor Factory created SM_Gravestone02
+[2019.10.24-02.24.54:012][410]LogActorFactory: Actor Factory created SM_Gravestone02
+[2019.10.24-02.24.55:083][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.24.55:306][470]LogActorFactory: Actor Factory created SM_Gravestone02
+[2019.10.24-02.25.02:477][913]LogActorFactory: Actor Factory created SM_Gravestone02
+[2019.10.24-02.25.06:792][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.25.07:040][132]LogActorFactory: Actor Factory created SM_Gravestone05
+[2019.10.24-02.25.10:642][346]LogActorFactory: Actor Factory created SM_Gravestone05
+[2019.10.24-02.25.16:563][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.25.16:661][803]LogStaticMesh: Building static mesh SM_Dirtpile...
+[2019.10.24-02.25.16:724][803]LogStaticMesh: Built static mesh [0.06s] /Game/Realistic_Halloween_Props/Meshes/SM_Dirtpile.SM_Dirtpile
+[2019.10.24-02.25.24:927][803]LogTexture: Display: Building textures: T_Dirtpile (AutoDXT, 4096X4096)
+[2019.10.24-02.25.24:927][803]LogTexture: Display: Building textures: T_Dirtpile_MRAO (AutoDXT, 4096X4096)
+[2019.10.24-02.25.24:927][803]LogTexture: Display: Building textures: T_Dirtpile_N (BC5, 4096X4096)
+[2019.10.24-02.25.24:955][803]LogActorFactory: Actor Factory created SM_Dirtpile
+[2019.10.24-02.25.24:965][803]LogActorFactory: Actor Factory created SM_Dirtpile
+[2019.10.24-02.25.36:446][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.25.36:541][978]Cmd: MODE ROTGRID=0
+[2019.10.24-02.25.55:710][786]Cmd: DELETE
+[2019.10.24-02.25.55:710][786]Cmd: ACTOR DELETE
+[2019.10.24-02.25.55:727][786]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-02.25.55:757][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.10.24-02.25.55:757][786]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.10.24-02.25.58:987][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.25.59:174][111]LogActorFactory: Actor Factory created SM_Dirtpile
+[2019.10.24-02.26.01:360][297]LogActorFactory: Actor Factory created SM_Dirtpile
+[2019.10.24-02.26.04:289][504]Cmd: DELETE
+[2019.10.24-02.26.04:289][504]Cmd: ACTOR DELETE
+[2019.10.24-02.26.04:308][504]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-02.26.04:332][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.10.24-02.26.04:332][504]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.10.24-02.26.07:125][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.26.07:347][696]LogActorFactory: Actor Factory created SM_Dirtpile
+[2019.10.24-02.26.08:076][735]LogActorFactory: Actor Factory created SM_Dirtpile
+[2019.10.24-02.26.15:944][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone5)
+[2019.10.24-02.26.32:217][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone11)
+[2019.10.24-02.26.44:050][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone13)
+[2019.10.24-02.26.49:867][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone10)
+[2019.10.24-02.26.56:449][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone15)
+[2019.10.24-02.27.04:081][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone4)
+[2019.10.24-02.27.10:763][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone5)
+[2019.10.24-02.27.16:023][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone8)
+[2019.10.24-02.27.21:320][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone9)
+[2019.10.24-02.27.30:723][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone14)
+[2019.10.24-02.27.39:443][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone07)
+[2019.10.24-02.27.51:316][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone12)
+[2019.10.24-02.27.57:766][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone07)
+[2019.10.24-02.28.01:526][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone6)
+[2019.10.24-02.28.55:324][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-02.28.55:369][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.10.24-02.28.56:658][368]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto44629BA17440C4585C72018B7A6978381.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto4.umap'
+[2019.10.24-02.28.56:667][368]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.322
+[2019.10.24-02.28.56:667][368]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.322
+[2019.10.24-02.32.06:267][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone6)
+[2019.10.24-02.32.16:298][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone7)
+[2019.10.24-02.32.32:242][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone2)
+[2019.10.24-02.32.40:679][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone10)
+[2019.10.24-02.32.43:422][809]Cmd: SELECT NONE
+[2019.10.24-02.32.48:869][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile)
+[2019.10.24-02.33.11:626][474]Cmd: SELECT NONE
+[2019.10.24-02.33.18:042][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile)
+[2019.10.24-02.33.25:344][866]Cmd: SELECT NONE
+[2019.10.24-02.33.29:006][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile)
+[2019.10.24-02.33.32:317][624]Cmd: SELECT NONE
+[2019.10.24-02.34.04:335][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.34.17:639][877]LogTexture: Display: Building textures: T_Gravestone06_MRAO (AutoDXT, 4096X4096)
+[2019.10.24-02.34.17:639][877]LogTexture: Display: Building textures: T_Gravestone06 (AutoDXT, 4096X4096)
+[2019.10.24-02.34.17:639][877]LogTexture: Display: Building textures: T_Gravestone06_N (BC5, 4096X4096)
+[2019.10.24-02.34.17:639][877]LogStaticMesh: Building static mesh SM_Gravestone06...
+[2019.10.24-02.34.17:671][877]LogStaticMesh: Built static mesh [0.03s] /Game/Realistic_Halloween_Props/Meshes/SM_Gravestone06.SM_Gravestone06
+[2019.10.24-02.34.17:697][877]LogActorFactory: Actor Factory created SM_Gravestone06
+[2019.10.24-02.34.24:849][358]LogActorFactory: Actor Factory created SM_Gravestone06
+[2019.10.24-02.34.32:334][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.34.55:800][304]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-02.35.13:173][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.35.22:809][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone4)
+[2019.10.24-02.35.28:713][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.35.34:641][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-02.35.40:633][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.35.43:726][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone4)
+[2019.10.24-02.35.50:328][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone06)
+[2019.10.24-02.36.07:281][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.36.07:900][231]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.10.24-02.36.23:699][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.36.27:801][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone06)
+[2019.10.24-02.36.33:867][813]Cmd: SELECT NONE
+[2019.10.24-02.36.51:149][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone2)
+[2019.10.24-02.36.57:233][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone6)
+[2019.10.24-02.37.14:907][462]Cmd: SELECT NONE
+[2019.10.24-02.37.18:117][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone2)
+[2019.10.24-02.37.59:927][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.38.09:390][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.38.12:100][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone2)
+[2019.10.24-02.38.21:848][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.38.21:904][931]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.24-02.38.21:926][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-02.38.21:926][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-02.38.21:926][931]PIE: New page: PIE session: Halloween_Map (Oct 23, 2019, 4:38:21 PM)
+[2019.10.24-02.38.21:926][931]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.24-02.38.22:020][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093940s)
+[2019.10.24-02.38.22:021][931]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.24-02.38.22:021][931]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2019.10.24-02.38.22:022][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.095524s)
+[2019.10.24-02.38.22:051][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.10.24-02.38.22:058][931]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.24-02.38.22:129][931]LogInit: FAudioDevice initialized.
+[2019.10.24-02.38.22:157][931]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-02.38.22:186][931]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 0) at 2019.10.23-21.38.22
+[2019.10.24-02.38.22:191][931]LogWorld: Bringing up level for play took: 0.033954
+[2019.10.24-02.38.22:206][931]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.338
+[2019.10.24-02.38.22:206][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-02.39.00:123][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-02.39.00:124][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-02.39.00:161][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-02.39.00:161][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-02.39.00:205][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-02.39.00:212][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.24-02.39.00:243][825]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.10.24-02.39.01:608][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeleton_05)
+[2019.10.24-02.39.07:841][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor30)
+[2019.10.24-02.39.08:533][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeleton_04)
+[2019.10.24-02.39.13:850][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeleton_05)
+[2019.10.24-02.39.18:535][625]Cmd: SELECT NONE
+[2019.10.24-02.39.23:056][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeleton_05)
+[2019.10.24-02.39.24:528][268]Cmd: SELECT NONE
+[2019.10.24-02.39.29:712][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeleton_05)
+[2019.10.24-02.39.34:513][326]Cmd: SELECT NONE
+[2019.10.24-02.39.39:237][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeleton_05)
+[2019.10.24-02.39.43:450][262]Cmd: SELECT NONE
+[2019.10.24-02.39.47:348][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeleton_05)
+[2019.10.24-02.39.57:004][692]Cmd: SELECT NONE
+[2019.10.24-02.40.24:055][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.40.24:116][637]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.24-02.40.24:134][637]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-02.40.24:134][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-02.40.24:134][637]PIE: New page: PIE session: Halloween_Map (Oct 23, 2019, 4:40:24 PM)
+[2019.10.24-02.40.24:135][637]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.24-02.40.24:222][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088322s)
+[2019.10.24-02.40.24:223][637]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.24-02.40.24:224][637]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2019.10.24-02.40.24:224][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.089963s)
+[2019.10.24-02.40.24:254][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.10.24-02.40.24:260][637]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.24-02.40.24:329][637]LogInit: FAudioDevice initialized.
+[2019.10.24-02.40.24:361][637]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.24-02.40.24:387][637]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 0) at 2019.10.23-21.40.24
+[2019.10.24-02.40.24:392][637]LogWorld: Bringing up level for play took: 0.030003
+[2019.10.24-02.40.24:405][637]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.537
+[2019.10.24-02.40.24:406][637]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-02.40.41:530][236]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-02.40.41:530][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-02.40.41:570][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-02.40.41:570][236]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.24-02.40.41:612][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-02.40.41:622][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.24-02.40.41:648][237]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.24-02.40.46:937][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile)
+[2019.10.24-02.41.25:399][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.41.39:766][910]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-02.41.50:886][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.41.51:653][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile2)
+[2019.10.24-02.41.55:381][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone6)
+[2019.10.24-02.42.03:165][ 30]Cmd: SELECT NONE
+[2019.10.24-02.42.04:522][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile2)
+[2019.10.24-02.42.15:843][201]Cmd: SELECT NONE
+[2019.10.24-02.42.16:788][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.42.16:914][282]LogStaticMesh: Building static mesh SM_ZombieHand...
+[2019.10.24-02.42.17:612][282]LogTexture: Display: Building textures: T_ZombieHand (AutoDXT, 2048X2048)
+[2019.10.24-02.42.17:612][282]LogTexture: Display: Building textures: T_ZombieHand_MRAO (AutoDXT, 2048X2048)
+[2019.10.24-02.42.17:612][282]LogTexture: Display: Building textures: T_ZombieHand_N (BC5, 2048X2048)
+[2019.10.24-02.42.17:612][282]LogStaticMesh: Built static mesh [0.70s] /Game/Realistic_Halloween_Props/Meshes/SM_ZombieHand.SM_ZombieHand
+[2019.10.24-02.42.18:590][282]LogMaterial: Display: Missing cached shader map for material M_RHalloween_Props, compiling. 
+[2019.10.24-02.42.18:652][282]LogActorFactory: Actor Factory created SM_ZombieHand
+[2019.10.24-02.42.18:897][301]LogActorFactory: Actor Factory created SM_ZombieHand
+[2019.10.24-02.42.21:959][491]Cmd: SELECT NONE
+[2019.10.24-02.42.24:948][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ZombieHand)
+[2019.10.24-02.42.29:024][155]Cmd: SELECT NONE
+[2019.10.24-02.42.30:302][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ZombieHand)
+[2019.10.24-02.42.39:533][182]Cmd: SELECT NONE
+[2019.10.24-02.42.40:356][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ZombieHand)
+[2019.10.24-02.42.46:496][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile2)
+[2019.10.24-02.42.50:644][322]Cmd: SELECT NONE
+[2019.10.24-02.42.53:174][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile2)
+[2019.10.24-02.43.03:642][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile)
+[2019.10.24-02.43.32:077][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile2)
+[2019.10.24-02.43.41:095][931]Cmd: SELECT NONE
+[2019.10.24-02.43.51:861][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone02)
+[2019.10.24-02.44.00:682][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone01)
+[2019.10.24-02.44.08:061][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone02)
+[2019.10.24-02.44.11:948][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone03)
+[2019.10.24-02.44.27:660][244]Cmd: TRANSACTION UNDO
+[2019.10.24-02.44.27:660][244]LogEditorTransaction: Undo Move Actors
+[2019.10.24-02.44.27:957][265]Cmd: TRANSACTION UNDO
+[2019.10.24-02.44.27:957][265]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.24-02.44.28:283][288]Cmd: TRANSACTION UNDO
+[2019.10.24-02.44.28:283][288]LogEditorTransaction: Undo Move Actors
+[2019.10.24-02.44.28:631][317]Cmd: TRANSACTION UNDO
+[2019.10.24-02.44.28:631][317]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.24-02.44.28:966][343]Cmd: TRANSACTION UNDO
+[2019.10.24-02.44.28:966][343]LogEditorTransaction: Undo Move Actors
+[2019.10.24-02.44.29:267][367]Cmd: TRANSACTION UNDO
+[2019.10.24-02.44.29:267][367]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.24-02.44.29:515][384]Cmd: TRANSACTION UNDO
+[2019.10.24-02.44.29:515][384]LogEditorTransaction: Undo Move Actors
+[2019.10.24-02.44.30:101][437]Cmd: TRANSACTION UNDO
+[2019.10.24-02.44.30:101][437]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.24-02.44.31:085][540]Cmd: TRANSACTION UNDO
+[2019.10.24-02.44.31:085][540]LogEditorTransaction: Undo Select None
+[2019.10.24-02.44.36:781][111]Cmd: TRANSACTION REDO
+[2019.10.24-02.44.36:781][111]LogEditorTransaction: Redo Select None
+[2019.10.24-02.44.37:254][147]Cmd: TRANSACTION REDO
+[2019.10.24-02.44.37:254][147]LogEditorTransaction: Redo Clicking on Actors
+[2019.10.24-02.44.38:298][232]Cmd: SELECT NONE
+[2019.10.24-02.44.42:325][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone02)
+[2019.10.24-02.44.58:555][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone01)
+[2019.10.24-02.45.32:760][579]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-02.45.32:807][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.10.24-02.45.33:026][579]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2019.10.24-02.45.33:030][579]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.10.24-02.45.34:043][579]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto5006F9F874D3D23C7D22905AB1812D254.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto5.umap'
+[2019.10.24-02.45.34:049][579]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.266
+[2019.10.24-02.45.34:049][579]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.266
+[2019.10.24-02.46.29:425][627]Cmd: SELECT NONE
+[2019.10.24-02.46.36:281][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone03)
+[2019.10.24-02.46.52:419][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone04)
+[2019.10.24-02.47.03:780][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.13:520][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.47.15:197][729]Cmd: SELECT NONE
+[2019.10.24-02.47.15:641][766]Cmd: SELECT NONE
+[2019.10.24-02.47.16:365][832]Cmd: SELECT NONE
+[2019.10.24-02.47.17:148][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone04)
+[2019.10.24-02.47.18:278][ 15]Cmd: SELECT NONE
+[2019.10.24-02.47.19:622][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone04)
+[2019.10.24-02.47.29:553][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone3)
+[2019.10.24-02.47.40:728][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone05)
+[2019.10.24-02.47.49:949][526]Cmd: SELECT NONE
+[2019.10.24-02.48.23:089][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.30:525][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.46:717][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.48.47:024][311]LogActorFactory: Actor Factory created SM_Gravestone06
+[2019.10.24-02.48.51:530][662]LogActorFactory: Actor Factory created SM_Gravestone06
+[2019.10.24-02.48.52:747][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.49.11:867][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-02.49.29:427][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.49.30:776][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone16)
+[2019.10.24-02.49.35:791][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone12)
+[2019.10.24-02.49.39:581][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone16)
+[2019.10.24-02.49.40:925][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.49.46:968][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-02.49.59:420][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.50.09:953][474]Cmd: SELECT NONE
+[2019.10.24-02.50.50:534][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone14)
+[2019.10.24-02.50.54:790][489]Cmd: SELECT NONE
+[2019.10.24-02.50.58:225][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone16)
+[2019.10.24-02.51.03:116][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone06)
+[2019.10.24-02.51.05:985][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone16)
+[2019.10.24-02.51.15:506][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone12)
+[2019.10.24-02.51.24:153][290]Cmd: SELECT NONE
+[2019.10.24-02.51.41:190][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.51.47:721][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.52.03:970][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone05)
+[2019.10.24-02.52.15:712][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-02.52.16:014][898]LogActorFactory: Actor Factory created SM_Gravestone03
+[2019.10.24-02.52.18:631][ 80]LogActorFactory: Actor Factory created SM_Gravestone03
+[2019.10.24-02.52.37:247][565]Cmd: SELECT NONE
+[2019.10.24-02.52.56:100][324]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.10.24-02.53.16:367][513]Cmd: SELECT NONE
+[2019.10.24-02.53.18:613][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-02.53.19:703][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.10.24-02.53.19:709][882]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-02.53.19:741][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.10.24-02.53.19:961][882]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2019.10.24-02.53.19:963][882]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.10.24-02.53.20:955][882]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map4C9A12EF4A6A1B9AFEB54B89A1928CCC.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.24-02.53.21:004][882]LogFileHelpers: Saving map 'Halloween_Map' took 1.290
