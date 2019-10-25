@@ -3164,3 +3164,374 @@ Script Stack (0 frames):
 [2019.10.25-01.25.58:224][359]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
 [2019.10.25-01.25.59:425][359]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_MapC709C9664421A3C697320C82E5152634.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
 [2019.10.25-01.25.59:470][359]LogFileHelpers: Saving map 'Halloween_Map' took 1.481
+[2019.10.25-01.26.42:348][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.26.42:414][171]MapCheck: New page: Map Check
+[2019.10.25-01.26.42:428][171]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.25-01.26.42:429][171]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.25-01.26.43:113][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.10.25-01.26.43:371][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:517][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:526][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:569][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:579][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:588][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:601][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:653][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:675][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:686][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:712][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:765][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:814][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:839][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:850][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:861][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:872][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:910][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:987][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.43:999][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.44:011][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.44:028][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.44:060][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.44:074][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.44:088][171]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.25-01.26.46:370][171]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.25-01.26.46:370][171]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.25-01.26.46:370][171]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.25-01.26.46:370][171]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.25-01.26.46:371][171]TextureStreamingBuild: Display: Compiling optional shaders took 3.020 seconds.
+[2019.10.25-01.26.46:457][171]LogLevel: Display: Export Material TexCoord Scales took 0.086 seconds.
+[2019.10.25-01.26.46:765][171]TextureStreamingBuild: Display: Build Texture Streaming took 0.308 seconds.
+[2019.10.25-01.26.46:846][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.25-01.26.46:846][171]LightingResults: New page: Lighting Build - Oct 24, 2019, 3:26:46 PM
+[2019.10.25-01.26.46:859][171]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.25-01.26.46:862][171]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.25-01.26.46:863][171]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.25-01.26.46:863][171]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.25-01.26.46:863][171]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7820
+[2019.10.25-01.26.51:503][171]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.25-01.26.51:503][171]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.25-01.26.51:503][171]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.25-01.26.51:503][171]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.25-01.26.51:503][171]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.25-01.26.51:774][171]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.25-01.26.51:774][171]MapCheck: New page: Halloween_Map - Oct 24, 2019, 3:26:51 PM
+[2019.10.25-01.26.51:774][171]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.10.25-01.26.51:779][171]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 4.777ms to complete.
+[2019.10.25-01.26.51:803][171]LogEditorBuildUtils: Build time 0:09
+[2019.10.25-01.26.51:838][171]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_91, compiling. 
+[2019.10.25-01.26.51:851][171]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_91, compiling. 
+[2019.10.25-01.26.51:903][172]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_45, compiling. 
+[2019.10.25-01.26.51:914][172]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_45, compiling. 
+[2019.10.25-01.26.52:329][184]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_20, compiling. 
+[2019.10.25-01.26.52:340][184]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_20, compiling. 
+[2019.10.25-01.26.54:217][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.10.25-01.27.49:357][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.27.49:445][ 11]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2019.10.25-01.27.49:530][ 11]Job has failed! Job is closed while Tasks are still PENDING
+[2019.10.25-01.27.49:530][ 11]DumpUnbuiltLightIteractions
+[2019.10.25-01.27.49:530][ 11]Lights with unbuilt interactions: 2
+[2019.10.25-01.27.49:530][ 11]    Light LightSource
+[2019.10.25-01.27.49:530][ 11]    Light PointLight5
+[2019.10.25-01.27.49:530][ 11]
+[2019.10.25-01.27.49:530][ 11]Primitives with unbuilt interactions: 2
+[2019.10.25-01.27.49:530][ 11]    Primitive LandscapeComponent /Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Landscape_1.LandscapeComponent_5
+[2019.10.25-01.27.49:530][ 11]    Primitive StaticMeshComponent /Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.SM_Stairs_8.StaticMeshComponent0
+[2019.10.25-01.27.49:726][ 12]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.25-01.27.49:726][ 12]MapCheck: New page: Halloween_Map - Oct 24, 2019, 3:27:49 PM
+[2019.10.25-01.27.49:727][ 12]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.10.25-01.27.49:735][ 12]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 9.077ms to complete.
+[2019.10.25-01.27.51:075][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.27.51:110][120]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.25-01.27.51:129][120]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.27.51:129][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-01.27.51:129][120]PIE: New page: PIE session: Halloween_Map (Oct 24, 2019, 3:27:51 PM)
+[2019.10.25-01.27.51:129][120]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.25-01.27.51:224][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094999s)
+[2019.10.25-01.27.51:225][120]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.25-01.27.51:225][120]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2019.10.25-01.27.51:225][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.096952s)
+[2019.10.25-01.27.51:257][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.10.25-01.27.51:263][120]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.25-01.27.51:329][120]LogInit: FAudioDevice initialized.
+[2019.10.25-01.27.51:360][120]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-01.27.51:410][120]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 0) at 2019.10.24-20.27.51
+[2019.10.25-01.27.51:417][120]LogWorld: Bringing up level for play took: 0.054360
+[2019.10.25-01.27.51:431][120]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.39
+[2019.10.25-01.27.51:431][120]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.28.16:220][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.28.16:221][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-01.28.16:258][ 54]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-01.28.16:259][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.28.16:318][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-01.28.16:324][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.10.25-01.28.16:349][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.25-01.33.53:398][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.33.53:473][302]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.25-01.33.53:487][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.33.53:487][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-01.33.53:487][302]PIE: New page: PIE session: Halloween_Map (Oct 24, 2019, 3:33:53 PM)
+[2019.10.25-01.33.53:488][302]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.25-01.33.53:584][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097606s)
+[2019.10.25-01.33.53:586][302]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.25-01.33.53:586][302]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2019.10.25-01.33.53:586][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.099482s)
+[2019.10.25-01.33.53:613][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.10.25-01.33.53:618][302]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.25-01.33.53:682][302]LogInit: FAudioDevice initialized.
+[2019.10.25-01.33.53:711][302]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-01.33.53:740][302]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 0) at 2019.10.24-20.33.53
+[2019.10.25-01.33.53:746][302]LogWorld: Bringing up level for play took: 0.033141
+[2019.10.25-01.33.53:760][302]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.719
+[2019.10.25-01.33.53:760][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.39.46:977][628]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.39.46:977][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-01.39.47:026][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-01.39.47:026][628]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.39.47:080][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-01.39.47:093][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.10.25-01.39.47:125][629]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.25-01.39.48:208][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.39.48:296][746]LogMaterial: Display: Missing cached shader map for material Environment, compiling. 
+[2019.10.25-01.40.02:780][237]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.40.29:101][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.40.32:899][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.40.47:661][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.41.42:975][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.41.48:012][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.42.01:363][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.42.20:787][738]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.25-01.42.20:801][738]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.42.28:013][135]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0009 seconds. Added 15 classes and 2 folders.
+[2019.10.25-01.42.28:020][135]LogInit: Transaction tracking system initialized
+[2019.10.25-01.42.28:020][135]EditorErrors: New page: Matinee Initialization
+[2019.10.25-01.42.28:081][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.42.39:973][915]LogSlate: Window 'Convert Matinee to Level Sequence Asset' being destroyed
+[2019.10.25-01.42.46:325][915]LogSlate: Window 'Message' being destroyed
+[2019.10.25-01.42.47:420][  9]LogSlate: Window 'MatineeActor' being destroyed
+[2019.10.25-01.42.47:434][  9]LogSlate: Window 'MatineeActor' being destroyed
+[2019.10.25-01.42.48:224][ 74]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.25-01.43.20:869][191]LogSlate: Window 'Convert Matinee to Level Sequence Asset' being destroyed
+[2019.10.25-01.43.20:875][191]LogInit: Transaction tracking system initialized
+[2019.10.25-01.43.20:876][191]EditorErrors: New page: Matinee Initialization
+[2019.10.25-01.44.54:144][309]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.10.25-01.44.58:945][633]Cmd: SELECT NONE
+[2019.10.25-01.45.00:604][820]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.10.25-01.45.02:965][981]Cmd: SELECT NONE
+[2019.10.25-01.45.06:324][321]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-01.45.10:334][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.45.10:869][535]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.45.19:673][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.45.27:234][493]LogSlate: Window 'Message' being destroyed
+[2019.10.25-01.45.27:239][493]LogSlate: Window 'MatineeActor' being destroyed
+[2019.10.25-01.45.27:275][493]LogExit: Transaction tracking system shut down
+[2019.10.25-01.45.27:279][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.10.25-01.45.27:501][493]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2019.10.25-01.45.27:504][493]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.10.25-01.45.28:602][493]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_MapB9DA73644F5798F389E567A759F7FD6C.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.25-01.45.28:637][493]LogFileHelpers: Saving map 'Halloween_Map' took 1.396
+[2019.10.25-01.45.44:493][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.46.09:601][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.46.43:574][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.46.46:192][393]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.25-01.46.48:094][507]LogSlate: Window 'Convert Matinee to Level Sequence Asset' being destroyed
+[2019.10.25-01.46.48:099][507]LogInit: Transaction tracking system initialized
+[2019.10.25-01.46.48:099][507]EditorErrors: New page: Matinee Initialization
+[2019.10.25-01.47.27:573][955]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-01.47.32:525][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.48.00:976][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.48.01:045][289]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-01.48.14:724][318]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.10.25-01.48.15:620][406]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-01.48.32:134][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.48.59:640][558]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.49.07:796][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.49.13:244][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.49.18:511][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.49.27:945][512]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.49.36:676][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.49.49:281][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.51.38:658][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.52.04:363][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.52.05:631][794]LogSlate: Window 'Message' being destroyed
+[2019.10.25-01.52.05:635][794]LogSlate: Window 'MatineeActor' being destroyed
+[2019.10.25-01.52.05:669][794]LogExit: Transaction tracking system shut down
+[2019.10.25-01.52.05:671][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.25-01.52.05:916][794]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2019.10.25-01.52.05:917][794]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2019.10.25-01.52.05:917][794]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2019.10.25-01.52.05:918][794]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.10.25-01.52.06:977][794]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map248D563240F14CE704A12B81B50B916F.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.25-01.52.07:010][794]LogFileHelpers: Saving map 'Halloween_Map' took 1.372
+[2019.10.25-01.52.09:640][934]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.25-01.52.09:667][934]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.52.09:667][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-01.52.09:667][934]PIE: New page: PIE session: Halloween_Map (Oct 24, 2019, 3:52:09 PM)
+[2019.10.25-01.52.09:667][934]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.25-01.52.09:780][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112595s)
+[2019.10.25-01.52.09:781][934]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.25-01.52.09:781][934]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2019.10.25-01.52.09:782][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.113836s)
+[2019.10.25-01.52.09:815][934]LogExit: Transaction tracking system shut down
+[2019.10.25-01.52.09:817][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.10.25-01.52.09:823][934]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.25-01.52.09:887][934]LogInit: FAudioDevice initialized.
+[2019.10.25-01.52.09:916][934]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.25-01.52.09:959][934]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 0) at 2019.10.24-20.52.09
+[2019.10.25-01.52.09:965][934]LogWorld: Bringing up level for play took: 0.047913
+[2019.10.25-01.52.09:978][934]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.937
+[2019.10.25-01.52.09:979][934]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.52.12:115][173]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.52.12:116][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-01.52.12:159][173]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-01.52.12:159][173]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.25-01.52.12:197][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-01.52.12:204][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.10.25-01.52.12:219][174]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.10.25-01.53.08:864][225]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-01.53.10:196][317]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.25-01.53.10:210][317]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.53.11:556][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.53.12:603][478]LogSlate: Window 'Convert Matinee to Level Sequence Asset' being destroyed
+[2019.10.25-01.53.12:607][478]LogInit: Transaction tracking system initialized
+[2019.10.25-01.53.12:607][478]EditorErrors: New page: Matinee Initialization
+[2019.10.25-01.53.12:615][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.54.55:533][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.55.01:062][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.55.01:139][580]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-01.56.09:043][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.56.21:405][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.56.44:716][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.56.51:836][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.57.23:363][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.57.43:620][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.57.47:784][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.57.56:721][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.58.33:661][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.58.48:574][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.59.05:552][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-01.59.17:039][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-01.59.56:382][861]LogSlate: Window 'MatineeActor' being destroyed
+[2019.10.25-01.59.56:388][861]LogSlate: Window 'MatineeActor' being destroyed
+[2019.10.25-02.00.00:837][207]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.25-02.00.00:852][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.00.03:709][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.00.04:711][549]LogSlate: Window 'Convert Matinee to Level Sequence Asset' being destroyed
+[2019.10.25-02.00.04:716][549]LogInit: Transaction tracking system initialized
+[2019.10.25-02.00.04:716][549]EditorErrors: New page: Matinee Initialization
+[2019.10.25-02.00.04:724][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.00.37:511][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.01.01:043][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.01.04:373][723]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.01.09:547][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.01.12:323][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.01.45:302][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.02.20:289][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-02.03.06:297][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.03.06:341][ 38]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.10.25-02.03.07:429][116]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-02.03.41:198][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.03.51:909][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.03.58:056][480]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.04.53:492][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.04.58:635][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.07.15:423][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.07.26:659][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.08.45:165][882]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.08.57:783][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.10.30:851][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.10.37:364][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.11.05:524][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.11.10:411][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.12.40:895][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.12.50:857][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.12.51:428][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor3)
+[2019.10.25-02.12.52:916][230]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-02.13.15:273][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.13.20:994][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.13.38:875][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.13.48:058][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.14.40:795][595]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.14.49:782][967]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.15.27:725][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.15.38:075][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.16.06:475][146]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.16.10:899][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.16.36:848][207]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.16.42:256][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.17.21:337][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-02.18.11:253][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-02.18.22:636][150]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.18.23:711][209]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.19.23:547][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-02.19.24:767][601]LogSlate: Window 'Message' being destroyed
+[2019.10.25-02.19.24:772][601]LogSlate: Window 'MatineeActor' being destroyed
+[2019.10.25-02.19.24:805][601]LogExit: Transaction tracking system shut down
+[2019.10.25-02.19.24:808][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.25-02.19.26:207][601]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map8D39505849C6095B1675F9A1388DDB7F.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.25-02.19.26:276][601]LogFileHelpers: Saving map 'Halloween_Map' took 1.502
+[2019.10.25-02.19.28:709][778]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-02.19.30:796][943]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.25-02.19.30:811][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.19.31:784][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.19.32:651][ 59]LogSlate: Window 'Convert Matinee to Level Sequence Asset' being destroyed
+[2019.10.25-02.19.32:656][ 59]LogInit: Transaction tracking system initialized
+[2019.10.25-02.19.32:656][ 59]EditorErrors: New page: Matinee Initialization
+[2019.10.25-02.19.32:664][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.20.02:138][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.20.21:760][824]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.20.22:746][881]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.20.26:900][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.20.38:172][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-02.21.22:476][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.21.59:462][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.22.32:753][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.22.57:076][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.23.21:872][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.23.24:839][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Crypt_Floor_Concave8)
+[2019.10.25-02.23.30:823][718]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-02.24.04:523][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.24.28:322][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.24.34:203][605]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.24.46:192][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.24.47:571][575]Cmd: TRANSACTION UNDO
+[2019.10.25-02.24.47:571][575]LogEditorTransaction: Undo Set Time
+[2019.10.25-02.24.53:578][911]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.25.24:642][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.25.40:190][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_18)
+[2019.10.25-02.25.41:469][908]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-02.25.42:886][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.25.47:417][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.25.47:486][166]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-02.25.59:493][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.26.00:593][749]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.26.03:593][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.26.03:661][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_18)
+[2019.10.25-02.26.05:947][143]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-02.26.07:082][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.26.10:157][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.26.10:197][331]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-02.26.20:280][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.26.40:994][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.27.06:714][900]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-02.27.10:731][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.27.18:597][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.27.26:672][983]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-02.27.46:751][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.27.48:215][918]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.27.54:201][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.27.55:800][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.27.59:571][535]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2019.10.25-02.28.21:681][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-02.28.29:280][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-02.28.30:566][ 29]LogSlate: Window 'Message' being destroyed
+[2019.10.25-02.28.30:571][ 29]LogSlate: Window 'MatineeActor' being destroyed
+[2019.10.25-02.28.30:604][ 29]LogExit: Transaction tracking system shut down
+[2019.10.25-02.28.30:607][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.10.25-02.28.31:979][ 29]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_MapFE8AF3574AC4B11CE38CDBA0E73D1F0C.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.25-02.28.32:056][ 29]LogFileHelpers: Saving map 'Halloween_Map' took 1.483
+[2019.10.25-02.28.34:324][222]LogExit: Transaction tracking system shut down
+[2019.10.25-02.28.34:326][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.10.25-02.28.34:337][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.25-02.28.37:729][222]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_BuiltData378C52A642F8F29BEC64CA94144990C2.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.25-02.28.37:739][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.25-02.28.41:052][222]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_BuiltData768B8AAA41728188CB41209BA03455DB.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset'
