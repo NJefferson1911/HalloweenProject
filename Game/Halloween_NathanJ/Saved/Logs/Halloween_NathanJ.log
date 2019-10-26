@@ -898,3 +898,341 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-06.26.31:360][748]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto1E9E11D2043A033CA88C51BA1BB4177B8.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto1.umap'
 [2019.10.26-06.26.31:372][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.480
 [2019.10.26-06.26.31:373][748]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.480
+[2019.10.26-06.29.44:151][266]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.26-06.29.58:956][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.31.26:837][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.31.26:935][582]MapCheck: New page: Map Check
+[2019.10.26-06.31.26:950][582]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.26-06.31.26:951][582]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.26-06.31.27:554][582]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.26-06.31.27:806][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.27:816][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.27:826][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.27:919][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.27:926][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.27:938][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.27:956][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.27:968][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.27:978][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.27:988][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:029][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:039][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:052][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:063][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:074][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:093][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:138][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:174][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:197][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:211][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:223][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:233][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:248][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:265][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:282][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:344][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:357][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:372][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:390][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:412][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:424][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:442][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:452][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:482][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:503][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:529][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:554][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:567][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:581][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.28:597][582]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.10.26-06.31.32:853][582]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.10.26-06.31.32:854][582]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.10.26-06.31.32:854][582]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.10.26-06.31.32:854][582]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.10.26-06.31.32:854][582]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.10.26-06.31.32:854][582]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.10.26-06.31.32:854][582]TextureStreamingBuild: Display: Compiling optional shaders took 5.054 seconds.
+[2019.10.26-06.31.32:969][582]LogLevel: Display: Export Material TexCoord Scales took 0.116 seconds.
+[2019.10.26-06.31.33:294][582]TextureStreamingBuild: Display: Build Texture Streaming took 0.324 seconds.
+[2019.10.26-06.31.33:377][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.26-06.31.33:377][582]LightingResults: New page: Lighting Build - Oct 25, 2019, 8:31:33 PM
+[2019.10.26-06.31.33:386][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:386][582]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.10.26-06.31.33:386][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:386][582]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.10.26-06.31.33:386][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:386][582]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.10.26-06.31.33:387][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:387][582]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.10.26-06.31.33:387][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:387][582]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.10.26-06.31.33:387][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:387][582]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.10.26-06.31.33:387][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:387][582]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.10.26-06.31.33:387][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:387][582]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.10.26-06.31.33:388][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:388][582]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.10.26-06.31.33:388][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:388][582]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.10.26-06.31.33:388][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:389][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:389][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:389][582]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.10.26-06.31.33:389][582]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.10.26-06.31.33:418][582]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.26-06.31.33:491][582]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.26-06.31.33:513][582]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.26-06.31.34:029][582]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.26-06.31.34:030][582]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15224
+[2019.10.26-06.31.36:393][582]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.26-06.31.36:393][582]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.26-06.31.36:393][582]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.26-06.31.36:393][582]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.26-06.31.36:393][582]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.26-06.31.37:031][582]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.10.26-06.31.37:031][582]MapCheck: New page: Halloween_Map - Oct 25, 2019, 8:31:37 PM
+[2019.10.26-06.31.37:032][582]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.10.26-06.31.37:041][582]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 9.51ms to complete.
+[2019.10.26-06.31.37:064][582]LogEditorBuildUtils: Build time 0:10
+[2019.10.26-06.31.37:088][582]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_270, compiling. 
+[2019.10.26-06.31.37:097][582]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_270, compiling. 
+[2019.10.26-06.31.37:145][583]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42, compiling. 
+[2019.10.26-06.31.37:158][583]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42, compiling. 
+[2019.10.26-06.31.37:468][591]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_285, compiling. 
+[2019.10.26-06.31.37:483][591]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_285, compiling. 
+[2019.10.26-06.31.39:661][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.26-06.31.42:687][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.10.26-06.31.42:691][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-06.31.42:726][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.26-06.31.44:187][858]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map32BF33654898E5FAE1645C8D6899ECFD.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.26-06.31.44:221][858]LogFileHelpers: Saving map 'Halloween_Map' took 1.522
+[2019.10.26-06.51.38:923][465]Job is a success!
+[2019.10.26-06.51.38:954][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-06.51.39:310][466]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.115s
+[2019.10.26-06.51.39:310][466]LogVolumetricLightmapImport:      Indirection Texture 48x48x48 = 0.4Mb
+[2019.10.26-06.51.39:310][466]LogVolumetricLightmapImport:      BrickData 720x5x5 = 0.7Mb (trimmed 10.5Mb due to 0.010000 MinBrickError)
+[2019.10.26-06.51.39:310][466]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.26-06.51.39:310][466]LogVolumetricLightmapImport:          0: 18.8% covering 100.0% of volume
+[2019.10.26-06.51.39:310][466]LogVolumetricLightmapImport:          1: 81.3% covering 6.8% of volume
+[2019.10.26-06.51.39:310][466]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.10.26-06.52.07:324][466]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:324][466]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:326][466]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:327][466]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 2048X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 2048X2048)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 2048X2048)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: SkyOcclusion0_23 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: SkyOcclusion1_24 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: SkyOcclusion1_25 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: SkyOcclusion1_26 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: SkyOcclusion1_27 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: SkyOcclusion1_28 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: SkyOcclusion1_29 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:328][466]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_30 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_31 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_32 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_33 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_34 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_35 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_36 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_37 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_38 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_39 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_40 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:329][466]LogTexture: Display: Building textures: SkyOcclusion1_41 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_42 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_43 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_44 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_45 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_46 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_47 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_48 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_49 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_50 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_51 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_52 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_53 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:330][466]LogTexture: Display: Building textures: SkyOcclusion1_54 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: SkyOcclusion1_55 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: LQ_Lightmap_1_55 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: SkyOcclusion0_56 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 1024X1024)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: SkyOcclusion0_57 (AutoDXT, 256X128)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 256X256)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 256X256)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: SkyOcclusion0_58 (AutoDXT, 1024X512)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 1024X1024)
+[2019.10.26-06.52.07:331][466]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 1024X1024)
+[2019.10.26-06.52.08:125][466]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2019.10.26-06.52.08:325][466]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2019.10.26-06.52.08:525][466]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2019.10.26-06.52.08:525][466]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2019.10.26-06.52.08:725][466]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X1024)
+[2019.10.26-06.52.08:925][466]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X1024)
+[2019.10.26-06.52.08:925][466]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X64)
+[2019.10.26-06.52.08:925][466]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 64X64)
+[2019.10.26-06.52.08:925][466]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X512)
+[2019.10.26-06.52.09:125][466]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 2048X2048)
+[2019.10.26-06.52.09:393][466]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 2048X2048)
+[2019.10.26-06.52.09:393][466]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 2048X2048)
+[2019.10.26-06.52.09:393][466]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 2048X2048)
+[2019.10.26-06.52.09:502][466]Lightmass on 0NE5IVESE7EN: 20:30 min total, 1.32 sec importing, 4.33 sec setup, 1:06 min photons, 19:18 min processing, 0 ms extra exporting [5431/5431 mappings]. Threads: 2:15:11 hours total, 37:01 min processing.
+[2019.10.26-06.52.09:504][466]LogStaticLightingSystem: Halloween_Map_BuiltData storing lightmap data for 1253 meshes in 96 LightmapResourceClusters (13.1 Meshes per cluster).
+[2019.10.26-06.52.09:600][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.10.26-06.52.09:608][466]LogStaticLightingSystem: Illumination: 20:38 min (21.4 sec encoding lightmaps, 2.06 sec encoding shadowmaps)
+[2019.10.26-06.52.09:608][466]LogStaticLightingSystem: Lightmap texture memory:  296.2 MB (296.2 MB streaming, 0.0 MB non-streaming), 116 textures
+[2019.10.26-06.52.09:608][466]LogStaticLightingSystem: Shadowmap texture memory: 84.0 MB (84.0 MB streaming, 0.0 MB non-streaming), 13 textures
+[2019.10.26-06.52.10:295][466]DumpUnbuiltLightIteractions
+[2019.10.26-06.52.10:295][466]Lights with unbuilt interactions: 0
+[2019.10.26-06.52.10:295][466]
+[2019.10.26-06.52.10:295][466]Primitives with unbuilt interactions: 0
+[2019.10.26-06.52.10:302][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-06.52.10:509][467]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.26-06.52.10:509][467]MapCheck: New page: Halloween_Map - Oct 25, 2019, 8:52:10 PM
+[2019.10.26-06.52.10:516][467]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.368ms to complete.
+[2019.10.26-06.52.19:880][561]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-06.52.19:932][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.10.26-06.52.21:332][561]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto2C782455F4F538E82785B2ABDB22E3461.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto2.umap'
+[2019.10.26-06.52.21:336][561]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.432
+[2019.10.26-06.52.21:336][561]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.432
+[2019.10.26-06.52.41:761][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (31.246 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.10.26-06.53.11:551][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-06.53.13:183][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.10.26-06.53.13:189][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-06.53.13:224][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.10.26-06.53.14:530][753]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map842521634AF1B1D19AD116BDF2DDD39E.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.26-06.53.14:585][753]LogFileHelpers: Saving map 'Halloween_Map' took 1.389
+[2019.10.26-06.53.14:591][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.26-06.53.23:539][753]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_BuiltData07EC50F845911D19E4FA78B4944372C2.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.26-06.53.23:549][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.26-06.53.32:488][753]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_BuiltDataDC9515DD48FC3EBBBBC9C389D476B4C7.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.26-06.53.34:967][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.53.36:092][143]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
