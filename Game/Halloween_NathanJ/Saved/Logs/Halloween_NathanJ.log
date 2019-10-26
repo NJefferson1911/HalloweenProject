@@ -821,3 +821,80 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-06.12.36:965][576]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
 [2019.10.26-06.12.38:085][576]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map893D5CED48E8A865D20CF784C58D88F0.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
 [2019.10.26-06.12.38:168][576]LogFileHelpers: Saving map 'Halloween_Map' took 1.463
+[2019.10.26-06.12.59:769][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.13.04:866][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.13.46:607][250]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2019.10.26-06.13.59:485][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.14.12:192][244]Cmd: TRANSACTION UNDO
+[2019.10.26-06.14.12:192][244]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-06.14.12:275][244]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2019.10.26-06.14.12:340][244]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2019.10.26-06.14.12:467][246]Cmd: TRANSACTION UNDO
+[2019.10.26-06.14.12:468][246]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-06.14.12:556][246]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2019.10.26-06.14.12:602][246]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2019.10.26-06.14.13:617][357]Cmd: TRANSACTION UNDO
+[2019.10.26-06.14.13:617][357]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-06.14.13:675][357]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2019.10.26-06.14.14:227][416]Cmd: TRANSACTION UNDO
+[2019.10.26-06.14.14:227][416]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-06.14.14:287][416]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2019.10.26-06.14.36:985][ 76]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2019.10.26-06.14.52:995][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.15.01:836][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.15.08:594][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.15.14:831][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.15.21:403][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.16.03:738][934]Cmd: TRANSACTION UNDO
+[2019.10.26-06.16.03:738][934]LogEditorTransaction: Undo Foliage Editing
+[2019.10.26-06.16.04:058][951]Cmd: TRANSACTION UNDO
+[2019.10.26-06.16.04:058][951]LogEditorTransaction: Undo Foliage Editing
+[2019.10.26-06.16.04:344][977]Cmd: TRANSACTION UNDO
+[2019.10.26-06.16.04:344][977]LogEditorTransaction: Undo Foliage Editing
+[2019.10.26-06.16.04:646][  9]Cmd: TRANSACTION UNDO
+[2019.10.26-06.16.04:646][  9]LogEditorTransaction: Undo Foliage Editing
+[2019.10.26-06.16.04:954][ 41]Cmd: TRANSACTION UNDO
+[2019.10.26-06.16.04:954][ 41]LogEditorTransaction: Undo Foliage Editing
+[2019.10.26-06.16.05:832][141]Cmd: TRANSACTION UNDO
+[2019.10.26-06.16.05:832][141]LogEditorTransaction: Undo Foliage Editing
+[2019.10.26-06.16.08:255][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.18.58:888][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.20.07:163][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.23.16:477][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.23.16:581][598]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.26-06.23.16:604][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.26-06.23.16:604][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.26-06.23.16:605][598]PIE: New page: PIE session: Halloween_Map (Oct 25, 2019, 8:23:16 PM)
+[2019.10.26-06.23.16:605][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.26-06.23.16:710][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105934s)
+[2019.10.26-06.23.16:711][598]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.26-06.23.16:712][598]LogPlayLevel: PIE: World Init took: (0.001616s)
+[2019.10.26-06.23.16:712][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.108142s)
+[2019.10.26-06.23.16:745][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.10.26-06.23.16:749][598]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.26-06.23.16:814][598]LogInit: FAudioDevice initialized.
+[2019.10.26-06.23.16:848][598]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.26-06.23.16:913][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 0) at 2019.10.26-01.23.16
+[2019.10.26-06.23.16:918][598]LogWorld: Bringing up level for play took: 0.068705
+[2019.10.26-06.23.16:933][598]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.734
+[2019.10.26-06.23.16:933][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.26-06.24.06:717][559]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.26-06.24.06:718][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-06.24.06:766][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.26-06.24.06:766][559]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.26-06.24.06:814][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.26-06.24.06:821][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.10.26-06.24.06:847][560]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.10.26-06.24.10:667][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-06.26.29:879][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-06.26.29:915][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.26-06.26.30:139][748]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2019.10.26-06.26.30:142][748]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2019.10.26-06.26.30:143][748]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2019.10.26-06.26.30:143][748]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2019.10.26-06.26.30:144][748]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2019.10.26-06.26.30:144][748]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2019.10.26-06.26.30:145][748]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2019.10.26-06.26.31:360][748]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto1E9E11D2043A033CA88C51BA1BB4177B8.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto1.umap'
+[2019.10.26-06.26.31:372][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.480
+[2019.10.26-06.26.31:373][748]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.480
