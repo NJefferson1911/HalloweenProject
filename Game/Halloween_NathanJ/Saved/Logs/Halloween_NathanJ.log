@@ -643,3 +643,219 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.26-04.20.14:555][534]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
 [2019.10.26-04.20.16:170][534]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map15A93BD542C8365B1AC4BCAAE6DBC462.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
 [2019.10.26-04.20.16:213][534]LogFileHelpers: Saving map 'Halloween_Map' took 1.724
+[2019.10.26-04.21.10:159][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.21.24:087][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.21.30:754][115]Cmd: SELECT NONE
+[2019.10.26-04.21.57:152][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.21.57:780][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone11)
+[2019.10.26-04.22.02:277][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone13)
+[2019.10.26-04.22.10:035][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone10)
+[2019.10.26-04.22.13:006][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone15)
+[2019.10.26-04.22.17:873][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone10)
+[2019.10.26-04.22.46:967][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone15)
+[2019.10.26-04.22.59:235][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone13)
+[2019.10.26-04.23.12:622][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone11)
+[2019.10.26-04.23.27:502][ 70]Cmd: SELECT NONE
+[2019.10.26-04.23.33:845][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone13)
+[2019.10.26-04.23.36:144][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone10)
+[2019.10.26-04.23.52:019][753]Cmd: SELECT NONE
+[2019.10.26-04.24.20:376][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.25.06:579][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.25.14:487][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.25.22:179][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.25.24:405][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile2)
+[2019.10.26-04.25.40:909][923]Cmd: SELECT NONE
+[2019.10.26-04.25.44:300][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile4)
+[2019.10.26-04.26.02:215][306]Cmd: SELECT NONE
+[2019.10.26-04.26.38:074][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.26.44:752][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.27.27:413][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.27.40:781][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-04.28.21:374][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-04.29.12:772][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.29.13:382][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_28)
+[2019.10.26-04.29.21:489][509]Cmd: SELECT NONE
+[2019.10.26-04.29.26:135][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_28)
+[2019.10.26-04.29.31:558][647]Cmd: SELECT NONE
+[2019.10.26-04.29.38:894][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.30.02:264][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-04.30.05:123][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-04.30.26:116][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.30.29:971][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ZombieHand2)
+[2019.10.26-04.30.30:719][856]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dirtpile3)
+[2019.10.26-04.30.31:409][932]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Gravestone04)
+[2019.10.26-04.30.32:528][ 57]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Lantern_C (BP_Lantern)
+[2019.10.26-04.30.44:362][340]Cmd: SELECT NONE
+[2019.10.26-04.30.48:769][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone04)
+[2019.10.26-04.30.54:764][312]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Lantern_C (BP_Lantern)
+[2019.10.26-04.30.55:683][365]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape1)
+[2019.10.26-04.30.58:758][546]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_ZombieHand2)
+[2019.10.26-04.30.59:437][585]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dirtpile3)
+[2019.10.26-04.31.09:749][195]Cmd: SELECT NONE
+[2019.10.26-04.31.13:330][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.31.44:624][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-04.32.13:209][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.32.16:849][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dirtpile3)
+[2019.10.26-04.32.50:262][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone04)
+[2019.10.26-04.33.02:732][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_ZombieHand2)
+[2019.10.26-04.33.07:776][250]Cmd: SELECT NONE
+[2019.10.26-04.33.10:454][529]LogEditorViewport: Clicking on Actor (LMB): BP_Lantern_C (BP_Lantern)
+[2019.10.26-04.33.17:252][315]Cmd: SELECT NONE
+[2019.10.26-04.33.24:838][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone04)
+[2019.10.26-04.33.54:524][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone3)
+[2019.10.26-04.33.57:485][484]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Gravestone19)
+[2019.10.26-04.33.58:505][601]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Gravestone05)
+[2019.10.26-04.33.59:452][709]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Gravestone17)
+[2019.10.26-04.34.03:758][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone3)
+[2019.10.26-04.34.17:974][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone05)
+[2019.10.26-04.34.18:391][566]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Gravestone19)
+[2019.10.26-04.34.29:234][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.34.40:199][890]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-04.34.52:976][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.34.57:515][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone19)
+[2019.10.26-04.35.01:962][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone17)
+[2019.10.26-04.35.08:078][651]Cmd: SELECT NONE
+[2019.10.26-04.35.13:363][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone17)
+[2019.10.26-04.35.17:599][187]Cmd: SELECT NONE
+[2019.10.26-04.35.24:378][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone19)
+[2019.10.26-04.35.24:896][608]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Gravestone05)
+[2019.10.26-04.35.41:826][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone19)
+[2019.10.26-04.35.53:211][641]Cmd: SELECT NONE
+[2019.10.26-04.35.58:436][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone05)
+[2019.10.26-04.36.00:933][526]Cmd: SELECT NONE
+[2019.10.26-04.36.37:194][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_27)
+[2019.10.26-04.36.40:771][147]Cmd: SELECT NONE
+[2019.10.26-04.37.00:509][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Gravestone18)
+[2019.10.26-04.37.16:177][104]Cmd: SELECT NONE
+[2019.10.26-04.37.17:151][220]LogEditorViewport: Clicking on Actor (LMB): BP_CandleHolder_Bronze_C (BP_CandleHolder_Bronze7)
+[2019.10.26-04.37.20:302][551]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Candle_Used_B_C (BP_Candle_Used_B15)
+[2019.10.26-04.37.21:651][707]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_CandleStick_Bronze_C (BP_CandleStick_Bronze8)
+[2019.10.26-04.37.22:628][817]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Candle_Used_A_C (BP_Candle_Used_A12)
+[2019.10.26-04.37.30:019][653]Cmd: SELECT NONE
+[2019.10.26-04.37.30:987][768]LogEditorViewport: Clicking on Actor (LMB): BP_CandleStick_Bronze_C (BP_CandleStick_Bronze8)
+[2019.10.26-04.37.39:275][731]LogEditorViewport: Clicking on Actor (LMB): BP_CandleHolder_Bronze_C (BP_CandleHolder_Bronze7)
+[2019.10.26-04.37.47:430][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.37.51:364][ 48]LogEditorViewport: Clicking on Actor (LMB): BP_Candle_Used_A_C (BP_Candle_Used_A12)
+[2019.10.26-04.38.07:046][713]LogEditorViewport: Clicking on Actor (LMB): BP_Candle_Used_B_C (BP_Candle_Used_B15)
+[2019.10.26-04.38.13:270][341]LogEditorViewport: Clicking on Actor (LMB): BP_CandleHolder_Bronze_C (BP_CandleHolder_Bronze7)
+[2019.10.26-04.38.22:804][288]Cmd: SELECT NONE
+[2019.10.26-04.38.32:015][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.38.57:965][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.39.46:308][420]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.26-04.39.48:181][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.40.05:720][518]Cmd: TRANSACTION UNDO
+[2019.10.26-04.40.05:720][518]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.40.05:807][518]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.40.06:052][531]Cmd: TRANSACTION UNDO
+[2019.10.26-04.40.06:052][531]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.40.06:111][531]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.40.06:385][552]Cmd: TRANSACTION UNDO
+[2019.10.26-04.40.06:385][552]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.40.06:444][552]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.40.06:948][602]Cmd: TRANSACTION UNDO
+[2019.10.26-04.40.06:948][602]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.40.07:010][602]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.40.07:276][627]Cmd: TRANSACTION UNDO
+[2019.10.26-04.40.07:276][627]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.40.07:339][627]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.40.07:621][655]Cmd: TRANSACTION UNDO
+[2019.10.26-04.40.07:621][655]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.40.07:678][655]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.40.07:960][683]Cmd: TRANSACTION UNDO
+[2019.10.26-04.40.07:960][683]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.40.08:017][683]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.40.08:264][706]Cmd: TRANSACTION UNDO
+[2019.10.26-04.40.08:264][706]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.40.08:326][706]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.40.08:620][735]Cmd: TRANSACTION UNDO
+[2019.10.26-04.40.08:620][735]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.40.08:695][735]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.40.10:019][886]Cmd: TRANSACTION UNDO
+[2019.10.26-04.40.10:019][886]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.40.10:085][886]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.40.23:462][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.40.24:466][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence58)
+[2019.10.26-04.40.38:229][150]Cmd: DELETE
+[2019.10.26-04.40.38:229][150]Cmd: ACTOR DELETE
+[2019.10.26-04.40.38:256][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-04.40.38:316][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.10.26-04.40.38:317][150]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2019.10.26-04.40.39:330][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence149)
+[2019.10.26-04.40.39:535][289]Cmd: DELETE
+[2019.10.26-04.40.39:535][289]Cmd: ACTOR DELETE
+[2019.10.26-04.40.39:552][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.26-04.40.39:578][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.10.26-04.40.39:578][289]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.10.26-04.40.40:633][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence58)
+[2019.10.26-04.40.41:619][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.40.43:462][741]Cmd: MODE GRID=1
+[2019.10.26-04.40.48:604][333]Cmd: SELECT NONE
+[2019.10.26-04.41.01:730][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Fence149)
+[2019.10.26-04.41.02:792][981]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Fence150)
+[2019.10.26-04.41.16:183][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.41.16:241][443]Cmd: MODE GRID=0
+[2019.10.26-04.41.28:757][206]Cmd: TRANSACTION UNDO
+[2019.10.26-04.41.28:757][206]LogEditorTransaction: Undo Move Actors
+[2019.10.26-04.41.28:988][219]Cmd: TRANSACTION UNDO
+[2019.10.26-04.41.28:988][219]LogEditorTransaction: Undo Scale Actors
+[2019.10.26-04.41.32:862][450]Cmd: SELECT NONE
+[2019.10.26-04.41.38:718][800]Cmd: TRANSACTION UNDO
+[2019.10.26-04.41.38:718][800]LogEditorTransaction: Undo Select None
+[2019.10.26-04.41.39:023][816]Cmd: TRANSACTION UNDO
+[2019.10.26-04.41.39:023][816]LogEditorTransaction: Undo Move Actors
+[2019.10.26-04.41.39:542][846]Cmd: TRANSACTION UNDO
+[2019.10.26-04.41.39:542][846]LogEditorTransaction: Undo Move Actors
+[2019.10.26-04.41.39:986][872]Cmd: TRANSACTION UNDO
+[2019.10.26-04.41.39:986][872]LogEditorTransaction: Undo Scale Actors
+[2019.10.26-04.41.40:593][908]Cmd: TRANSACTION UNDO
+[2019.10.26-04.41.40:593][908]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.26-04.41.41:695][972]Cmd: SELECT NONE
+[2019.10.26-04.42.03:294][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.42.50:449][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.44.02:505][118]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.26-04.44.27:657][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.44.42:604][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.26-04.45.08:591][198]Cmd: TRANSACTION UNDO
+[2019.10.26-04.45.08:591][198]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.45.08:662][198]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.45.10:349][378]Cmd: TRANSACTION UNDO
+[2019.10.26-04.45.10:349][378]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.45.10:416][378]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2019.10.26-04.45.10:570][387]Cmd: TRANSACTION UNDO
+[2019.10.26-04.45.10:570][387]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.45.10:638][387]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.45.10:703][387]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2019.10.26-04.45.10:741][387]Cmd: TRANSACTION UNDO
+[2019.10.26-04.45.10:741][387]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.45.10:820][387]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.45.10:862][387]Cmd: TRANSACTION UNDO
+[2019.10.26-04.45.10:862][387]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.45.10:941][387]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.45.10:990][387]Cmd: TRANSACTION UNDO
+[2019.10.26-04.45.10:990][387]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.45.11:084][387]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.45.14:451][755]Cmd: TRANSACTION UNDO
+[2019.10.26-04.45.14:451][755]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.45.14:513][755]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.45.14:646][760]Cmd: TRANSACTION UNDO
+[2019.10.26-04.45.14:647][760]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.45.14:712][760]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.45.14:805][761]Cmd: TRANSACTION UNDO
+[2019.10.26-04.45.14:805][761]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.45.14:866][761]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.45.14:968][762]Cmd: TRANSACTION UNDO
+[2019.10.26-04.45.14:968][762]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.45.15:028][762]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.45.15:121][763]Cmd: TRANSACTION UNDO
+[2019.10.26-04.45.15:121][763]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.26-04.45.15:183][763]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2019.10.26-04.45.17:810][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-04.45.18:906][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.10.26-04.45.18:912][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.26-04.45.18:948][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.10.26-04.45.19:202][164]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2019.10.26-04.45.19:203][164]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2019.10.26-04.45.19:204][164]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2019.10.26-04.45.19:205][164]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2019.10.26-04.45.20:402][164]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map00E83F464C4EA29649B512BF2ADC227C.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.26-04.45.20:448][164]LogFileHelpers: Saving map 'Halloween_Map' took 1.531
