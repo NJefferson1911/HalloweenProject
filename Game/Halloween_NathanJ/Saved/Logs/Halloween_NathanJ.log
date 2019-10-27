@@ -569,3 +569,212 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.27-18.07.39:549][  2]LogAssetRegistry: Asset discovery search completed in 25.3767 seconds
 [2019.10.27-18.07.39:555][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2019.10.27-18.07.39:555][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2019.10.27-18.09.47:899][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-18.09.47:934][857]LogSlate: Took 0.009976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.27-18.12.18:237][430]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sevarog_Status_Victory_020...
+[2019.10.27-18.12.18:340][430]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 626880 while cooking SoundWave /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sounds/SoundWaves/Sevarog_Status_Victory_020.Sevarog_Status_Victory_020.
+[2019.10.27-18.12.23:865][761]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sevarog_Status_Celebrate_030...
+[2019.10.27-18.12.23:923][761]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 575040 while cooking SoundWave /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sounds/SoundWaves/Sevarog_Status_Celebrate_030.Sevarog_Status_Celebrate_030.
+[2019.10.27-18.12.27:467][973]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sevarog_ProfilePoke_030_ALT...
+[2019.10.27-18.12.27:564][973]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 908160 while cooking SoundWave /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sounds/SoundWaves/Sevarog_ProfilePoke_030_ALT.Sevarog_ProfilePoke_030_ALT.
+[2019.10.27-18.12.33:073][302]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sevarog_ProfileDizzy_030...
+[2019.10.27-18.12.33:161][302]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 915840 while cooking SoundWave /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sounds/SoundWaves/Sevarog_ProfileDizzy_030.Sevarog_ProfileDizzy_030.
+[2019.10.27-18.12.38:082][595]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sevarog_Lore_Serath_020...
+[2019.10.27-18.12.38:175][595]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 892800 while cooking SoundWave /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sounds/SoundWaves/Sevarog_Lore_Serath_020.Sevarog_Lore_Serath_020.
+[2019.10.27-18.12.46:545][ 95]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sevarog_Lore_Countess_060...
+[2019.10.27-18.12.46:618][ 95]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 696960 while cooking SoundWave /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sounds/SoundWaves/Sevarog_Lore_Countess_060.Sevarog_Lore_Countess_060.
+[2019.10.27-18.13.09:252][450]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sevarog_Kill_Enemy_070...
+[2019.10.27-18.13.09:328][450]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 663360 while cooking SoundWave /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sounds/SoundWaves/Sevarog_Kill_Enemy_070.Sevarog_Kill_Enemy_070.
+[2019.10.27-18.13.13:339][689]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sevarog_Kill_FirstBlood_010...
+[2019.10.27-18.13.13:412][689]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 702720 while cooking SoundWave /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sounds/SoundWaves/Sevarog_Kill_FirstBlood_010.Sevarog_Kill_FirstBlood_010.
+[2019.10.27-18.13.17:842][953]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sevarog_Emote_Taunt_040...
+[2019.10.27-18.13.17:893][953]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 481920 while cooking SoundWave /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sounds/SoundWaves/Sevarog_Emote_Taunt_040.Sevarog_Emote_Taunt_040.
+[2019.10.27-18.13.21:698][177]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Sevarog_Ability_RMB_Engage_020...
+[2019.10.27-18.13.21:753][177]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 488640 while cooking SoundWave /Game/ParagonSevarog/Characters/Heroes/Sevarog/Sounds/SoundWaves/Sevarog_Ability_RMB_Engage_020.Sevarog_Ability_RMB_Engage_020.
+[2019.10.27-18.13.24:205][322]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Status_TeamDead_010...
+[2019.10.27-18.13.24:262][322]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 664336 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Status_TeamDead_010.Morigesh_Status_TeamDead_010.
+[2019.10.27-18.13.27:485][515]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Status_Defeat_030...
+[2019.10.27-18.13.27:590][515]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1116952 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Status_Defeat_030.Morigesh_Status_Defeat_030.
+[2019.10.27-18.13.33:642][878]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Status_Idle_010...
+[2019.10.27-18.13.33:757][878]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1240836 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Status_Idle_010.Morigesh_Status_Idle_010.
+[2019.10.27-18.13.37:341][ 93]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Status_Victory_010...
+[2019.10.27-18.13.37:442][ 93]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1101144 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Status_Victory_010.Morigesh_Status_Victory_010.
+[2019.10.27-18.13.43:437][451]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Lore_TheFey_110...
+[2019.10.27-18.13.43:523][451]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 879256 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Lore_TheFey_110.Morigesh_Lore_TheFey_110.
+[2019.10.27-18.13.47:472][687]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Lore_Rampage_020...
+[2019.10.27-18.13.47:557][687]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 945208 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Lore_Rampage_020.Morigesh_Lore_Rampage_020.
+[2019.10.27-18.14.03:259][626]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Lore_Narbash_010...
+[2019.10.27-18.14.03:352][626]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 963268 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Lore_Narbash_010.Morigesh_Lore_Narbash_010.
+[2019.10.27-18.14.11:314][102]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Lore_Kill_Khaimera_020...
+[2019.10.27-18.14.11:400][102]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 860532 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Lore_Kill_Khaimera_020.Morigesh_Lore_Kill_Khaimera_020.
+[2019.10.27-18.14.20:588][649]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Emote_070...
+[2019.10.27-18.14.20:657][649]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 695040 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Emote_070.Morigesh_Emote_070.
+[2019.10.27-18.14.25:432][934]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Effort_Laugh_011...
+[2019.10.27-18.14.25:497][934]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 508800 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Effort_Laugh_011.Morigesh_Effort_Laugh_011.
+[2019.10.27-18.14.28:966][142]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Effort_Laugh_010...
+[2019.10.27-18.14.29:030][142]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 601996 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Effort_Laugh_010.Morigesh_Effort_Laugh_010.
+[2019.10.27-18.14.32:068][324]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Effort_Laugh_012...
+[2019.10.27-18.14.32:121][324]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 525028 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Effort_Laugh_012.Morigesh_Effort_Laugh_012.
+[2019.10.27-18.14.34:693][478]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Effort_Laugh_013...
+[2019.10.27-18.14.34:743][478]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 551320 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Effort_Laugh_013.Morigesh_Effort_Laugh_013.
+[2019.10.27-18.14.38:937][728]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Effort_BreathingLowHealth_014...
+[2019.10.27-18.14.39:132][728]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2210024 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Effort_BreathingLowHealth_014.Morigesh_Effort_BreathingLowHealth_014.
+[2019.10.27-18.14.41:167][850]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Effort_Ability_Ultimate_012...
+[2019.10.27-18.14.41:233][850]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 601888 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Effort_Ability_Ultimate_012.Morigesh_Effort_Ability_Ultimate_012.
+[2019.10.27-18.14.43:690][996]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Death_050...
+[2019.10.27-18.14.43:742][996]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 496348 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Death_050.Morigesh_Death_050.
+[2019.10.27-18.14.46:473][159]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Morigesh_Catchphrase_060...
+[2019.10.27-18.14.46:674][159]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1753128 while cooking SoundWave /Game/ParagonMorigesh/Audio/Wavs/Morigesh_Catchphrase_060.Morigesh_Catchphrase_060.
+[2019.10.27-18.57.46:719][953]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.27-18.58.00:814][995]AssetReimport: New page: Outstanding source content changes 8:58:00 AM
+[2019.10.27-18.58.00:901][995]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crows_Cawing.wav)
+[2019.10.27-18.58.01:692][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Crows_Cawing" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crows_Cawing.uasset" SILENT=true
+[2019.10.27-18.58.01:721][996]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Crows_CawingADA15DC9408F3F4120254C9FB017A7E3.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crows_Cawing.uasset'
+[2019.10.27-18.58.04:752][176]AssetReimport: Importing new asset /Game/Sound/Crows_Cawing.
+[2019.10.27-18.58.08:100][351]LogRenderer: Reallocating scene render targets to support 1268x596 Format 10 NumSamples 1 (Frame:24822).
+[2019.10.27-18.58.08:166][352]LogRenderer: Reallocating scene render targets to support 1268x604 Format 10 NumSamples 1 (Frame:24824).
+[2019.10.27-18.58.08:246][353]LogRenderer: Reallocating scene render targets to support 1268x616 Format 10 NumSamples 1 (Frame:24826).
+[2019.10.27-18.58.08:307][354]LogRenderer: Reallocating scene render targets to support 1268x628 Format 10 NumSamples 1 (Frame:24828).
+[2019.10.27-18.58.08:390][355]LogRenderer: Reallocating scene render targets to support 1268x640 Format 10 NumSamples 1 (Frame:24830).
+[2019.10.27-18.58.08:453][356]LogRenderer: Reallocating scene render targets to support 1268x652 Format 10 NumSamples 1 (Frame:24832).
+[2019.10.27-18.58.08:504][357]LogRenderer: Reallocating scene render targets to support 1268x660 Format 10 NumSamples 1 (Frame:24834).
+[2019.10.27-18.58.08:575][358]LogRenderer: Reallocating scene render targets to support 1268x664 Format 10 NumSamples 1 (Frame:24836).
+[2019.10.27-18.58.08:628][359]LogRenderer: Reallocating scene render targets to support 1268x668 Format 10 NumSamples 1 (Frame:24838).
+[2019.10.27-18.58.17:214][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-18.58.30:011][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-18.59.12:856][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.00.20:184][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.00.41:820][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.00.53:547][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.00.53:618][100]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.00.53:642][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.00.53:644][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.00.53:646][100]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:00:53 AM)
+[2019.10.27-19.00.53:670][100]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.00.53:795][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125542s)
+[2019.10.27-19.00.53:796][100]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.00.53:797][100]LogPlayLevel: PIE: World Init took: (0.002163s)
+[2019.10.27-19.00.53:797][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.128543s)
+[2019.10.27-19.00.53:868][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.10.27-19.00.53:876][100]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.00.53:938][100]LogInit: FAudioDevice initialized.
+[2019.10.27-19.00.53:987][100]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.00.54:072][100]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.00.54
+[2019.10.27-19.00.54:085][100]LogWorld: Bringing up level for play took: 0.080690
+[2019.10.27-19.00.54:129][100]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.10.27-19.00.54:141][100]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.842
+[2019.10.27-19.00.54:141][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.00.54:174][100]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Crows_Cawing...
+[2019.10.27-19.00.55:585][100]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 16934208 while cooking SoundWave /Game/Sound/Crows_Cawing.Crows_Cawing.
+[2019.10.27-19.02.20:099][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.02.20:101][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.02.20:147][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.02.20:148][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.02.20:198][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.02.20:212][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.10.27-19.02.20:256][166]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.10.27-19.02.32:107][869]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crows_Cawing)
+[2019.10.27-19.02.37:785][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-19.03.03:388][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.03.36:030][641]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.10.27-19.03.49:067][418]Cmd: SELECT NONE
+[2019.10.27-19.04.10:500][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.04.31:649][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.04.50:939][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.04.59:267][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.05.59:322][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.06.23:315][586]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Sound/Crows_Cawing_Cue.Crows_Cawing_Cue
+[2019.10.27-19.06.23:415][586]LogSlate: Took 0.006361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.27-19.07.04:542][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.10.27-19.07.06:157][648]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto14F6913DA47022EAAA969B3BEEF39CE9F.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto1.umap'
+[2019.10.27-19.07.06:165][648]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.670
+[2019.10.27-19.07.06:165][648]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.670
+[2019.10.27-19.07.06:170][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/Crows_Cawing_Cue] ([1] browsable assets)...
+[2019.10.27-19.07.06:170][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/Crows_Cawing_Cue]
+[2019.10.27-19.07.06:179][648]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Crows_Cawing_Cue_Auto1661EFA02414B4512A8C30D95F52EFD0E.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Sound/Crows_Cawing_Cue_Auto1.uasset'
+[2019.10.27-19.07.06:181][648]LogFileHelpers: Auto-saving content packages took 0.013
+[2019.10.27-19.08.37:236][998]LogSlate: Window 'Crows_Cawing_Cue' being destroyed
+[2019.10.27-19.08.37:243][998]LogSlate: Window 'Crows_Cawing_Cue' being destroyed
+[2019.10.27-19.10.25:376][908]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Sound/Crows_Cawing_Cue.Crows_Cawing_Cue
+[2019.10.27-19.10.39:229][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Crows_Cawing_Cue" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crows_Cawing_Cue.uasset" SILENT=true
+[2019.10.27-19.10.39:238][733]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Crows_Cawing_CueB432C9E249BB21A4BB898FB48854F240.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crows_Cawing_Cue.uasset'
+[2019.10.27-19.11.10:783][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Crows_Cawing_Cue" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crows_Cawing_Cue.uasset" SILENT=true
+[2019.10.27-19.11.10:800][620]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Crows_Cawing_Cue674E8718476C767DB1F0499671B1E752.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crows_Cawing_Cue.uasset'
+[2019.10.27-19.11.12:145][700]LogSlate: Window 'Crows_Cawing_Cue' being destroyed
+[2019.10.27-19.11.12:150][700]LogSlate: Window 'Crows_Cawing_Cue' being destroyed
+[2019.10.27-19.11.25:748][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.11.25:814][509]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.11.25:832][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.11.25:832][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.11.25:832][509]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:11:25 AM)
+[2019.10.27-19.11.25:832][509]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.11.25:965][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132777s)
+[2019.10.27-19.11.25:966][509]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.11.25:966][509]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2019.10.27-19.11.25:966][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.134135s)
+[2019.10.27-19.11.26:004][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.10.27-19.11.26:011][509]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.11.26:080][509]LogInit: FAudioDevice initialized.
+[2019.10.27-19.11.26:119][509]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.11.26:157][509]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.11.26
+[2019.10.27-19.11.26:163][509]LogWorld: Bringing up level for play took: 0.042995
+[2019.10.27-19.11.26:178][509]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.879
+[2019.10.27-19.11.26:178][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.12.20:227][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.12.20:227][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.12.20:273][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.12.20:273][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.12.20:312][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.12.20:319][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.10.27-19.12.20:348][746]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.10.27-19.12.25:401][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.12.40:951][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-19.13.01:992][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.14.00:297][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.14.16:464][597]Cmd: TRANSACTION UNDO
+[2019.10.27-19.14.16:464][597]LogEditorTransaction: Undo Edit X
+[2019.10.27-19.14.17:646][666]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.14.17:663][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.14.17:663][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.14.17:663][666]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:14:17 AM)
+[2019.10.27-19.14.17:663][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.14.17:778][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114912s)
+[2019.10.27-19.14.17:779][666]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.14.17:783][666]LogPlayLevel: PIE: World Init took: (0.004978s)
+[2019.10.27-19.14.17:784][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.120265s)
+[2019.10.27-19.14.17:816][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.10.27-19.14.17:821][666]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.14.17:892][666]LogInit: FAudioDevice initialized.
+[2019.10.27-19.14.17:919][666]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.14.17:970][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.14.17
+[2019.10.27-19.14.17:976][666]LogWorld: Bringing up level for play took: 0.055377
+[2019.10.27-19.14.17:990][666]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.691
+[2019.10.27-19.14.17:990][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.15.43:409][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.15.43:409][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.15.43:453][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.15.43:453][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.15.43:491][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.15.43:505][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.27-19.15.43:533][782]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.10.27-19.15.54:066][399]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crows_Cawing)
+[2019.10.27-19.15.57:233][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.16.35:138][761]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crows_Cawing)
+[2019.10.27-19.16.36:991][869]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crows_Cawing_Cue)
+[2019.10.27-19.16.40:729][ 90]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crows_Cawing)
+[2019.10.27-19.16.41:581][137]Cmd: DELETE
+[2019.10.27-19.16.41:581][137]Cmd: ACTOR DELETE
+[2019.10.27-19.16.41:613][137]LogEditorActor: Deleted Actor: AmbientSound
+[2019.10.27-19.16.41:640][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.10.27-19.16.41:640][137]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.10.27-19.16.43:326][238]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crows_Cawing_Cue)
+[2019.10.27-19.16.56:561][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.17.37:050][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.17.50:715][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.18.02:577][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.18.13:614][617]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-19.18.14:393][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.27-19.18.14:399][662]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-19.18.14:436][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.27-19.18.16:007][662]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map3DA7570C4592647656512FB18473CB03.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.27-19.18.16:075][662]LogFileHelpers: Saving map 'Halloween_Map' took 1.670
