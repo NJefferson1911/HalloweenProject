@@ -676,3 +676,95 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.27-04.28.35:035][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.27-04.28.39:140][849]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
 [2019.10.27-04.28.39:236][850]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2019.10.27-04.29.34:367][894]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2019.10.27-04.29.34:598][911]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2019.10.27-04.29.34:675][912]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2019.10.27-04.29.37:429][230]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2019.10.27-04.29.37:518][231]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2019.10.27-04.29.37:659][238]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2019.10.27-04.29.37:739][239]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2019.10.27-04.29.50:618][762]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2019.10.27-04.29.50:728][765]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2019.10.27-04.32.17:028][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.32.28:416][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.32.38:226][592]Cmd: TRANSACTION UNDO
+[2019.10.27-04.32.38:226][592]LogEditorTransaction: Undo Landscape Editing: Paint
+[2019.10.27-04.32.38:303][592]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2019.10.27-04.32.38:373][592]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2019.10.27-04.33.34:804][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-04.33.45:053][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.34.08:540][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.34.13:306][ 11]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.27-04.34.50:864][883]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.27-04.35.01:379][ 20]Cmd: SELECT NONE
+[2019.10.27-04.36.02:491][826]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.27-04.36.06:237][244]Cmd: SELECT NONE
+[2019.10.27-04.37.13:333][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.39.24:013][882]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.27-04.40.59:645][252]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.27-04.41.09:378][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.41.16:735][ 86]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.27-04.41.21:920][688]Cmd: SELECT NONE
+[2019.10.27-04.41.22:046][703]Cmd: SELECT NONE
+[2019.10.27-04.41.48:212][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.41.52:848][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.41.56:831][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.41.59:092][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.42.03:959][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.42.11:223][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.42.24:803][738]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.27-04.42.28:202][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.42.31:845][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.42.36:116][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.42.42:819][665]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2019.10.27-04.43.58:520][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.44.13:661][224]Cmd: SELECT NONE
+[2019.10.27-04.44.13:778][238]Cmd: SELECT NONE
+[2019.10.27-04.44.13:895][252]Cmd: SELECT NONE
+[2019.10.27-04.44.21:617][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.44.30:781][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.45.39:108][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-04.45.47:045][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.46.49:683][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.27-04.46.49:688][719]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-04.46.49:722][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.27-04.46.49:974][719]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2019.10.27-04.46.49:981][719]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2019.10.27-04.46.49:982][719]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2019.10.27-04.46.49:982][719]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2019.10.27-04.46.49:983][719]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2019.10.27-04.46.49:984][719]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2019.10.27-04.46.49:985][719]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2019.10.27-04.46.49:985][719]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2019.10.27-04.46.49:986][719]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2019.10.27-04.46.49:987][719]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2019.10.27-04.46.49:988][719]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2019.10.27-04.46.49:989][719]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2019.10.27-04.46.49:989][719]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2019.10.27-04.46.49:990][719]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2019.10.27-04.46.49:992][719]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2019.10.27-04.46.51:209][719]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map7145F4D44774FE7627B850BD8EC15603.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.27-04.46.51:260][719]LogFileHelpers: Saving map 'Halloween_Map' took 1.564
+[2019.10.27-04.47.16:609][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-04.47.51:631][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.47.56:075][939]Cmd: SELECT NONE
+[2019.10.27-04.47.57:902][153]Cmd: SELECT NONE
+[2019.10.27-04.47.59:582][350]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.10.27-04.47.59:966][391]Cmd: SELECT NONE
+[2019.10.27-04.48.02:815][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-04.48.13:000][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.48.59:756][512]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-04.55.17:865][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.57.14:417][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-04.57.27:073][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-04.57.31:066][631]Cmd: SELECT NONE
+[2019.10.27-04.57.32:604][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_26)
+[2019.10.27-04.57.33:426][881]Cmd: SELECT NONE
+[2019.10.27-04.57.57:579][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-04.57.58:550][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.10.27-04.57.58:558][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-04.57.58:591][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.10.27-04.57.58:852][508]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2019.10.27-04.57.58:853][508]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2019.10.27-04.58.00:105][508]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_MapDFFFD1984BEA36B5138411A6CDF32B50.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.27-04.58.00:140][508]LogFileHelpers: Saving map 'Halloween_Map' took 1.577
