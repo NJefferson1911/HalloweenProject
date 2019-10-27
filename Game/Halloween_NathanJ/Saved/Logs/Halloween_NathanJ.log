@@ -778,3 +778,702 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.27-19.18.14:436][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2019.10.27-19.18.16:007][662]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map3DA7570C4592647656512FB18473CB03.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
 [2019.10.27-19.18.16:075][662]LogFileHelpers: Saving map 'Halloween_Map' took 1.670
+[2019.10.27-19.18.42:755][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.18.42:839][848]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.18.42:856][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.18.42:856][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.18.42:856][848]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:18:42 AM)
+[2019.10.27-19.18.42:857][848]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.18.42:968][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112051s)
+[2019.10.27-19.18.42:969][848]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.18.42:969][848]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2019.10.27-19.18.42:969][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.113092s)
+[2019.10.27-19.18.43:010][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2019.10.27-19.18.43:014][848]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.18.43:077][848]LogInit: FAudioDevice initialized.
+[2019.10.27-19.18.43:106][848]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.18.43:153][848]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.18.43
+[2019.10.27-19.18.43:159][848]LogWorld: Bringing up level for play took: 0.051280
+[2019.10.27-19.18.43:173][848]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.126
+[2019.10.27-19.18.43:173][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.19.40:097][256]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.19.40:098][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.19.40:142][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.19.40:142][256]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.19.40:197][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.19.40:208][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.10.27-19.19.40:232][257]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.10.27-19.19.45:447][549]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crows_Cawing_Cue)
+[2019.10.27-19.19.53:133][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-19.20.04:474][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-19.20.10:159][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-19.20.31:447][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.20.34:806][463]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.20.34:824][463]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.20.34:824][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.20.34:824][463]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:20:34 AM)
+[2019.10.27-19.20.34:824][463]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.20.34:938][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114321s)
+[2019.10.27-19.20.34:938][463]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.20.34:939][463]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2019.10.27-19.20.34:939][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.115760s)
+[2019.10.27-19.20.34:970][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.10.27-19.20.34:975][463]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.20.35:037][463]LogInit: FAudioDevice initialized.
+[2019.10.27-19.20.35:068][463]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.20.35:102][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.20.35
+[2019.10.27-19.20.35:108][463]LogWorld: Bringing up level for play took: 0.038619
+[2019.10.27-19.20.35:122][463]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.177
+[2019.10.27-19.20.35:122][463]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.21.00:007][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.21.00:007][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.21.00:048][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.21.00:048][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.21.00:081][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.21.00:090][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.27-19.21.00:118][950]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.10.27-19.21.07:859][411]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crows_Cawing_Cue)
+[2019.10.27-19.22.09:522][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.22.14:424][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.10.27-19.22.14:463][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.10.27-19.22.15:917][325]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_MapA69DF3964C0BE462F64ADC9BFBDE3C0E.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.27-19.22.15:969][325]LogFileHelpers: Saving map 'Halloween_Map' took 1.533
+[2019.10.27-19.22.17:556][419]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.22.17:572][419]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.22.17:572][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.22.17:572][419]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:22:17 AM)
+[2019.10.27-19.22.17:572][419]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.22.17:689][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116094s)
+[2019.10.27-19.22.17:690][419]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.22.17:690][419]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2019.10.27-19.22.17:690][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.117218s)
+[2019.10.27-19.22.17:721][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.10.27-19.22.17:727][419]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.22.17:789][419]LogInit: FAudioDevice initialized.
+[2019.10.27-19.22.17:818][419]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.22.17:877][419]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.22.17
+[2019.10.27-19.22.17:883][419]LogWorld: Bringing up level for play took: 0.064104
+[2019.10.27-19.22.17:897][419]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.598
+[2019.10.27-19.22.17:897][419]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.22.28:102][ 26]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.22.28:103][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.22.28:150][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.22.28:150][ 26]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.22.28:209][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.22.28:220][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.10.27-19.22.28:246][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.10.27-19.22.33:898][363]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.10.27-19.22.34:703][410]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crows_Cawing_Cue)
+[2019.10.27-19.22.40:439][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.22.40:506][746]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.22.40:523][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.22.40:523][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.22.40:523][746]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:22:40 AM)
+[2019.10.27-19.22.40:523][746]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.22.40:640][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117503s)
+[2019.10.27-19.22.40:641][746]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.22.40:641][746]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2019.10.27-19.22.40:641][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.118784s)
+[2019.10.27-19.22.40:675][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.10.27-19.22.40:679][746]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.22.40:743][746]LogInit: FAudioDevice initialized.
+[2019.10.27-19.22.40:773][746]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.22.40:824][746]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.22.40
+[2019.10.27-19.22.40:830][746]LogWorld: Bringing up level for play took: 0.055516
+[2019.10.27-19.22.40:844][746]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.455
+[2019.10.27-19.22.40:844][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.22.52:444][437]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.22.52:445][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.22.52:490][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.22.52:490][437]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.22.52:527][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.22.52:536][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.27-19.22.52:560][438]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.10.27-19.22.59:674][862]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crows_Cawing_Cue)
+[2019.10.27-19.23.01:230][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.23.30:238][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.23.30:322][667]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.23.30:339][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.23.30:340][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.23.30:340][667]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:23:30 AM)
+[2019.10.27-19.23.30:340][667]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.23.30:452][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112765s)
+[2019.10.27-19.23.30:453][667]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.23.30:453][667]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2019.10.27-19.23.30:453][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.114385s)
+[2019.10.27-19.23.30:485][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.10.27-19.23.30:488][667]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.23.30:549][667]LogInit: FAudioDevice initialized.
+[2019.10.27-19.23.30:580][667]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.23.30:640][667]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.23.30
+[2019.10.27-19.23.30:646][667]LogWorld: Bringing up level for play took: 0.064292
+[2019.10.27-19.23.30:659][667]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.64
+[2019.10.27-19.23.30:660][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.24.46:520][210]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.24.46:520][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.24.46:567][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.24.46:568][210]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.24.46:624][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.24.46:635][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.10.27-19.24.46:660][211]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.10.27-19.24.55:277][726]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crows_Cawing_Cue)
+[2019.10.27-19.25.14:194][855]Cmd: SELECT NONE
+[2019.10.27-19.31.00:077][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.31.00:158][238]AssetReimport: New page: Outstanding source content changes 9:31:00 AM
+[2019.10.27-19.31.00:168][238]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crickets.wav)
+[2019.10.27-19.31.00:280][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Crickets" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crickets.uasset" SILENT=true
+[2019.10.27-19.31.00:293][239]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/CricketsAFB693BE40C8A7E13D218C944C8E56C9.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crickets.uasset'
+[2019.10.27-19.31.03:307][419]AssetReimport: Importing new asset /Game/Sound/Crickets.
+[2019.10.27-19.31.12:819][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.31.20:175][429]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Sound/Crickets_Cue.Crickets_Cue
+[2019.10.27-19.31.36:511][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Crickets_Cue" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crickets_Cue.uasset" SILENT=true
+[2019.10.27-19.31.36:521][404]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Crickets_Cue9817632840ABC7F64C43C48DA0C14023.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Crickets_Cue.uasset'
+[2019.10.27-19.31.38:684][533]LogSlate: Window 'Crickets_Cue' being destroyed
+[2019.10.27-19.31.38:690][533]LogSlate: Window 'Crickets_Cue' being destroyed
+[2019.10.27-19.31.47:205][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-19.32.05:841][124]Cmd: SELECT NONE
+[2019.10.27-19.32.10:715][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.32.10:765][415]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.32.10:782][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.32.10:782][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.32.10:782][415]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:32:10 AM)
+[2019.10.27-19.32.10:782][415]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.32.10:895][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112713s)
+[2019.10.27-19.32.10:896][415]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.32.10:896][415]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2019.10.27-19.32.10:896][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.113933s)
+[2019.10.27-19.32.10:965][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.10.27-19.32.10:971][415]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.32.11:034][415]LogInit: FAudioDevice initialized.
+[2019.10.27-19.32.11:064][415]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.32.11:120][415]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.32.11
+[2019.10.27-19.32.11:126][415]LogWorld: Bringing up level for play took: 0.060695
+[2019.10.27-19.32.11:141][415]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.158
+[2019.10.27-19.32.11:141][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.32.11:150][415]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Crickets...
+[2019.10.27-19.32.11:308][415]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1622880 while cooking SoundWave /Game/Sound/Crickets.Crickets.
+[2019.10.27-19.32.24:899][230]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.32.24:899][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.32.24:942][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.32.24:942][230]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.32.24:991][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.32.25:002][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.27-19.32.25:018][231]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.10.27-19.32.31:040][573]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crickets_Cue)
+[2019.10.27-19.32.33:118][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.33.22:887][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.33.42:427][805]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.33.42:447][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.33.42:447][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.33.42:447][805]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:33:42 AM)
+[2019.10.27-19.33.42:448][805]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.33.42:563][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115841s)
+[2019.10.27-19.33.42:564][805]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.33.42:564][805]LogPlayLevel: PIE: World Init took: (0.000816s)
+[2019.10.27-19.33.42:564][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.117036s)
+[2019.10.27-19.33.42:594][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.10.27-19.33.42:599][805]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.33.42:665][805]LogInit: FAudioDevice initialized.
+[2019.10.27-19.33.42:692][805]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.33.42:727][805]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.33.42
+[2019.10.27-19.33.42:733][805]LogWorld: Bringing up level for play took: 0.040117
+[2019.10.27-19.33.42:747][805]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.552
+[2019.10.27-19.33.42:747][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.33.55:821][583]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.33.55:821][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.33.55:862][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.33.55:862][583]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.33.55:896][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.33.55:908][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.27-19.33.55:936][584]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.27-19.34.04:359][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.34.08:335][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.34.08:402][323]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.34.08:419][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.34.08:419][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.34.08:420][323]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:34:08 AM)
+[2019.10.27-19.34.08:420][323]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.34.08:532][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112906s)
+[2019.10.27-19.34.08:533][323]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.34.08:533][323]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2019.10.27-19.34.08:533][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.114299s)
+[2019.10.27-19.34.08:564][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.27-19.34.08:568][323]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.34.08:630][323]LogInit: FAudioDevice initialized.
+[2019.10.27-19.34.08:662][323]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.34.08:713][323]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.34.08
+[2019.10.27-19.34.08:719][323]LogWorld: Bringing up level for play took: 0.055410
+[2019.10.27-19.34.08:733][323]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.566
+[2019.10.27-19.34.08:733][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.34.30:231][608]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.34.30:231][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.34.30:276][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.34.30:277][608]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.34.30:340][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.34.30:350][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.27-19.34.30:372][609]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.27-19.34.35:720][926]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crickets_Cue)
+[2019.10.27-19.35.04:217][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.35.07:176][758]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.35.07:194][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.35.07:194][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.35.07:194][758]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:35:07 AM)
+[2019.10.27-19.35.07:194][758]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.35.07:304][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108800s)
+[2019.10.27-19.35.07:304][758]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.35.07:305][758]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2019.10.27-19.35.07:305][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.110339s)
+[2019.10.27-19.35.07:334][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.10.27-19.35.07:338][758]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.35.07:399][758]LogInit: FAudioDevice initialized.
+[2019.10.27-19.35.07:434][758]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.35.07:495][758]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.35.07
+[2019.10.27-19.35.07:504][758]LogWorld: Bringing up level for play took: 0.068684
+[2019.10.27-19.35.07:519][758]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.219
+[2019.10.27-19.35.07:519][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.35.16:959][320]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.35.16:959][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.35.17:001][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.35.17:001][320]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.35.17:038][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.35.17:048][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.10.27-19.35.17:073][321]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.27-19.35.23:520][705]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crickets_Cue)
+[2019.10.27-19.35.26:946][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.35.47:056][114]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.35.47:073][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.35.47:074][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.35.47:074][114]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:35:47 AM)
+[2019.10.27-19.35.47:074][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.35.47:184][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110035s)
+[2019.10.27-19.35.47:185][114]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.35.47:185][114]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2019.10.27-19.35.47:186][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.111442s)
+[2019.10.27-19.35.47:214][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.10.27-19.35.47:218][114]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.35.47:284][114]LogInit: FAudioDevice initialized.
+[2019.10.27-19.35.47:318][114]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.35.47:372][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.35.47
+[2019.10.27-19.35.47:378][114]LogWorld: Bringing up level for play took: 0.058580
+[2019.10.27-19.35.47:391][114]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.093
+[2019.10.27-19.35.47:392][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.36.13:108][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.36.13:109][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.36.13:156][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.36.13:157][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.36.13:217][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.36.13:226][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.10.27-19.36.13:254][653]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.27-19.36.22:727][219]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.36.44:977][517]Cmd: SELECT NONE
+[2019.10.27-19.36.46:880][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.36.46:997][638]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.36.47:015][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.36.47:015][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.36.47:015][638]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:36:47 AM)
+[2019.10.27-19.36.47:015][638]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.36.47:126][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110240s)
+[2019.10.27-19.36.47:127][638]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.36.47:127][638]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2019.10.27-19.36.47:127][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.111959s)
+[2019.10.27-19.36.47:158][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.27-19.36.47:163][638]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.36.47:223][638]LogInit: FAudioDevice initialized.
+[2019.10.27-19.36.47:255][638]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.36.47:308][638]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.36.47
+[2019.10.27-19.36.47:317][638]LogWorld: Bringing up level for play took: 0.059851
+[2019.10.27-19.36.47:331][638]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.032
+[2019.10.27-19.36.47:331][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.37.43:385][994]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.37.43:385][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.37.43:430][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.37.43:430][994]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.37.43:469][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.37.43:479][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.27-19.37.43:506][995]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.27-19.37.46:105][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.38.11:405][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.38.38:906][278]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.38.38:923][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.38.38:923][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.38.38:923][278]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:38:38 AM)
+[2019.10.27-19.38.38:923][278]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.38.39:040][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116865s)
+[2019.10.27-19.38.39:041][278]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.38.39:041][278]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2019.10.27-19.38.39:041][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.118417s)
+[2019.10.27-19.38.39:070][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.10.27-19.38.39:075][278]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.38.39:138][278]LogInit: FAudioDevice initialized.
+[2019.10.27-19.38.39:165][278]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.38.39:201][278]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.38.39
+[2019.10.27-19.38.39:208][278]LogWorld: Bringing up level for play took: 0.041126
+[2019.10.27-19.38.39:222][278]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.077
+[2019.10.27-19.38.39:222][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.39.46:126][285]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.39.46:126][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.39.46:166][285]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.39.46:166][285]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.39.46:206][285]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.39.46:216][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.27-19.39.46:243][286]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.27-19.39.48:547][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.40.09:393][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.40.36:723][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.41.03:448][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.41.03:513][806]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.41.03:530][806]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.41.03:531][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.41.03:531][806]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:41:03 AM)
+[2019.10.27-19.41.03:531][806]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.41.03:641][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.109659s)
+[2019.10.27-19.41.03:641][806]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.41.03:642][806]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2019.10.27-19.41.03:642][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.111154s)
+[2019.10.27-19.41.03:675][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.10.27-19.41.03:683][806]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.41.03:748][806]LogInit: FAudioDevice initialized.
+[2019.10.27-19.41.03:775][806]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.41.03:824][806]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.41.03
+[2019.10.27-19.41.03:830][806]LogWorld: Bringing up level for play took: 0.055061
+[2019.10.27-19.41.03:845][806]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.546
+[2019.10.27-19.41.03:845][806]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.41.18:663][689]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.41.18:663][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.41.18:705][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.41.18:705][689]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.41.18:743][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.41.18:749][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.10.27-19.41.18:776][690]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.27-19.41.24:518][ 31]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.10.27-19.41.25:627][ 90]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2019.10.27-19.41.26:658][151]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crickets_Cue2)
+[2019.10.27-19.41.31:385][418]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-19.42.09:792][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.42.09:859][645]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.42.09:877][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.42.09:877][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.42.09:877][645]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:42:09 AM)
+[2019.10.27-19.42.09:877][645]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.42.09:988][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110528s)
+[2019.10.27-19.42.09:989][645]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.42.09:989][645]LogPlayLevel: PIE: World Init took: (0.001115s)
+[2019.10.27-19.42.09:989][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.112062s)
+[2019.10.27-19.42.10:021][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.10.27-19.42.10:028][645]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.42.10:092][645]LogInit: FAudioDevice initialized.
+[2019.10.27-19.42.10:122][645]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.42.10:156][645]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.42.10
+[2019.10.27-19.42.10:163][645]LogWorld: Bringing up level for play took: 0.039168
+[2019.10.27-19.42.10:176][645]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.878
+[2019.10.27-19.42.10:177][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.43.07:285][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.43.07:285][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.43.07:327][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.43.07:327][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.43.07:387][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.43.07:396][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.10.27-19.43.07:422][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.27-19.43.12:248][352]LogEditorViewport: Clicking on Actor (LMB): BP_GoodSky_C (BP_GoodSky)
+[2019.10.27-19.43.13:122][402]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Crickets_Cue2)
+[2019.10.27-19.43.16:784][611]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.27-19.43.39:654][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.43.39:721][951]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.43.39:739][951]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.43.39:739][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.43.39:739][951]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:43:39 AM)
+[2019.10.27-19.43.39:739][951]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.43.39:853][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113565s)
+[2019.10.27-19.43.39:854][951]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.43.39:855][951]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2019.10.27-19.43.39:855][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.115106s)
+[2019.10.27-19.43.39:889][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.10.27-19.43.39:896][951]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.43.39:960][951]LogInit: FAudioDevice initialized.
+[2019.10.27-19.43.39:993][951]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.43.40:047][951]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.43.40
+[2019.10.27-19.43.40:053][951]LogWorld: Bringing up level for play took: 0.058362
+[2019.10.27-19.43.40:067][951]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.768
+[2019.10.27-19.43.40:068][951]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.43.56:660][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.43.56:661][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.43.56:705][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.43.56:705][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.43.56:757][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.43.56:765][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.10.27-19.43.56:791][941]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.10.27-19.44.00:672][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.44.11:502][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.44.11:568][811]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.44.11:586][811]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.44.11:586][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.44.11:586][811]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:44:11 AM)
+[2019.10.27-19.44.11:586][811]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.44.11:702][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114755s)
+[2019.10.27-19.44.11:702][811]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.44.11:703][811]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2019.10.27-19.44.11:703][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.116236s)
+[2019.10.27-19.44.11:734][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.10.27-19.44.11:739][811]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.44.11:803][811]LogInit: FAudioDevice initialized.
+[2019.10.27-19.44.11:833][811]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.44.11:894][811]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.44.11
+[2019.10.27-19.44.11:900][811]LogWorld: Bringing up level for play took: 0.064545
+[2019.10.27-19.44.11:913][811]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.615
+[2019.10.27-19.44.11:914][811]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.45.32:426][633]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.45.32:426][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.45.32:464][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.45.32:464][633]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.45.32:522][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.45.32:532][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.10.27-19.45.32:555][634]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.10.27-19.45.34:526][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.46.04:029][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.46.28:478][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.46.28:527][953]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.46.28:545][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.46.28:545][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.46.28:545][953]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:46:28 AM)
+[2019.10.27-19.46.28:546][953]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.46.28:659][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113969s)
+[2019.10.27-19.46.28:660][953]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.46.28:660][953]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2019.10.27-19.46.28:660][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.115397s)
+[2019.10.27-19.46.28:691][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.10.27-19.46.28:695][953]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.46.28:759][953]LogInit: FAudioDevice initialized.
+[2019.10.27-19.46.28:788][953]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.46.28:844][953]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.46.28
+[2019.10.27-19.46.28:850][953]LogWorld: Bringing up level for play took: 0.059967
+[2019.10.27-19.46.28:863][953]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.436
+[2019.10.27-19.46.28:864][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.46.39:121][559]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.46.39:121][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.46.39:162][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.46.39:162][559]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.46.39:197][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.46.39:206][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.10.27-19.46.39:232][560]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.10.27-19.46.42:674][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.47.14:356][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.47.17:990][877]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.47.18:010][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.47.18:010][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.47.18:010][877]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:47:18 AM)
+[2019.10.27-19.47.18:010][877]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.47.18:122][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.112893s)
+[2019.10.27-19.47.18:123][877]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.47.18:124][877]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2019.10.27-19.47.18:124][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.114588s)
+[2019.10.27-19.47.18:153][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.10.27-19.47.18:157][877]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.47.18:220][877]LogInit: FAudioDevice initialized.
+[2019.10.27-19.47.18:253][877]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.47.18:307][877]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.47.18
+[2019.10.27-19.47.18:313][877]LogWorld: Bringing up level for play took: 0.057389
+[2019.10.27-19.47.18:327][877]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 1.027
+[2019.10.27-19.47.18:327][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.47.31:814][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.47.31:815][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.47.31:861][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.47.31:862][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.47.31:898][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.47.31:907][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.10.27-19.47.31:933][683]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.10.27-19.47.36:582][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.47.52:717][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.48.00:860][401]Cmd: SELECT NONE
+[2019.10.27-19.48.01:466][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.48.01:549][442]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.48.01:565][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.48.01:566][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.48.01:566][442]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:48:01 AM)
+[2019.10.27-19.48.01:566][442]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.48.01:681][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114928s)
+[2019.10.27-19.48.01:682][442]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.48.01:682][442]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2019.10.27-19.48.01:683][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.116417s)
+[2019.10.27-19.48.01:711][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.10.27-19.48.01:715][442]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.48.01:776][442]LogInit: FAudioDevice initialized.
+[2019.10.27-19.48.01:806][442]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.48.01:863][442]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.48.01
+[2019.10.27-19.48.01:871][442]LogWorld: Bringing up level for play took: 0.063372
+[2019.10.27-19.48.01:883][442]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.585
+[2019.10.27-19.48.01:884][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.48.10:313][943]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.48.10:313][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.48.10:358][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.48.10:359][943]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.48.10:412][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.48.10:422][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.10.27-19.48.10:452][944]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.10.27-19.48.12:158][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.48.25:783][858]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.48.25:801][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.48.25:802][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.48.25:802][858]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:48:25 AM)
+[2019.10.27-19.48.25:802][858]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.48.25:910][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108393s)
+[2019.10.27-19.48.25:911][858]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.48.25:912][858]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2019.10.27-19.48.25:912][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.109972s)
+[2019.10.27-19.48.25:939][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.10.27-19.48.25:943][858]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.48.26:005][858]LogInit: FAudioDevice initialized.
+[2019.10.27-19.48.26:034][858]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.48.26:091][858]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.48.26
+[2019.10.27-19.48.26:096][858]LogWorld: Bringing up level for play took: 0.060212
+[2019.10.27-19.48.26:110][858]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.811
+[2019.10.27-19.48.26:112][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.49.37:702][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.49.37:702][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.49.37:751][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.49.37:752][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.49.37:815][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.49.37:825][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.10.27-19.49.37:855][145]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.10.27-19.50.10:427][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.27-19.50.12:196][686]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto26FE8BEFA4F6BCB01C61568ACE236BE90.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto2.umap'
+[2019.10.27-19.50.12:211][686]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.820
+[2019.10.27-19.50.12:211][686]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.820
+[2019.10.27-19.53.54:266][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.53.54:346][514]AssetReimport: New page: Outstanding source content changes 9:53:54 AM
+[2019.10.27-19.53.54:491][514]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Wind.wav)
+[2019.10.27-19.53.55:925][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Wind" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Wind.uasset" SILENT=true
+[2019.10.27-19.53.55:974][515]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/WindA50DFA5F411786FE3CBAC3BA98E9D214.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Wind.uasset'
+[2019.10.27-19.53.56:574][549]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.53.58:989][693]AssetReimport: Importing new asset /Game/Sound/Wind.
+[2019.10.27-19.54.06:114][117]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Sound/Wind_Cue.Wind_Cue
+[2019.10.27-19.54.12:043][468]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Sound/Crows_Cawing_Cue.Crows_Cawing_Cue
+[2019.10.27-19.54.13:937][577]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Sound/Crickets_Cue.Crickets_Cue
+[2019.10.27-19.54.30:850][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Wind_Cue" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Wind_Cue.uasset" SILENT=true
+[2019.10.27-19.54.30:861][585]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Wind_Cue8E9760324647BC36AAEC1A8E7B6BEB37.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Wind_Cue.uasset'
+[2019.10.27-19.54.32:253][668]LogSlate: Window 'Crickets_Cue' being destroyed
+[2019.10.27-19.54.32:259][668]LogSlate: Window 'Crickets_Cue' being destroyed
+[2019.10.27-19.55.07:823][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.55.19:639][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.56.11:467][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.56.11:516][551]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.56.11:533][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.56.11:534][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.56.11:534][551]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:56:11 AM)
+[2019.10.27-19.56.11:534][551]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.56.11:649][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114628s)
+[2019.10.27-19.56.11:650][551]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.56.11:650][551]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2019.10.27-19.56.11:651][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.116505s)
+[2019.10.27-19.56.11:681][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.10.27-19.56.11:687][551]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.56.11:752][551]LogInit: FAudioDevice initialized.
+[2019.10.27-19.56.11:778][551]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.56.11:817][551]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.56.11
+[2019.10.27-19.56.11:823][551]LogWorld: Bringing up level for play took: 0.044092
+[2019.10.27-19.56.11:837][551]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.538
+[2019.10.27-19.56.11:837][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.56.15:392][755]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Wind...
+[2019.10.27-19.56.18:370][755]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 29804544 while cooking SoundWave /Game/Sound/Wind.Wind.
+[2019.10.27-19.57.24:473][718]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.57.24:473][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.57.24:520][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.57.24:521][718]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.57.24:579][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.57.24:590][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.10.27-19.57.24:619][719]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.10.27-19.57.29:718][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.57.50:773][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.57.50:822][262]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.57.50:840][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.57.50:840][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.57.50:840][262]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:57:50 AM)
+[2019.10.27-19.57.50:841][262]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.57.50:956][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114696s)
+[2019.10.27-19.57.50:956][262]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.57.50:956][262]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2019.10.27-19.57.50:957][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.115835s)
+[2019.10.27-19.57.50:990][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.10.27-19.57.50:995][262]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.57.51:057][262]LogInit: FAudioDevice initialized.
+[2019.10.27-19.57.51:089][262]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.57.51:121][262]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.57.51
+[2019.10.27-19.57.51:127][262]LogWorld: Bringing up level for play took: 0.038563
+[2019.10.27-19.57.51:140][262]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.158
+[2019.10.27-19.57.51:141][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.57.55:974][547]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.57.55:975][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.57.56:021][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.57.56:021][547]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.57.56:079][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.57.56:089][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.10.27-19.57.56:099][548]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.10.27-19.58.08:744][303]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.58.08:762][303]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.58.08:762][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.58.08:762][303]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:58:08 AM)
+[2019.10.27-19.58.08:762][303]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.58.08:877][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114799s)
+[2019.10.27-19.58.08:878][303]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.58.08:878][303]LogPlayLevel: PIE: World Init took: (0.000846s)
+[2019.10.27-19.58.08:878][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.116104s)
+[2019.10.27-19.58.08:906][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.10.27-19.58.08:910][303]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.58.08:973][303]LogInit: FAudioDevice initialized.
+[2019.10.27-19.58.09:004][303]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.58.09:042][303]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.58.09
+[2019.10.27-19.58.09:049][303]LogWorld: Bringing up level for play took: 0.041676
+[2019.10.27-19.58.09:063][303]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.237
+[2019.10.27-19.58.09:063][303]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.59.16:288][326]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.59.16:288][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.59.16:325][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-19.59.16:325][326]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.59.16:378][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-19.59.16:387][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.10.27-19.59.16:409][327]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.10.27-19.59.19:130][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-19.59.30:876][192]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.27-19.59.30:894][192]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-19.59.30:894][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.27-19.59.30:894][192]PIE: New page: PIE session: Halloween_Map (Oct 27, 2019, 9:59:30 AM)
+[2019.10.27-19.59.30:894][192]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.27-19.59.31:010][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.116573s)
+[2019.10.27-19.59.31:011][192]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.27-19.59.31:011][192]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2019.10.27-19.59.31:011][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.117946s)
+[2019.10.27-19.59.31:040][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.10.27-19.59.31:044][192]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.27-19.59.31:106][192]LogInit: FAudioDevice initialized.
+[2019.10.27-19.59.31:135][192]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.27-19.59.31:169][192]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.27-14.59.31
+[2019.10.27-19.59.31:175][192]LogWorld: Bringing up level for play took: 0.038897
+[2019.10.27-19.59.31:189][192]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map -0.11
+[2019.10.27-19.59.31:189][192]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-20.01.29:274][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-20.01.29:275][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-20.01.29:322][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.27-20.01.29:323][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.27-20.01.29:380][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.27-20.01.29:389][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.10.27-20.01.29:409][270]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.10.27-20.04.38:134][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.10.27-20.04.39:781][161]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto335D9C3324EAC985C21F4C8B1C7950D22.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto3.umap'
+[2019.10.27-20.04.39:786][161]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.701
+[2019.10.27-20.04.39:786][161]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.701
+[2019.10.27-20.09.22:778][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-20.09.22:842][ 72]AssetReimport: New page: Outstanding source content changes 10:09:22 AM
+[2019.10.27-20.09.22:874][ 72]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Torch_Fire.wav)
+[2019.10.27-20.09.23:211][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Torch_Fire" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Torch_Fire.uasset" SILENT=true
+[2019.10.27-20.09.23:222][ 73]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Torch_FireAD222FEB4B5FFA60D2AE7E8716EF97BB.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Torch_Fire.uasset'
+[2019.10.27-20.09.25:100][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.27-20.09.26:240][252]AssetReimport: Importing new asset /Game/Sound/Torch_Fire.
+[2019.10.27-20.09.32:019][599]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Torch_Fire...
+[2019.10.27-20.09.32:635][599]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 6171892 while cooking SoundWave /Game/Sound/Torch_Fire.Torch_Fire.
+[2019.10.27-20.09.40:698][ 79]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Sound/Torch_Fire_Cue.Torch_Fire_Cue
+[2019.10.27-20.09.54:528][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Torch_Fire_Cue" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Torch_Fire_Cue.uasset" SILENT=true
+[2019.10.27-20.09.54:538][903]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Torch_Fire_CueDF38798B46A8215C0D1D9EA30B5BE277.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/Torch_Fire_Cue.uasset'
+[2019.10.27-20.09.55:380][953]LogSlate: Window 'Torch_Fire_Cue' being destroyed
+[2019.10.27-20.10.01:930][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.10.27-20.10.01:968][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.27-20.10.03:567][343]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_MapEFC23FED4249ED7A8381129888DA5635.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.27-20.10.03:638][343]LogFileHelpers: Saving map 'Halloween_Map' took 1.696
