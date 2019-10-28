@@ -926,3 +926,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.28-22.06.01:439][280]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.040
 [2019.10.28-22.16.02:143][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
 [2019.10.28-22.16.02:143][ 72]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 0.034
+[2019.10.28-22.25.16:929][846]AssetReimport: New page: Outstanding source content changes 12:25:16 PM
+[2019.10.28-22.25.17:111][846]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/DungeonSounds.wav)
+[2019.10.28-22.25.18:555][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/DungeonSounds" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/DungeonSounds.uasset" SILENT=true
+[2019.10.28-22.25.18:589][847]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/DungeonSounds2C66DFDE47C5DD20177DA294FB106C97.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/DungeonSounds.uasset'
+[2019.10.28-22.25.21:610][116]AssetReimport: Importing new asset /Game/Sound/DungeonSounds.
+[2019.10.28-22.26.10:561][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/DungeonSounds_Cue" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/DungeonSounds_Cue.uasset" SILENT=true
+[2019.10.28-22.26.10:569][ 95]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/DungeonSounds_CueB35BBEB64B2D6721FE3BE7BE225D67C8.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/DungeonSounds_Cue.uasset'
+[2019.10.28-22.26.13:891][410]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Sound/DungeonSounds_Cue.DungeonSounds_Cue
+[2019.10.28-22.26.13:998][410]LogSlate: Took 0.007499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.28-22.26.30:395][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/DungeonSounds_Cue" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/DungeonSounds_Cue.uasset" SILENT=true
+[2019.10.28-22.26.30:408][  0]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/DungeonSounds_CueFB4CA9C64E40880D983BF39D705EFDDA.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Sound/DungeonSounds_Cue.uasset'
+[2019.10.28-22.26.32:685][200]LogSlate: Window 'DungeonSounds_Cue' being destroyed
+[2019.10.28-22.26.49:037][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-22.27.45:117][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-22.27.56:760][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.28-22.28.03:403][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.28-22.29.17:057][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.10.28-22.29.17:063][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.28-22.29.17:101][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.10.28-22.29.18:767][ 96]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map709CAC0D4C6D99828ADCAD9402EA2E88.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.28-22.29.18:803][ 96]LogFileHelpers: Saving map 'Halloween_Map' took 1.734
+[2019.10.28-22.29.18:808][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.28-22.29.33:527][ 96]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_BuiltDataAB52E879481C3AA45E9904973E0C1F95.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.28-22.29.33:542][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Halloween_Map_BuiltData" FILE="C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset" SILENT=true
+[2019.10.28-22.29.47:923][ 96]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_BuiltDataB7F7374C41129509DE16E2B2EADED9B7.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map_BuiltData.uasset'
+[2019.10.28-22.30.29:362][171]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (41.355 sec). This should never happen. Something is wrong with the timer delegate!
