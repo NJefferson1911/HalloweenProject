@@ -1363,3 +1363,319 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.29-03.01.18:744][798]LogEditorActor: Deleted 1 Actors (0.052 secs)
 [2019.10.29-03.01.45:730][416]Cmd: TRANSACTION UNDO
 [2019.10.29-03.01.45:730][416]LogEditorTransaction: Undo Delete Actors
+[2019.10.29-03.03.58:148][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.04.19:477][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-03.04.22:871][928]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-03.04.30:857][406]LogSlate: Window 'Select Path' being destroyed
+[2019.10.29-03.04.53:339][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.05.56:697][483]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Idle.Idle
+[2019.10.29-03.05.56:697][483]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Idle.Idle) using current/default (AnimCompress_PerTrackCompression_93) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.05.56:736][483]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Idle.Idle
+[2019.10.29-03.05.57:697][483]LogTexture: Display: Building textures: T_DreadlockHairSet_01_ID (G8, 4096X4096)
+[2019.10.29-03.05.57:697][483]LogMaterial: Display: Missing cached shader map for material M_Morigesh_Dreadlocks_2, compiling. 
+[2019.10.29-03.05.57:833][483]LogSkeletalMesh: Building Skeletal Mesh Morigesh...
+[2019.10.29-03.05.58:139][483]LogSkeletalMesh: Built Skeletal Mesh [0.31s] /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Meshes/Morigesh.Morigesh
+[2019.10.29-03.05.58:147][483]LogMaterial: Display: Missing cached shader map for material M_Eye_Occlusion, compiling. 
+[2019.10.29-03.05.58:261][483]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.10.29-03.05.58:587][483]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.05.58:609][483]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2019.10.29-03.05.58:698][483]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.05.59:322][483]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.06.30:637][496]LogSlate: Window 'Idle' being destroyed
+[2019.10.29-03.06.30:642][496]LogSlate: Window 'Idle' being destroyed
+[2019.10.29-03.06.37:226][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.06.37:362][864]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Emote_Taunt.Emote_Taunt
+[2019.10.29-03.06.37:362][864]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Emote_Taunt.Emote_Taunt) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.06.38:822][864]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Emote_Taunt.Emote_Taunt
+[2019.10.29-03.06.38:831][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.06.38:868][864]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.06.39:226][864]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.06.45:984][243]LogSlate: Window 'Emote_Taunt' being destroyed
+[2019.10.29-03.06.45:987][243]LogSlate: Window 'Emote_Taunt' being destroyed
+[2019.10.29-03.06.52:614][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.06.52:736][585]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Cast.Cast
+[2019.10.29-03.06.52:736][585]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Cast.Cast) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.06.52:888][585]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Cast.Cast
+[2019.10.29-03.06.52:896][585]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.06.52:930][585]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.06.53:293][585]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.06.55:809][711]LogSlate: Window 'Cast' being destroyed
+[2019.10.29-03.06.55:813][711]LogSlate: Window 'Cast' being destroyed
+[2019.10.29-03.06.57:169][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.06.57:320][765]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Bound.Bound
+[2019.10.29-03.06.57:321][765]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Bound.Bound) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.06.57:343][765]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Bound.Bound
+[2019.10.29-03.06.57:354][765]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.06.57:386][765]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.06.57:711][765]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.07.00:614][914]LogSlate: Window 'Bound' being destroyed
+[2019.10.29-03.07.00:619][914]LogSlate: Window 'Bound' being destroyed
+[2019.10.29-03.07.31:742][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.07.31:851][653]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_E_Targeting_Idle.Ability_E_Targeting_Idle
+[2019.10.29-03.07.31:851][653]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_E_Targeting_Idle.Ability_E_Targeting_Idle) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.07.31:873][653]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_E_Targeting_Idle.Ability_E_Targeting_Idle
+[2019.10.29-03.07.31:884][653]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.07.31:919][653]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.07.32:293][653]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.07.34:848][766]LogSlate: Window 'Ability_E_Targeting_Idle' being destroyed
+[2019.10.29-03.07.34:854][766]LogSlate: Window 'Ability_E_Targeting_Idle' being destroyed
+[2019.10.29-03.07.37:568][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.07.37:691][888]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_E_InMotion_MSA.Ability_E_InMotion_MSA
+[2019.10.29-03.07.37:692][888]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_E_InMotion_MSA.Ability_E_InMotion_MSA) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.07.38:327][888]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_E_InMotion_MSA.Ability_E_InMotion_MSA
+[2019.10.29-03.07.38:335][888]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.07.38:372][888]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.07.38:754][888]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.07.42:754][ 96]LogSlate: Window 'Ability_E_InMotion_MSA' being destroyed
+[2019.10.29-03.07.42:758][ 96]LogSlate: Window 'Ability_E_InMotion_MSA' being destroyed
+[2019.10.29-03.07.43:630][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.07.43:757][131]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_E.Ability_E
+[2019.10.29-03.07.43:758][131]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_E.Ability_E) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.07.43:791][131]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_E.Ability_E
+[2019.10.29-03.07.43:802][131]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.07.43:832][131]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.07.44:199][131]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.07.48:190][353]LogSlate: Window 'Ability_E' being destroyed
+[2019.10.29-03.07.48:195][353]LogSlate: Window 'Ability_E' being destroyed
+[2019.10.29-03.07.49:218][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.07.49:373][396]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_Q_Targeting_MSA.Ability_Q_Targeting_MSA
+[2019.10.29-03.07.49:382][396]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_Q_Targeting_MSA.Ability_Q_Targeting_MSA) using current/default (AnimCompress_PerTrackCompression_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.07.49:727][396]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_Q_Targeting_AdditiveBase.Ability_Q_Targeting_AdditiveBase
+[2019.10.29-03.07.49:728][396]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_Q_Targeting_AdditiveBase.Ability_Q_Targeting_AdditiveBase) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.07.49:756][396]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_Q_Targeting_MSA.Ability_Q_Targeting_MSA
+[2019.10.29-03.07.49:766][396]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.07.49:799][396]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.07.50:165][396]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.07.55:282][634]LogSlate: Window 'Ability_Q_Targeting_MSA' being destroyed
+[2019.10.29-03.07.55:286][634]LogSlate: Window 'Ability_Q_Targeting_MSA' being destroyed
+[2019.10.29-03.07.56:428][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.07.56:546][683]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_Q_Targeting_Start.Ability_Q_Targeting_Start
+[2019.10.29-03.07.56:547][683]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_Q_Targeting_Start.Ability_Q_Targeting_Start) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.07.56:879][683]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_Q_Targeting_Start.Ability_Q_Targeting_Start
+[2019.10.29-03.07.56:888][683]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.07.56:924][683]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.07.57:299][683]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.07.59:893][807]LogSlate: Window 'Ability_Q_Targeting_Start' being destroyed
+[2019.10.29-03.07.59:897][807]LogSlate: Window 'Ability_Q_Targeting_Start' being destroyed
+[2019.10.29-03.08.00:676][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.08.00:818][842]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_Q_Targeting_Start_MSA.Ability_Q_Targeting_Start_MSA
+[2019.10.29-03.08.00:821][842]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_Q_Targeting_Start_MSA.Ability_Q_Targeting_Start_MSA) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.01:023][842]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_Q_Targeting_Start_MSA.Ability_Q_Targeting_Start_MSA
+[2019.10.29-03.08.01:031][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.08.01:066][842]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.08.01:436][842]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.08.03:695][953]LogSlate: Window 'Ability_Q_Targeting_Start_MSA' being destroyed
+[2019.10.29-03.08.03:698][953]LogSlate: Window 'Ability_Q_Targeting_Start_MSA' being destroyed
+[2019.10.29-03.08.04:431][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.08.04:598][985]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_R.Ability_R
+[2019.10.29-03.08.04:598][985]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_R.Ability_R) using current/default (AnimCompress_PerTrackCompression_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.05:653][985]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Ability_R.Ability_R
+[2019.10.29-03.08.05:661][985]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.08.05:695][985]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.08.06:032][985]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.08.11:335][275]LogSlate: Window 'Ability_R' being destroyed
+[2019.10.29-03.08.11:339][275]LogSlate: Window 'Ability_R' being destroyed
+[2019.10.29-03.08.16:406][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.08.16:552][491]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Idle.Idle
+[2019.10.29-03.08.16:570][491]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.08.16:602][491]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.08.16:934][491]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.08.31:131][217]LogSlate: Window 'Idle' being destroyed
+[2019.10.29-03.08.31:135][217]LogSlate: Window 'Idle' being destroyed
+[2019.10.29-03.08.32:836][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.08.45:194][ 38]LogSlate: Window 'Select Path' being destroyed
+[2019.10.29-03.08.46:100][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-03.08.49:112][268]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.29-03.08.54:675][600]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.10.29-03.08.55:115][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_LC.Idle_AO_LC
+[2019.10.29-03.08.55:116][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_LC.Idle_AO_LC) using current/default (AnimCompress_PerTrackCompression_107) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:137][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_CU.Idle_AO_CU
+[2019.10.29-03.08.55:137][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_CU.Idle_AO_CU) using current/default (AnimCompress_PerTrackCompression_99) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:159][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_RD.Idle_AO_RD
+[2019.10.29-03.08.55:159][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_RD.Idle_AO_RD) using current/default (AnimCompress_PerTrackCompression_121) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:160][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_RC.Idle_AO_RC
+[2019.10.29-03.08.55:161][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_RC.Idle_AO_RC) using current/default (AnimCompress_PerTrackCompression_119) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:162][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_LD.Idle_AO_LD
+[2019.10.29-03.08.55:162][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_LD.Idle_AO_LD) using current/default (AnimCompress_PerTrackCompression_109) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:163][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_LU.Idle_AO_LU
+[2019.10.29-03.08.55:164][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_LU.Idle_AO_LU) using current/default (AnimCompress_PerTrackCompression_111) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:188][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Fwd_CircleRight.Jog_Fwd_CircleRight
+[2019.10.29-03.08.55:188][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Fwd_CircleRight.Jog_Fwd_CircleRight) using current/default (AnimCompress_PerTrackCompression_19) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:291][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Uphill_Fwd.Jog_Uphill_Fwd
+[2019.10.29-03.08.55:291][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Uphill_Fwd.Jog_Uphill_Fwd) using current/default (AnimCompress_PerTrackCompression_15) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:345][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/PrimaryAttack_A_Slow.PrimaryAttack_A_Slow
+[2019.10.29-03.08.55:345][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/PrimaryAttack_A_Slow.PrimaryAttack_A_Slow) using current/default (AnimCompress_PerTrackCompression_133) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:673][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_CC.Idle_AO_CC
+[2019.10.29-03.08.55:673][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_CC.Idle_AO_CC) using current/default (AnimCompress_PerTrackCompression_95) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:673][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_CD.Idle_AO_CD
+[2019.10.29-03.08.55:674][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_CD.Idle_AO_CD) using current/default (AnimCompress_PerTrackCompression_97) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:675][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/LevelStart.LevelStart
+[2019.10.29-03.08.55:675][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/LevelStart.LevelStart) using current/default (AnimCompress_PerTrackCompression_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:685][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Fwd_Start.Jog_Fwd_Start
+[2019.10.29-03.08.55:686][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Fwd_Start.Jog_Fwd_Start) using current/default (AnimCompress_PerTrackCompression_185) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:934][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_RU.Idle_AO_RU
+[2019.10.29-03.08.55:935][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/AimOffset/Idle_AO_RU.Idle_AO_RU) using current/default (AnimCompress_PerTrackCompression_123) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:937][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jump_Start.Jump_Start
+[2019.10.29-03.08.55:937][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jump_Start.Jump_Start) using current/default (AnimCompress_PerTrackCompression_196) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.55:976][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Downhill_Fwd.Jog_Downhill_Fwd
+[2019.10.29-03.08.55:976][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Downhill_Fwd.Jog_Downhill_Fwd) using current/default (AnimCompress_PerTrackCompression_17) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.56:032][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jump_Recovery_Additive.Jump_Recovery_Additive
+[2019.10.29-03.08.56:036][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jump_Recovery_Additive.Jump_Recovery_Additive) using current/default (AnimCompress_PerTrackCompression_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.56:131][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jump_Apex.Jump_Apex
+[2019.10.29-03.08.56:132][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jump_Apex.Jump_Apex) using current/default (AnimCompress_PerTrackCompression_193) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.56:181][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jump_Preland.Jump_Preland
+[2019.10.29-03.08.56:182][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jump_Preland.Jump_Preland) using current/default (AnimCompress_PerTrackCompression_194) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.56:209][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Fwd_Stop.Jog_Fwd_Stop
+[2019.10.29-03.08.56:209][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Fwd_Stop.Jog_Fwd_Stop) using current/default (AnimCompress_PerTrackCompression_186) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.56:220][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Fwd.Jog_Fwd
+[2019.10.29-03.08.56:221][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Fwd.Jog_Fwd) using current/default (AnimCompress_PerTrackCompression_13) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.08.56:322][600]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Fwd_CircleLeft.Jog_Fwd_CircleLeft
+[2019.10.29-03.08.56:322][600]LogAnimationCompression: Recompressing (AnimSequence /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Jog_Fwd_CircleLeft.Jog_Fwd_CircleLeft) using current/default (AnimCompress_PerTrackCompression_21) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.10.29-03.09.35:397][838]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Morigesh_AnimBlueprint.Morigesh_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Morigesh_AnimBlueprint.Morigesh_AnimBlueprint_C:ExecuteUbergraph_Morigesh_AnimBlueprint
+
+[2019.10.29-03.09.40:011][ 94]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Morigesh_AnimBlueprint.Morigesh_AnimBlueprint
+[2019.10.29-03.09.40:036][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.09.40:461][ 94]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 121 classes and 0 folders.
+[2019.10.29-03.09.41:356][ 94]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.09.50:550][574]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/Blendspaces/JogFwdSlopeLean.JogFwdSlopeLean
+[2019.10.29-03.09.50:562][574]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.29-03.09.50:590][574]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.29-03.09.50:958][574]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.29-03.10.02:923][232]BlueprintLog: New page: Compile Morigesh_AnimBlueprint
+[2019.10.29-03.10.03:188][232]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Morigesh_AnimBlueprint.Morigesh_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonMorigesh/Characters/Heroes/Morigesh/Morigesh_AnimBlueprint.Morigesh_AnimBlueprint_C:ExecuteUbergraph_Morigesh_AnimBlueprint
+
+[2019.10.29-03.10.03:313][232]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2019.10.29-03.10.04:135][261]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Morigesh_AnimBlueprintF8677A644F5340BAF2795FAB62497143.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/ParagonMorigesh/Characters/Heroes/Morigesh/Morigesh_AnimBlueprint.uasset'
+[2019.10.29-03.10.26:159][318]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Morigesh_AnimBlueprintAC38FCFE455BF867084060B9F45209EF.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/ParagonMorigesh/Characters/Heroes/Morigesh/Morigesh_AnimBlueprint.uasset'
+[2019.10.29-03.10.27:063][369]LogSlate: Window 'Morigesh_AnimBlueprint' being destroyed
+[2019.10.29-03.10.41:815][213]LogSlate: Window 'Select Path' being destroyed
+[2019.10.29-03.10.41:877][213]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2019.10.29-03.10.41:910][213]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ParagonMorigesh/Morigesh_DarkHeart_Blueprint.Morigesh_DarkHeart_Blueprint
+[2019.10.29-03.10.56:215][ 28]LogSlate: Took 0.009600 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.29-03.11.01:389][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.29-03.11.03:072][295]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto3FAA96E2F41DA35F0DE57C89F89263BD3.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto3.umap'
+[2019.10.29-03.11.03:077][295]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 1.727
+[2019.10.29-03.11.03:077][295]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.727
+[2019.10.29-03.11.03:080][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonMorigesh/Morigesh_DarkHeart_Blueprint] ([1] browsable assets)...
+[2019.10.29-03.11.03:093][295]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ParagonMorigesh/Morigesh_DarkHeart_Blueprint.Morigesh_DarkHeart_Blueprint]
+[2019.10.29-03.11.03:093][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMorigesh/Morigesh_DarkHeart_Blueprint]
+[2019.10.29-03.11.03:115][295]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Morigesh_DarkHeart_Blueprint_AutEA2DD57C496641B4F7E04898794214B5.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/ParagonMorigesh/Morigesh_DarkHeart_Blueprint_Auto3.uasset'
+[2019.10.29-03.11.03:116][295]LogFileHelpers: Auto-saving content packages took 0.036
+[2019.10.29-03.11.41:313][486]BlueprintLog: New page: Compile Morigesh_DarkHeart_Blueprint
+[2019.10.29-03.11.41:650][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.10.29-03.11.42:276][515]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Morigesh_DarkHeart_Blueprint178DC6CA424AD709788E4C93B1D2ACF3.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/ParagonMorigesh/Morigesh_DarkHeart_Blueprint.uasset'
+[2019.10.29-03.11.43:361][579]LogSlate: Window 'Morigesh_DarkHeart_Blueprint' being destroyed
+[2019.10.29-03.11.44:872][664]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-03.11.44:891][664]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.29-03.11.44:891][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-03.11.44:891][664]PIE: New page: PIE session: Halloween_Map (Oct 28, 2019, 5:11:44 PM)
+[2019.10.29-03.11.44:891][664]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.29-03.11.45:009][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117995s)
+[2019.10.29-03.11.45:010][664]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.29-03.11.45:010][664]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2019.10.29-03.11.45:010][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.119139s)
+[2019.10.29-03.11.45:075][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.10.29-03.11.45:084][664]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.29-03.11.45:149][664]LogInit: FAudioDevice initialized.
+[2019.10.29-03.11.45:177][664]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.29-03.11.45:217][664]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.28-22.11.45
+[2019.10.29-03.11.45:223][664]LogWorld: Bringing up level for play took: 0.044710
+[2019.10.29-03.11.45:237][664]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.778
+[2019.10.29-03.11.45:237][664]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.29-03.11.47:214][778]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.10.29-03.13.41:439][623]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.29-03.13.41:439][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-03.13.41:485][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-03.13.41:485][623]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.29-03.13.41:535][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-03.13.41:549][623]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.10.29-03.13.41:581][624]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2019.10.29-03.13.44:309][786]LogEditorViewport: Clicking on Actor (LMB): Morigesh_DarkHeart_Blueprint_C (Morigesh_DarkHeart_Blueprint)
+[2019.10.29-03.13.51:401][190]LogEditorViewport: Clicking on Actor (LMB): BP_FireCoals_01a_C (BP_FireCoals_01a3)
+[2019.10.29-03.13.57:262][530]LogEditorViewport: Clicking on Actor (LMB): Morigesh_DarkHeart_Blueprint_C (Morigesh_DarkHeart_Blueprint)
+[2019.10.29-03.14.16:787][662]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Torch_Fire_Cue19)
+[2019.10.29-03.14.20:073][853]LogEditorViewport: Clicking on Actor (LMB): Morigesh_DarkHeart_Blueprint_C (Morigesh_DarkHeart_Blueprint)
+[2019.10.29-03.14.42:208][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Alter24)
+[2019.10.29-03.14.48:236][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.10.29-03.14.48:243][517]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-03.14.48:285][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.29-03.14.49:904][517]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map83A8F11B48364820CDF638983F13234B.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.29-03.14.49:963][517]LogFileHelpers: Saving map 'Halloween_Map' took 1.713
+[2019.10.29-03.14.51:722][620]Cmd: DELETE
+[2019.10.29-03.14.51:722][620]Cmd: ACTOR DELETE
+[2019.10.29-03.14.51:742][620]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-03.14.51:783][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2019.10.29-03.14.51:784][620]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2019.10.29-03.14.53:456][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OrnateChest_02c)
+[2019.10.29-03.14.57:463][957]LogEditorViewport: Clicking on Actor (CTRL LMB): AmbientSound (Swirling_Cue)
+[2019.10.29-03.15.02:326][231]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (P_Whirlwind_Poison_Typhoon_01)
+[2019.10.29-03.15.17:645][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OrnateChest_02c)
+[2019.10.29-03.15.28:451][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_OrnateChest_02d)
+[2019.10.29-03.15.33:345][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.15.33:411][ 38]Cmd: MODE ROTGRID=0
+[2019.10.29-03.16.15:415][484]Cmd: SELECT NONE
+[2019.10.29-03.18.21:536][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Alter10)
+[2019.10.29-03.18.24:157][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_23)
+[2019.10.29-03.18.26:654][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Stairs_24)
+[2019.10.29-03.18.27:853][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall23)
+[2019.10.29-03.18.29:389][446]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Gargoyle_Statue)
+[2019.10.29-03.18.30:055][481]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Dungeon_Wall36)
+[2019.10.29-03.18.41:667][168]Cmd: SELECT NONE
+[2019.10.29-03.18.59:326][226]LogEditorViewport: Clicking on Actor (LMB): Morigesh_DarkHeart_Blueprint_C (Morigesh_DarkHeart_Blueprint)
+[2019.10.29-03.19.04:981][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.19.05:080][562]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.29-03.19.05:100][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.29-03.19.05:101][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.29-03.19.05:101][562]PIE: New page: PIE session: Halloween_Map (Oct 28, 2019, 5:19:05 PM)
+[2019.10.29-03.19.05:101][562]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Halloween_Map
+[2019.10.29-03.19.05:216][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115276s)
+[2019.10.29-03.19.05:217][562]LogAIModule: Creating AISystem for world Halloween_Map
+[2019.10.29-03.19.05:218][562]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2019.10.29-03.19.05:218][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Halloween_Map.Halloween_Map to /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map (0.117369s)
+[2019.10.29-03.19.05:260][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.10.29-03.19.05:265][562]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2019.10.29-03.19.05:324][562]LogInit: FAudioDevice initialized.
+[2019.10.29-03.19.05:354][562]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.29-03.19.05:389][562]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Halloween_Map.Halloween_Map up for play (max tick rate 60) at 2019.10.28-22.19.05
+[2019.10.29-03.19.05:395][562]LogWorld: Bringing up level for play took: 0.039721
+[2019.10.29-03.19.05:409][562]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Halloween_Map 0.95
+[2019.10.29-03.19.05:409][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.29-03.19.07:423][676]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonMorigesh/Characters/Heroes/Morigesh/Animations/LevelStart_Montage.LevelStart_Montage'
+[2019.10.29-03.21.27:487][ 71]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.29-03.21.27:488][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-03.21.27:531][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.29-03.21.27:531][ 71]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map' with GeneratedClass '/Game/Maps/Halloween_Map.Halloween_Map_C' with ClassGeneratedBy '/Game/Maps/Halloween_Map.Halloween_Map:PersistentLevel.Halloween_Map'
+[2019.10.29-03.21.27:598][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.29-03.21.27:608][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2019.10.29-03.21.27:637][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2019.10.29-03.21.39:309][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.22.02:020][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.22.02:584][131]LogActorFactory: Actor Factory created SM_Skeleton_01
+[2019.10.29-03.22.05:028][277]LogActorFactory: Actor Factory created SM_Skeleton_01
+[2019.10.29-03.22.08:760][495]Cmd: DELETE
+[2019.10.29-03.22.08:760][495]Cmd: ACTOR DELETE
+[2019.10.29-03.22.08:781][495]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.29-03.22.08:819][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.29-03.22.08:820][495]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2019.10.29-03.22.13:313][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.22.13:600][780]LogActorFactory: Actor Factory created SM_Skeleton_01
+[2019.10.29-03.22.17:359][  5]LogActorFactory: Actor Factory created SM_Skeleton_01
+[2019.10.29-03.22.29:681][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.22.29:747][720]Cmd: MODE SCALEGRID=0
+[2019.10.29-03.22.54:174][170]Cmd: SELECT NONE
+[2019.10.29-03.23.20:133][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Skeleton_01)
+[2019.10.29-03.23.23:168][900]Cmd: SELECT NONE
+[2019.10.29-03.23.32:042][431]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Whirlwind_Poison_Typhoon_01)
+[2019.10.29-03.23.37:168][733]Cmd: SELECT NONE
+[2019.10.29-03.23.44:352][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-03.23.45:509][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.10.29-03.23.45:516][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-03.23.45:561][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.10.29-03.23.47:158][219]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map1CE20B964593FFC3F878C8B69BC944BF.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.29-03.23.47:220][219]LogFileHelpers: Saving map 'Halloween_Map' took 1.699
