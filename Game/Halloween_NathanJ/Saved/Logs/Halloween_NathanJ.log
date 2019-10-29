@@ -1321,3 +1321,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.29-02.52.05:523][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
 [2019.10.29-02.52.05:539][822]LogPlayLevel: Display: Destroying online subsystem :Context_9
 [2019.10.29-02.52.08:446][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.10.29-02.57.35:050][656]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.29-02.57.35:057][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.57.36:306][731]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.57.37:260][731]LogSlate: Window 'Convert Matinee to Level Sequence Asset' being destroyed
+[2019.10.29-02.57.37:266][731]LogInit: Transaction tracking system initialized
+[2019.10.29-02.57.37:267][731]EditorErrors: New page: Matinee Initialization
+[2019.10.29-02.57.37:275][731]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.57.44:155][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.58.19:179][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.58.20:384][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.58.31:717][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.58.33:161][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.58.42:000][378]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.58.43:086][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.58.47:328][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.58.48:545][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.58.58:908][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.59.10:665][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.59.32:147][335]Cmd: SELECT NONE
+[2019.10.29-02.59.36:462][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Dungeon_Wall72)
+[2019.10.29-02.59.40:180][791]Cmd: SELECT NONE
+[2019.10.29-02.59.41:485][869]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-02.59.43:650][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-02.59.57:416][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.00.41:421][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.00.47:722][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.29-03.01.02:002][165]LogSlate: Window 'Message' being destroyed
+[2019.10.29-03.01.02:008][165]LogSlate: Window 'MatineeActor' being destroyed
+[2019.10.29-03.01.02:047][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.10.29-03.01.03:668][165]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map9E4E4E944B682C76DA1977B70FB680F5.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Content/Maps/Halloween_Map.umap'
+[2019.10.29-03.01.03:702][165]LogFileHelpers: Saving map 'Halloween_Map' took 1.692
+[2019.10.29-03.01.05:289][224]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.29-03.01.06:417][290]LogExit: Transaction tracking system shut down
+[2019.10.29-03.01.06:420][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.10.29-03.01.17:400][735]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Morigesh_DarkHeart)
+[2019.10.29-03.01.18:687][798]Cmd: DELETE
+[2019.10.29-03.01.18:687][798]Cmd: ACTOR DELETE
+[2019.10.29-03.01.18:713][798]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.10.29-03.01.18:743][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.10.29-03.01.18:744][798]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2019.10.29-03.01.45:730][416]Cmd: TRANSACTION UNDO
+[2019.10.29-03.01.45:730][416]LogEditorTransaction: Undo Delete Actors
