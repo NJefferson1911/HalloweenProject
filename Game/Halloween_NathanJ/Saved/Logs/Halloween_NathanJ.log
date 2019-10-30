@@ -741,3 +741,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.30-02.04.22:918][370]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has wrapping UVs.
 [2019.10.30-02.04.22:918][370]LightingResults: Warning: SM_DoorWay_Large_Door_Left Object has overlapping UVs.
 [2019.10.30-02.04.22:918][370]LightingResults: SM_DoorWay_Large_Door_Left Lightmap UV are overlapping by 61.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.10.30-02.07.07:813][857]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2019.10.30-02.07.10:803][857]LogSavePackage: Moving 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Halloween_Map_Auto207F41B0B45258BB281382EB2D480B112.tmp' to 'C:/Users/0ne5iveSe7en/Desktop/HalloweenProject/Game/Halloween_NathanJ/Saved/Autosaves/Game/Maps/Halloween_Map_Auto2.umap'
+[2019.10.30-02.07.10:847][857]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Halloween_Map' took 5.646
+[2019.10.30-02.07.10:847][857]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.646
